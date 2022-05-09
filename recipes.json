@@ -1,11 +1,223 @@
 [
   {
+    "attributes": "Middagsrett",
+    "title": "Hjemmelagede pølser med salvie og fennikel",
+    "description": "Lag dine egne pølser, så får du dem akkurat som du vil! Hjemmelagede pølser er ikke så vanskelig som det høres ut som, og det går fint an å lage farsen for hånd. Disse pølsene er krydret med salvie og fennikel, men her er det opp til deg hva de skal smake. ",
+    "steps": [
+      "1. Legg pølsetarmene i lunkent vann i 2 timer før de skal brukes.",
+      "2. Sørg for at alle ingrediensene er ordentlig kalde. Ha lammekjøttdeig, svinekjøttdeig og kvernet småflesk i en romslig arbeidsbolle og tilsett salt. Bruk hendene og bland kjøttdeigene godt med saltet til du merker at det blir klebrig/klissete.",
+      "3. Bland inn potetmel og spe inn melken i flere omganger. Bland godt mellom hver gang, men jobb raskt så farsen ikke blir for varm.",
+      "4. Finhakk løken og bland den i farsen sammen med salvie, grovknuste fennikelfrø og pepper. ",
+      "5. Form en liten \"prøvekake\", og stek den raskt i en panne. Smak på kaken, og kjenn etter om du trenger å justere farsen med mer krydder og salt.",
+      "6. Fyll pølsefarsen i pølsestapperen og tre pølsetarmene på pølsehornet.",
+      "7. Hvis du har en pølsestopper med sveiv kan det være fint å være to. Én som sveiver og én som passer på at pølsefarsen fylles jevnt i tarmen. Pølsa skal ikke bli for hard, da sprekker den lett. Og ikke for løs, da får ikke pølsa den fine spensten vi liker.",
+      "8. Bestem hvor lange du vil ha pølsene dine og tvinn annenhver pølse samme vei hver gang. Da går ikke tvinningene opp. Er farsen for hardt stappet i pølsetarmen kan pølsene lett sprekke. Er de litt løse, tvinn flere ganger for at pølsa skal bli litt strammere.",
+      "9. Når du har tvinnet ferdig er pølsene klare - for fryseren, grillen, stekepannen eller til å trekkes i vann. Det går fint å fryse pølsene rå. Del dem gjerne i litt mindre porsjoner, så de er lett å ta opp seinere. Rå pølser kan legges rett på grill eller stekepanne. Bruk indirekte varme på grillen, og middels høy varme i stekepannen. Følg med så pølsene ikke sprekker. Pølsene kan også trekkes i lettsaltet vann. Bruk en romslig kjele og trekk pølsene på 80 °C i ca. 20 minutter. Vannet må ikke koke – da kan pølsene sprekke. "
+    ],
+    "numberOfPeople": "1",
+    "ingredients": [
+      "5m fåretarm",
+      "500g kjøttdeig av lam",
+      "500g kjøttdeig av svin",
+      "150g kvernet småflesk",
+      "20g salt",
+      "50g potetmel",
+      "0,5l melk",
+      "0,5stk. løk",
+      "2ts tørket salvie (eller 2 ss frisk hakket)",
+      "1ts grovknust fennikelfrø",
+      "1ts kvernet pepper"
+    ],
+    "time": "Over 60 min",
+    "difficulty": "Middels"
+  },
+  {
+    "attributes": "Middagsrett",
+    "title": "Samosa fra Somalia",
+    "description": "Somaliske samosa består av kjøtt med deilige krydderier som spisskummen, garam masala og Hot Madras. For en ekstra sterk opplevelse serveres de med en chilisaus til. Oppskriften gir 25-30 samosa. ",
+    "steps": [
+      "1. Fres kjøttdeigen i en stor, vid gryte på høy varme. ",
+      "2. Rist pepper og spisskummen i en tørr panne, slik at aromaene kommer frem. Knus dem deretter med en morter. ",
+      "3. Krydre kjøttdeigen med det knuste krydderet, garam masala og currypulver. Trekk gryten av platen når kjøttdeigen er ferdig stekt. ",
+      "4. Finhakk rødløk og hvitløk, og bland det inn i den stekte kjøttdeigen. ",
+      "5. Lag chilidippen. Kjør tamarindvann, rødløk, tomat, chili og koriander sammen i en liten hurtighakker eller med en stavmikser. La dressingen stå og trekke smak, mens du bretter samosas.",
+      "6. Visp sammen eggehvite eller lag en tykk blandingen av mel og vann. Denne skal du bruke til å lime skjøtene/kantene på samosaen med.  ",
+      "7. Del filodeig i to, slik at du får lange, tykke strimler. Legg to og to strimler oppå hverandre og brett det ene hjørnet over nedre del sånn at du begynner å forme en trekant.  ",
+      "8. Brett andre siden av deigen over slik at du får et lite kremmerhus. ",
+      "9. Fyll en god spiseskje med fyllet i kremmerhuset, brett deigen over og fest med eggehvite eller melblanding. ",
+      "10. Varm opp nøytral olje i en gryte eller en stekepanne med høye kanter. Sjekk at oljen er varm nok ved å bruke baksiden av en tresleiv, bruser det rundt sleiven er oljen klar. Friter samosaene til de har en gyllen og pen farge."
+    ],
+    "numberOfPeople": "1",
+    "ingredients": [
+      "1,2kg kjøttdeig",
+      "1ss hel pepper",
+      "1ss spisskummenfrø",
+      "2ss garam masala",
+      "2ss curry pulver (Hot Madras)",
+      "1stk. rødløk",
+      "3båter hvitløk",
+      "1stk. eggehvite , eventuelt en blanding av mel og vann",
+      "1pk filodeig",
+      "1l olje",
+      "2dl tamarindvann",
+      "0,5stk. rødløk",
+      "1stk. tomat",
+      "4stk. rød chili (små)",
+      "4stk. grønn chili (små)",
+      "6stilker frisk koriander"
+    ],
+    "time": "Over 60 min",
+    "difficulty": "Middels"
+  },
+  {
+    "attributes": "Middagsrett Gryter",
+    "title": "Maqluba",
+    "description": "Maqluba er en Palestinsk rett som består av kylling, ris og masse krydder. Maqluba betyr \"opp ned\" på arabisk, som er grunnen til at retten snus opp ned før servering. ",
+    "steps": [
+      "1. Del kylling i biter og finhakk løk- og hvitløk. Bløtlegg risen i kaldt vann i minst 1 time. Varm halvparten av oljen i en romslig kjele og fres løk- og hvitløk til det er mykt og blankt. ",
+      "2. Tilsett kylling og brun kjøttet i gryten. Tilsett nok kokende vann til at det dekker kyllingbitene. Ha i persille og krydder. Kok opp, senk varmen og sett på lokk. Trekk i ca. 30 minutter, eller til kyllingen er mør og det har dannet seg en god kraft. ",
+      "3. Skrell potet og løk- og del i biter. Skyll og del blomkål i like store biter. Tilsett resten av oljen og smør i en varm stekepanne. Stek til de har fått en fin gyllen farge. Legg over på et kjøkkenpapir for å trekke bort overflødig fett. ",
+      "4. Løft kyllingbitene ut av gryten, og sil av kraften.",
+      "5. Hell av vannet på risen. Ta frem en ny vid, tykkbunnet gryte. Legg kyllingbiter i bunnen, deretter grønnsaker, poteter og ris. ",
+      "6. Hell forsiktig over den silte kraften til den så vidt dekker risen. Kok opp og la alt koke i 10 minutter. Sett på lokk og senk varmen. La stå på lav varme i ca. 35 minutter. Trekk den deretter av varmen og la hvile i ca. 20 minutter.",
+      "7. Gjør klart et stort fat som plasseres på toppen av gryten som et lokk. Snu og la gryten stå opp ned på fatet for å avkjøle seg noe. På denne måten vil retten holde formen bedre når gryten fjernes. ",
+      "8. Fjern gryten forsiktig og dryss ristede mandler og finhakket persille over retten før servering. "
+    ],
+    "numberOfPeople": "4",
+    "ingredients": [
+      "0,5kg kyllingfileteller en hel kylling",
+      "8dl basmatiris",
+      "1stk. løk",
+      "2båter hvitløk",
+      "1dl olivenolje",
+      "2l vann",
+      "1bunt frisk persille",
+      "6stk. hel kardemomme",
+      "1stang hel kanel",
+      "0,5ts hel pepper",
+      "1ts paprikapulver",
+      "2ts malt allehånde",
+      "0,5ts malt spisskummen",
+      "1ts gurkemeie eller safran",
+      "2stk. laurbærblad",
+      "4stk. potet",
+      "3stk. løk",
+      "1stk. blomkål",
+      "50g smør",
+      "100g mandler",
+      "2dl frisk persille"
+    ],
+    "time": "Over 60 min",
+    "difficulty": "Middels"
+  },
+  {
+    "attributes": "Middagsrett Gryter",
+    "title": "Marokkansk lammegryte - Tagine b'Barkouq",
+    "description": "Denne marokkanske lammegryten er en skikkelig festrett og noe du virkelig kan imponere gjestene med. Retten serveres med småretter som rødbetesalat, godt brød og gode oliven. ",
+    "steps": [
+      "1. Skjær lammekjøtt i biter på ca. 3x3 cm.  Rens løk og hvitløk, og finhakk dem. ",
+      "2. Varm litt olje i en vid kjele. Brun kjøttet sammen med løk, hvitløk, ingefær, gurkemeie, kanelstang, safran, salt og pepper. Når kjøttet har fått farge, løft det ut av kjelen og tilsett litt mer olje. Stek videre i ca. 5 minutter. ",
+      "3. Knyt sammen koriander til en bunt med litt hyssing. Ha bunten i gryten sammen med vann. ",
+      "4. Senk varmen og sett på lokk. La gryten småkoke til kjøttet er mørt og væsken har kokt noe inn, ca. 1 time. Rør om av og til. Tilsett mer vann om det blir for tørt. ",
+      "5. Ha svisker i en liten kjele og hell over 1/2 dl kraft fra kjøttgryten. Tilsett honning og kanel. Kok opp, senk varmen og la alt småkoke til sviskene er myke. ",
+      "6. Anrett kjøttgryten på et fat, ha på svisker og dryss over sesamfrø, mandler og frisk koriander. "
+    ],
+    "numberOfPeople": "4",
+    "ingredients": [
+      "1kg benfritt lammekjøtt fra bog eller lår",
+      "2stk. løk",
+      "2båter hvitløk",
+      "5ss olivenolje",
+      "1ts malt ingefær",
+      "1ts gurkemeie",
+      "1stk. hel kanel",
+      "1klype safran",
+      "1bunt frisk koriander",
+      "1l vann",
+      "300g svisker eller tørket aprikos",
+      "1ss honning",
+      "0,5ts malt kanel",
+      "2ss sesamfrø",
+      "100g skåldede og ristede mandler",
+      "0,5bunt frisk koriander"
+    ],
+    "time": "Over 60 min",
+    "difficulty": "Middels"
+  },
+  {
+    "attributes": "Middagsrett Gryter",
+    "title": "Kylling biryani",
+    "description": "En autentisk kylling biryani fra Pakistan. Dette er en rett som blir bedre og bedre jo lengere den står og kan med fordel lages dagen før eller samme morgen den skal serveres. Får du ikke tak i biryani masala kan du lage krydderet selv! ",
+    "steps": [
+      "1. Bløtlegg risen i kaldt vann i minst 1 time. Hell av bløtleggingsvannet. ",
+      "2. Kok opp vann, olje, krydder, mynte og salt i en romslig kjele og ha i risen. Senk varmen og la risen koke til vannet har fordampet, men risen fortsatt har en litt hard kjerne. ",
+      "3. Del kyllinglår i biter. Grovhakk løk og kjør den til puré i en foodprosessor eller med en stavmikser. ",
+      "4. Varm olje i en vid gryte og fres stjerneanis, kanelstang, svart kardemomme, grønn kardemomme og laurbærblad i ca. 4 minutter. Tilsett løkpuréen og fres videre til løken er gyllen. Ca. 15 minutter. ",
+      "5. Brun kylling i gryten til gylne og krydre med salt. ",
+      "6. Grovhakk tomater, ingefær og hvitløk- og kjør det til puré i en foodprosessor eller med en stavmikser. Hell puréen i gryten og kok i ytterligere 10 minutter. ",
+      "7. Tilsett biryana masala og gurkemeie. La alt frese til oljen skiller seg fra resten. ",
+      "8. Tilsett yoghurt og kok videre i 15-20 minutter, eller til gryten skiller seg og oljen legger seg på toppen. ",
+      "9. Skjær lime i skiver og finhakk koriander og mynte.",
+      "10. Ha litt av oljen fra kyllinggryten over i en ny gryte. Legg ris, kylling, lime, koriander og mynte lagvis og avslutt med ris på toppen. ",
+      "11. Hell litt kokende vann over safrantrådene og la det stå noen minutter. Tilsett gul matfarge, kewra-vann og rosevann. Hell blandingen over risen. ",
+      "12. Sett på lokk og pass på at det er helt tett. Bruk et kjøkkenhåndkle og surr det rundt lokket slik at det blir godt isolert. La gryten trekke i minst 30 minutter før servering. Jo lenger den står, jo bedre blir den! "
+    ],
+    "numberOfPeople": "4",
+    "ingredients": [
+      "9dl basmatiris",
+      "12dl vann",
+      "2,5dl olje",
+      "1stk. laurbærblad",
+      "1,5ts malt spisskummen",
+      "5stk. hel kardemomme",
+      "4blader frisk mynte",
+      "3ts salt",
+      "4stk. kyllinglår naturell",
+      "4stk. løk",
+      "4dl olje",
+      "2stk. stjerneanis",
+      "1stk. hel kanel",
+      "2stk. hel kardemomme (svart)",
+      "5stk. hel kardemomme (grønn)",
+      "1stk. laurbærblad",
+      "4stk. tomat",
+      "2,5cm frisk ingefær",
+      "1stk. hvitløk",
+      "2ss biryani masala",
+      "1,5ts gurkemeie",
+      "3dl yoghurt naturell",
+      "1stk. lime",
+      "1bunt frisk koriander",
+      "1bunt frisk mynte",
+      "1klype safran",
+      "1klype gul matfarge (kan sløyfes)",
+      "1ts kewra-vann",
+      "1ts rosevann"
+    ],
+    "time": "Over 60 min",
+    "difficulty": "Middels"
+  },
+  {
     "attributes": "Brød/bakverk Annen bakst",
     "title": "Surdeigsstarter med eple",
     "description": "Skal du bake med surdeig er et lite tips å tilsette revet eple i starteren. Eplet gir surdeigstarteren en naturlig gjæring pga sukkeret. Det bidrar også til en raskere fermentering som gjør at starteren vil være klar på bare 3-4 dager. ",
-    "steps": "1. Dag 1: Vask eplet, og riv det med skallet på et grovt rivjern.  | 2. Bland fingervarmt vann, mel og revet eple i et glass med tett lokk. La blandingen stå på kjøkkenbenken til neste dag. | 3. Dag 2: Åpne glasset og rør lett sammen. Ha på lokket igjen og la glasset stå enda et døgn på kjøkkenbenken. | 4. Dag 3: Nå skal surdeigen ha hevet seg og begynt å boble. Bland vann og mel med surdeigen i glasset. Ha på lokket og la blandingen stå på kjøkkenbenken til neste dag. | 5. Dag 4: Nå skal det være godt med bobler i glasset, og surdeigen skal lukte friskt (litt som kefir eller kulturmelk) og smake syrlig.  | 6. Hvis starteren ikke bobler så mye kan du gjenta steg 3; Bland inn vann og rugmel igjen og la blandingen stå enda et døgn på kjøkkenbenken.  | 7. Nå har du en ferdig surdeig klar til baking. En ung surdeig trenger tid for å utvikle seg og bli sterk. Regelmessig mating og godt vedlikehold gjør starteren mer potent over tid. Jo mer du baker, jo bedre blir den! ",
+    "steps": [
+      "1. Dag 1: Vask eplet, og riv det med skallet på et grovt rivjern. ",
+      "2. Bland fingervarmt vann, mel og revet eple i et glass med tett lokk. La blandingen stå på kjøkkenbenken til neste dag.",
+      "3. Dag 2: Åpne glasset og rør lett sammen. Ha på lokket igjen og la glasset stå enda et døgn på kjøkkenbenken.",
+      "4. Dag 3: Nå skal surdeigen ha hevet seg og begynt å boble. Bland vann og mel med surdeigen i glasset. Ha på lokket og la blandingen stå på kjøkkenbenken til neste dag.",
+      "5. Dag 4: Nå skal det være godt med bobler i glasset, og surdeigen skal lukte friskt (litt som kefir eller kulturmelk) og smake syrlig. ",
+      "6. Hvis starteren ikke bobler så mye kan du gjenta steg 3; Bland inn vann og rugmel igjen og la blandingen stå enda et døgn på kjøkkenbenken. ",
+      "7. Nå har du en ferdig surdeig klar til baking. En ung surdeig trenger tid for å utvikle seg og bli sterk. Regelmessig mating og godt vedlikehold gjør starteren mer potent over tid. Jo mer du baker, jo bedre blir den! "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "0,5stk. eple | 1,5dl fingervarmt vann | 100g fin sammalt rug | 1,5dl vann | 100g fin sammalt rug",
+    "ingredients": [
+      "0,5stk. eple",
+      "1,5dl fingervarmt vann",
+      "100g fin sammalt rug",
+      "1,5dl vann",
+      "100g fin sammalt rug"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -13,9 +225,12 @@
     "attributes": "Drikke",
     "title": "Appelsinjuice",
     "description": "Ferskpresset appelsinjuice er noe de aller fleste setter stor pris på. Perfekt til lange helgefrokoster sammen med venner og familie! Oppskriften gir ca. 1 liter og én porsjon tilsvarer 2 dl juice. ",
-    "steps": "1. Del appelsin i to og press ut saften med en sitruspresse. Alternativt kan du bruke en juicemaskin om du har det, men kutt vekk alt av skall først.  | 2. Hell over i glassflaske og oppbevar i kjøleskap. Sil appelsinjuicen om du ikke ønsker fruktkjøtt. ",
+    "steps": [
+      "1. Del appelsin i to og press ut saften med en sitruspresse. Alternativt kan du bruke en juicemaskin om du har det, men kutt vekk alt av skall først. ",
+      "2. Hell over i glassflaske og oppbevar i kjøleskap. Sil appelsinjuicen om du ikke ønsker fruktkjøtt. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "10stk. appelsin",
+    "ingredients": ["10stk. appelsin"],
     "time": "Under 20 min",
     "difficulty": "Superenkel"
   },
@@ -23,9 +238,21 @@
     "attributes": "Småretter",
     "title": "Bruschetta med lammestek",
     "description": "Har du lyst på en kjapp og digg rett med rester av lam? Crispy bruschetta med hjemmelaget tzatziki, syltet rødløk og rester av lammestek er perfekt når du craver noe enkelt og skikkelig godt. ",
-    "steps": "1. Ta frem rester av lammestek og skjær kjøttet i tynne skiver. | 2. Skrell og kutt rødløk i tynne skiver. Legg over i en bolle og ha sitronsaft over. Bland sammen og la stå.  | 3. Skjær baguette i skiver og ha margarin i en varm panne. Stek til gylne på begge sider.  | 4. Ha tzatziki på skivene og legg over skiver av lammestek og syltet rødløk. Server med frisk timian og nykvernet pepper på toppen.",
+    "steps": [
+      "1. Ta frem rester av lammestek og skjær kjøttet i tynne skiver.",
+      "2. Skrell og kutt rødløk i tynne skiver. Legg over i en bolle og ha sitronsaft over. Bland sammen og la stå. ",
+      "3. Skjær baguette i skiver og ha margarin i en varm panne. Stek til gylne på begge sider. ",
+      "4. Ha tzatziki på skivene og legg over skiver av lammestek og syltet rødløk. Server med frisk timian og nykvernet pepper på toppen."
+    ],
     "numberOfPeople": "2",
-    "ingredients": "400g rester avlammestek | 0,5stk. rødløk | 1ss sitron | 8stk. baguette | 1ss margarin | 4ss tzatziki",
+    "ingredients": [
+      "400g rester avlammestek",
+      "0,5stk. rødløk",
+      "1ss sitron",
+      "8stk. baguette",
+      "1ss margarin",
+      "4ss tzatziki"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -33,9 +260,23 @@
     "attributes": "Middagsrett",
     "title": "Shawarma med lam",
     "description": "Shawarma er en populær rett fra midtøsten og det er det smakfulle krydderet som gjør retten så god! Har du rester av lammestek er dette en rett du burde prøve!",
-    "steps": "1. Skjær eventuelt rester av lammestek i tynne skiver/strimler. | 2. Skyll spinat. Kutt agurk i staver, tomat i skiver.  | 3. Ha margarin i en varm panne, og fres kjøttet i noen minutter til kjøttet er varmt. Krydre med shawarma krydder. | 4. Ha grønnsaker og lun lammestek i en tortillalefse. Ha tahinidressing over. Rull sammen og del wrappen i to. ",
+    "steps": [
+      "1. Skjær eventuelt rester av lammestek i tynne skiver/strimler.",
+      "2. Skyll spinat. Kutt agurk i staver, tomat i skiver. ",
+      "3. Ha margarin i en varm panne, og fres kjøttet i noen minutter til kjøttet er varmt. Krydre med shawarma krydder.",
+      "4. Ha grønnsaker og lun lammestek i en tortillalefse. Ha tahinidressing over. Rull sammen og del wrappen i to. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "200g resterlammestek, eventuelt lammeskav | 30g frisk spinat | 0,5stk. agurk | 2stk. tomat | 1ss margarin | 2ts shawarma krydder | 2stk. tortillalefse eller yoghurtlefse | 2ss tahini dressing",
+    "ingredients": [
+      "200g resterlammestek, eventuelt lammeskav",
+      "30g frisk spinat",
+      "0,5stk. agurk",
+      "2stk. tomat",
+      "1ss margarin",
+      "2ts shawarma krydder",
+      "2stk. tortillalefse eller yoghurtlefse",
+      "2ss tahini dressing"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -43,9 +284,24 @@
     "attributes": "Smørbrød/sandwich",
     "title": "Sandwich med lammestek",
     "description": "Om du har laget lammestek er dette den perfekte måten å bruke opp restene på! I en digg sandwich med fetaostkrem, friske tomater, oliven og en god bunt bladpersille blir dette en liten festrett i seg selv, ",
-    "steps": "1. Ta frem rester av lammestek og skjær kjøttet i tynne skiver.  | 2. Kutt tomat og oliven i skiver og vask bladpersille.  | 3. Kjør fetaost og rømme i en blender. Smak til med salt og pepper.  | 4. Del baguette i to og ha margarin i en varm panne. Stek til brødet har blitt gyllent og crispy.  | 5. Smør fetaostkrem på baguettene og legg over kjøttet. Ha på skiver av tomat og bladpersille- og server med engang! ",
+    "steps": [
+      "1. Ta frem rester av lammestek og skjær kjøttet i tynne skiver. ",
+      "2. Kutt tomat og oliven i skiver og vask bladpersille. ",
+      "3. Kjør fetaost og rømme i en blender. Smak til med salt og pepper. ",
+      "4. Del baguette i to og ha margarin i en varm panne. Stek til brødet har blitt gyllent og crispy. ",
+      "5. Smør fetaostkrem på baguettene og legg over kjøttet. Ha på skiver av tomat og bladpersille- og server med engang! "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "150g rester avlammestek | 1stk. stor tomat | 2ss hakket oliven | 1bunt bladpersille | 50g fetaost | 1ss rømme eller créme fraîche | 2stk. baguette | 2ss margarin",
+    "ingredients": [
+      "150g rester avlammestek",
+      "1stk. stor tomat",
+      "2ss hakket oliven",
+      "1bunt bladpersille",
+      "50g fetaost",
+      "1ss rømme eller créme fraîche",
+      "2stk. baguette",
+      "2ss margarin"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -53,9 +309,17 @@
     "attributes": "Tilbehør Dressing/dip",
     "title": "Tahinidressing",
     "description": "En god grunnoppskrift på tahinidressing som passer mange forskjellige retter. Tahinidressing er spesielt godt til lam og retter fra midtøsten.",
-    "steps": "1. Visp sammen tahini, vann og sitronsaft med en stavmikser. | 2.  Smak til med revet hvitløk og salt, eventuelt mer sitronsaft.",
+    "steps": [
+      "1. Visp sammen tahini, vann og sitronsaft med en stavmikser.",
+      "2.  Smak til med revet hvitløk og salt, eventuelt mer sitronsaft."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "1glass tahini | 1,5dl vann | 0,5stk. sitron | 2båter revet hvitløk",
+    "ingredients": [
+      "1glass tahini",
+      "1,5dl vann",
+      "0,5stk. sitron",
+      "2båter revet hvitløk"
+    ],
     "time": "Under 20 min",
     "difficulty": "Superenkel"
   },
@@ -63,9 +327,23 @@
     "attributes": "Tilbehør Annet tilbehør",
     "title": "Shawarma krydder",
     "description": "Shawarma krydder brukes til mange forskjellige retter i midtøsten og er helt nydelig til lam. Ønsker du å lage skikkelig comfort food hjemme, er dette krydderet starten! ",
-    "steps": "1. Ha spisskummen, koriander, paprika, gurkemeie, allehånde, kanel, hvitløk, kajennepepper, salt og pepper i en skål og bland godt.  | 2. Oppbevar i et lufttett glass eller i en boks. ",
+    "steps": [
+      "1. Ha spisskummen, koriander, paprika, gurkemeie, allehånde, kanel, hvitløk, kajennepepper, salt og pepper i en skål og bland godt. ",
+      "2. Oppbevar i et lufttett glass eller i en boks. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "1ss malt spisskummen | 1ss malt koriander | 2ts paprikapulver | 1ts gurkemeie | 1ts malt allehånde eller 0.5 ts malt nellik | 1ts malt kanel | 1ts hvitløkspulver | 0,5ts kajennepepper | 2ts salt | 0,5ts pepper",
+    "ingredients": [
+      "1ss malt spisskummen",
+      "1ss malt koriander",
+      "2ts paprikapulver",
+      "1ts gurkemeie",
+      "1ts malt allehånde eller 0.5 ts malt nellik",
+      "1ts malt kanel",
+      "1ts hvitløkspulver",
+      "0,5ts kajennepepper",
+      "2ts salt",
+      "0,5ts pepper"
+    ],
     "time": "Under 20 min",
     "difficulty": "Superenkel"
   },
@@ -73,9 +351,26 @@
     "attributes": "Tilbehør Annet tilbehør",
     "title": "Gyroskrydder",
     "description": "Gyroskrydder er en type krydderblanding som brukes til Gyros, og som stammer fra Hellas. Krydderet består av aromatiske smaker som oregano, basilikum, merian og dill!",
-    "steps": "1. Ha hvitløkspulver, oregano, basilikum, løkpulver, persille, dill, timian, kanel, muskat, merian, chiliflak, salt og pepper i en skål og bland godt.  | 2. Oppbevar i et lufttett glass eller i en boks.",
+    "steps": [
+      "1. Ha hvitløkspulver, oregano, basilikum, løkpulver, persille, dill, timian, kanel, muskat, merian, chiliflak, salt og pepper i en skål og bland godt. ",
+      "2. Oppbevar i et lufttett glass eller i en boks."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "2ts hvitløkspulver | 2ts tørket oregano | 2ts tørket basilikum | 1ts løkpulver | 1ts tørket persille | 1ts tørket dill | 0,5ts tørket timian | 0,25ts malt kanel | 0,25ts malt muskat | 1ts malt merian (kan sløyfes) | 1ts chiliflakes | 2ts salt | 1ts kvernet pepper",
+    "ingredients": [
+      "2ts hvitløkspulver",
+      "2ts tørket oregano",
+      "2ts tørket basilikum",
+      "1ts løkpulver",
+      "1ts tørket persille",
+      "1ts tørket dill",
+      "0,5ts tørket timian",
+      "0,25ts malt kanel",
+      "0,25ts malt muskat",
+      "1ts malt merian (kan sløyfes)",
+      "1ts chiliflakes",
+      "2ts salt",
+      "1ts kvernet pepper"
+    ],
     "time": "Under 20 min",
     "difficulty": "Superenkel"
   },
@@ -83,19 +378,49 @@
     "attributes": "Dessert Andre desserter",
     "title": "Sjokoladefondant i appelsin",
     "description": "Kombinasjonen av sjokolade og appelsin er uslåelig og den perfekte turdesserten til påske. Er du ikke turtypen er dette en dessert du kan imponere venner og familie med til påskemiddagen. Oppskriften gir 8-10 stk.",
-    "steps": "1. Del appelsin i to og skrap ut kjøttet. Spar noe av kjøttet til servering.  | 2. Smelt smør og del sjokolade i små biter. Ha sjokoladebitene i en bolle og hell det varme smøret over. La dette stå i 2-3 minutter til sjokoladen har smeltet. Rør sammen. | 3. Visp egg og sukker lett, tilsett sjokoladeblandingen og rør til en jevn røre. Sikt i melet og rør til en jevn og klumpfri røre. | 4. Hell blandingen over i appelsinskall eller muffinsformer. Stek sjokoladefondantene midt i ovnen på 180 °C i ca. 9 minutter. Bruker du vanlige muffinsformer kan fondanten stå noen minutter til, ca. 15 minutter.  | 5. Avkjøl fondantene og server med biter av appelsin og et dryss melis. ",
+    "steps": [
+      "1. Del appelsin i to og skrap ut kjøttet. Spar noe av kjøttet til servering. ",
+      "2. Smelt smør og del sjokolade i små biter. Ha sjokoladebitene i en bolle og hell det varme smøret over. La dette stå i 2-3 minutter til sjokoladen har smeltet. Rør sammen.",
+      "3. Visp egg og sukker lett, tilsett sjokoladeblandingen og rør til en jevn røre. Sikt i melet og rør til en jevn og klumpfri røre.",
+      "4. Hell blandingen over i appelsinskall eller muffinsformer. Stek sjokoladefondantene midt i ovnen på 180 °C i ca. 9 minutter. Bruker du vanlige muffinsformer kan fondanten stå noen minutter til, ca. 15 minutter. ",
+      "5. Avkjøl fondantene og server med biter av appelsin og et dryss melis. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "5stk. appelsin | 100g smør | 100g mørk sjokolade, 70% kakao | 4stk. egg | 1dl sukker | 1dl hvetemel",
+    "ingredients": [
+      "5stk. appelsin",
+      "100g smør",
+      "100g mørk sjokolade, 70% kakao",
+      "4stk. egg",
+      "1dl sukker",
+      "1dl hvetemel"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
   {
-    "attributes": "Middagsrett Steker",
+    "attributes": "Middagsrett",
     "title": "Gyros med lammestek",
     "description": "Gyros med lam er perfekt om du ønsker å bruke opp rester av lammesteken! Fyll pitabrød med tomat, rødløk, agurk og persille- og server med en deilig tzatziki, så får du en helt ny rett ut av restene!",
-    "steps": "1. Ta frem rester av lammestek og skjær kjøttet i tynne skiver. | 2. Vask og kutt tomat i fire, grovhakk persille og kutt løk i tynne skiver. Bland skiver av rødløk sammen med sitronsaft.  | 3. Stek pommes frittes i ovn etter anvisning på pakken. Legg i pitabrødene mot slutten av steketiden.  | 4. Ha margarin i en panne og fres rester av lammelår sammen med gyroskrydder.  | 5. Fordel lam, pommes frittes og grønnsaker i pitabrødene og server med tzatziki på toppen. ",
+    "steps": [
+      "1. Ta frem rester av lammestek og skjær kjøttet i tynne skiver.",
+      "2. Vask og kutt tomat i fire, grovhakk persille og kutt løk i tynne skiver. Bland skiver av rødløk sammen med sitronsaft. ",
+      "3. Stek pommes frittes i ovn etter anvisning på pakken. Legg i pitabrødene mot slutten av steketiden. ",
+      "4. Ha margarin i en panne og fres rester av lammelår sammen med gyroskrydder. ",
+      "5. Fordel lam, pommes frittes og grønnsaker i pitabrødene og server med tzatziki på toppen. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "400g rester avlammestek | 1pk cherrytomat | 1bunt bladpersille | 1stk. rødløk | 2ss sitronsaft | 1pk pommes frites | 4stk. pitabrød | 1ss margarin | 2ss gyroskrydder | 4ss tzatziki",
+    "ingredients": [
+      "400g rester avlammestek",
+      "1pk cherrytomat",
+      "1bunt bladpersille",
+      "1stk. rødløk",
+      "2ss sitronsaft",
+      "1pk pommes frites",
+      "4stk. pitabrød",
+      "1ss margarin",
+      "2ss gyroskrydder",
+      "4ss tzatziki"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -103,9 +428,36 @@
     "attributes": "Familien Middagsrett Supper Vegetar",
     "title": "Tomatsuppe bakt i ovn",
     "description": "Har du fått med deg Tiktok trenden \"Baked tomato soup\"? En superenkel og smaksrik tomatsuppe der grønnsakene bakes i ovn for å få frem den deilige smaken, før de kjøres sammen til en fyldig suppe.  ",
-    "steps": "1. Rens løk og paprika, og kutt det grovt. Kutt også tomat i grove biter. | 2. Del hvitløk og chili i to. Fjern gjerne noen av frøene fra chilien om du vil ha en mildere suppe. | 3. Ha alle grønnsakene sammen med cherrytomater i en gryte med lokk som tåler å stå i stekeovnen. | 4. Hell litt olje over grønnsakene. Ha frisk basilikum, timian og litt chiliflak i gryten. Juster gjerne mengden chili etter egen gane. | 5. Sett gryten i ovn på 220 °C i ca. 20 minutter til tomatene og hvitløken er helt myke. | 6. Klem ut hvitløken av skallet, spe med grønnsaksbuljong og kjør suppen jevn med en stavmikser. Spe eventuelt med litt mer buljong om du syns suppen føles tykk. | 7. Ha i fløte og smak til med salt, pepper, og eventuelt litt sukker. | 8. Bryt skiver av grovt brød i mindre biter og legg dem på et bakepapirkledd stekebrett. Drypp over litt olje, og krydre med litt salt, eventuelt også litt frisk timian. Sett brettet i ovn og stek til krutongene er sprø, ca.10 minutter.",
+    "steps": [
+      "1. Rens løk og paprika, og kutt det grovt. Kutt også tomat i grove biter.",
+      "2. Del hvitløk og chili i to. Fjern gjerne noen av frøene fra chilien om du vil ha en mildere suppe.",
+      "3. Ha alle grønnsakene sammen med cherrytomater i en gryte med lokk som tåler å stå i stekeovnen.",
+      "4. Hell litt olje over grønnsakene. Ha frisk basilikum, timian og litt chiliflak i gryten. Juster gjerne mengden chili etter egen gane.",
+      "5. Sett gryten i ovn på 220 °C i ca. 20 minutter til tomatene og hvitløken er helt myke.",
+      "6. Klem ut hvitløken av skallet, spe med grønnsaksbuljong og kjør suppen jevn med en stavmikser. Spe eventuelt med litt mer buljong om du syns suppen føles tykk.",
+      "7. Ha i fløte og smak til med salt, pepper, og eventuelt litt sukker.",
+      "8. Bryt skiver av grovt brød i mindre biter og legg dem på et bakepapirkledd stekebrett. Drypp over litt olje, og krydre med litt salt, eventuelt også litt frisk timian. Sett brettet i ovn og stek til krutongene er sprø, ca.10 minutter."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "1stk. løk | 1stk. rød paprika | 4stk. tomat (gjerne ekstra modne med god smak) | 1stk. hvitløk | 1stk. rød chili | 1pk cherrytomat (á 250 g) | 2ss olivenolje | 3kvister frisk basilikum | 4kvister frisk timian | 1ts chiliflakes | 6dl grønnsakbuljong (utblandet) | 2dl fløte | 2ts sukker | 4skiver grovt rugbrød | 1ss olivenolje | 0,5ts salt | 2stilker frisk timian",
+    "ingredients": [
+      "1stk. løk",
+      "1stk. rød paprika",
+      "4stk. tomat (gjerne ekstra modne med god smak)",
+      "1stk. hvitløk",
+      "1stk. rød chili",
+      "1pk cherrytomat (á 250 g)",
+      "2ss olivenolje",
+      "3kvister frisk basilikum",
+      "4kvister frisk timian",
+      "1ts chiliflakes",
+      "6dl grønnsakbuljong (utblandet)",
+      "2dl fløte",
+      "2ts sukker",
+      "4skiver grovt rugbrød",
+      "1ss olivenolje",
+      "0,5ts salt",
+      "2stilker frisk timian"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -113,9 +465,14 @@
     "attributes": "Familien Tilbehør Annet tilbehør Vegetar",
     "title": "Colcannon - irsk potetmos",
     "description": "Colcannon er irenes variasjon av potetmos, blandet med grovhakket grønnkål eller kål. Ofte serveres den som egen rett, gjerne toppet med litt bacon, pølse eller skinke, men colcannon er også super ved siden av robuste kjøttretter som for eksempel lammeskank eller svineknoke. ",
-    "steps": "1. Skrell potetetene og del dem i biter om de er store. Kok dem helt møre i usaltet vann. Hell av kokevannet og la potetene dampe seg tørre. | 2. Mos potetene og rør inn smør. Spe med litt melk av gangen til mosen har en lett og luftig konsistens. Smak til med salt og pepper. | 3. Fjern de groveste stilkene og forvell grønnkålbladene i kokende vann i ca 2 minutter. Avkjøl bladene i kaldt vann og klem ut så mye vann som mulig. Klem grønnkålen sammen til en klump og bruk en skarp kniv til å kutte hakke den. | 4. Bland den hakkede grønnkålen inn i potetmosen og la alt bli gjennomvarmt.",
+    "steps": [
+      "1. Skrell potetetene og del dem i biter om de er store. Kok dem helt møre i usaltet vann. Hell av kokevannet og la potetene dampe seg tørre.",
+      "2. Mos potetene og rør inn smør. Spe med litt melk av gangen til mosen har en lett og luftig konsistens. Smak til med salt og pepper.",
+      "3. Fjern de groveste stilkene og forvell grønnkålbladene i kokende vann i ca 2 minutter. Avkjøl bladene i kaldt vann og klem ut så mye vann som mulig. Klem grønnkålen sammen til en klump og bruk en skarp kniv til å kutte hakke den.",
+      "4. Bland den hakkede grønnkålen inn i potetmosen og la alt bli gjennomvarmt."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "1kg melen potet | 2ss smør | 3dl melk | 200g grønnkål",
+    "ingredients": ["1kg melen potet", "2ss smør", "3dl melk", "200g grønnkål"],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -123,9 +480,42 @@
     "attributes": "Middagsrett Gryter",
     "title": "Marinerte lammeskanker med linsesalat",
     "description": "Lammeskanker er kjøtt som trenger litt ekstra tid og kjærlighet for å bli skikkelig mørt. Her har vi smakssatt skankene med en spennende marinade med basis i ketchup, løk og krydder, som i løpet av tilberedningstiden blir en nydelig saus. Servert med svarte belugalinser og appelsin, er dette en fantastisk smaksrik og nydelig rett.",
-    "steps": "1. Tørk godt av lammeskankene og stell dem slik at de kan stå med beinpipen opp. | 2. Bland sammen ketchup, balsamico, soyasaus, muskat, kardemomme, hakket hvitløk, laurbærblad, hel kanel og olivenolje i en skål. | 3. finhakk halvparten av løken og bland den i marinaden. Smak til med salt og pepper. | 4. Hell marinaden over lammeskankene og gni dem godt inn. La dem ligge og trekke smak minst en time, gjerne lenger. | 5. Ha lammeskankene og marinaden i en gryte, gjerne en jerngryte. el resten av løken i båter og legg dem rundt skankene. Hell i kraft og kok opp.   | 6. Sett på lokk og plasser gryten i forvarmet stekeovn på 150 °C i 3 - 3 ½ time, avhengig av størrelsen på skankene. Ta av lokket og sjekk at skankene er ferdige (kjøttet skal løsne fra beinet). Hold skankene varme til servering. | 7. Kok linsene til de er møre, ca. 20 minutter. Hell av kokevannet. | 8. Skjær av topp og bunn på appelsinen, og skjær vekk skallet slik at den hvite hinnen på båtene blir med. Hold appelsinen i en hånd og bruk en skarp kniv til å skjære båtene ut som helt skinnfrie fileter. Klem ut resten av saften og bland med sitronsaft. | 9. Finhakk løk, chili, hvitløk og persille og bland inn i de kokte linsene sammen med appelsinfileter og -saft. Drypp over litt olivenolje og smak til med salt og pepper. | 10. Legg lammeskankene på tallerkener sammen med linsesalaten. Sil sausen og smak til med salt og pepper.  | 11. Grovhakk nøttene og dryss dem over rett før servering.",
+    "steps": [
+      "1. Tørk godt av lammeskankene og stell dem slik at de kan stå med beinpipen opp.",
+      "2. Bland sammen ketchup, balsamico, soyasaus, muskat, kardemomme, hakket hvitløk, laurbærblad, hel kanel og olivenolje i en skål.",
+      "3. finhakk halvparten av løken og bland den i marinaden. Smak til med salt og pepper.",
+      "4. Hell marinaden over lammeskankene og gni dem godt inn. La dem ligge og trekke smak minst en time, gjerne lenger.",
+      "5. Ha lammeskankene og marinaden i en gryte, gjerne en jerngryte. el resten av løken i båter og legg dem rundt skankene. Hell i kraft og kok opp.  ",
+      "6. Sett på lokk og plasser gryten i forvarmet stekeovn på 150 °C i 3 - 3 ½ time, avhengig av størrelsen på skankene. Ta av lokket og sjekk at skankene er ferdige (kjøttet skal løsne fra beinet). Hold skankene varme til servering.",
+      "7. Kok linsene til de er møre, ca. 20 minutter. Hell av kokevannet.",
+      "8. Skjær av topp og bunn på appelsinen, og skjær vekk skallet slik at den hvite hinnen på båtene blir med. Hold appelsinen i en hånd og bruk en skarp kniv til å skjære båtene ut som helt skinnfrie fileter. Klem ut resten av saften og bland med sitronsaft.",
+      "9. Finhakk løk, chili, hvitløk og persille og bland inn i de kokte linsene sammen med appelsinfileter og -saft. Drypp over litt olivenolje og smak til med salt og pepper.",
+      "10. Legg lammeskankene på tallerkener sammen med linsesalaten. Sil sausen og smak til med salt og pepper. ",
+      "11. Grovhakk nøttene og dryss dem over rett før servering."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "4stk. lammeskank | 1dl ketchup | 3ss balsamicoeddik | 3ss soyasaus | 0,5ts revet muskatnøtt | 0,5ts malt kardemomme | 8båter hvitløk | 2stk. laurbærblad | 2stk. hel kanel | 2stk. løk | 4dl lammekraft eller kyllingkraft | 3dl sorte linser (puy- eller belugalinser) | 1stk. appelsin | 1stk. sitron | 1stk. rødløk | 1stk. rød chili | 2båter hvitløk | 1dl frisk persille | 2ss olivenolje | 15stk. ristede hasselnøtter",
+    "ingredients": [
+      "4stk. lammeskank",
+      "1dl ketchup",
+      "3ss balsamicoeddik",
+      "3ss soyasaus",
+      "0,5ts revet muskatnøtt",
+      "0,5ts malt kardemomme",
+      "8båter hvitløk",
+      "2stk. laurbærblad",
+      "2stk. hel kanel",
+      "2stk. løk",
+      "4dl lammekraft eller kyllingkraft",
+      "3dl sorte linser (puy- eller belugalinser)",
+      "1stk. appelsin",
+      "1stk. sitron",
+      "1stk. rødløk",
+      "1stk. rød chili",
+      "2båter hvitløk",
+      "1dl frisk persille",
+      "2ss olivenolje",
+      "15stk. ristede hasselnøtter"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -133,9 +523,40 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Lammeskank med appelsin",
     "description": "Lammekjøtt og appelsin er to smaker som er glad i hverandre, og den deilige, aromatiske sausen du får når du braiserer lammeskanker med appelsin er uforglemmelig. Sammen med colcannon - den irske varianten av potetmos - og toppet med litt nøttesmør, er dette et nydelig og rustikt herremåltid.",
-    "steps": "1. Tørk godt av lammeskankene og stell dem slik at de kan stå med beinpipen opp.  | 2. Varm en vid gryte (gjerne jerngryte) med litt av oljen og brun lammeskankene på alle sider. Krydre godt med salt og pepper. Løft skankene over på en tallerken. | 3. Finhakk løk og fres den i resten av oljen til den er gyllen og myk.  | 4. Hell kraften i gryten sammen med appelsinsaft og -skall, hvitløk, honning, brunt sukker, rødvinseddik, hel kanel og rosmarinstilker. Kok opp.  | 5. Legg lammeskankene tilbake i gryten og bland godt, slik at skankene blir dekket av sausen. Om mulig, sett skankene slik at beinpipene peker oppover. Kok opp på nytt, sett på lokk eller dekk med folie og plasser gryten i stekeovnen på 150 °C 3 -3 ½ time.  | 6. Øk temperaturen i stekeovnen til 220 °C. Ta lokket av gryten og sett den tilbake i ovnen i ytterligere 25-30 minutter. Sausen skal tykne litt og bli litt klissete, men ikke brent. Kjøttet er ferdig når det løsner fra beina.   | 7. Skrell potetetene og del dem i biter om de er store. Kok dem helt møre i usaltet vann. Hell av kokevannet og la potetene dampe seg tørre.  | 8. Mos potetene og rør inn smør. Spe med litt melk av gangen til mosen har en lett og luftig konsistens. Smak til med salt og pepper.  | 9. Fjern de groveste stilkene og forvell grønnkålbladene i kokende vann i ca 2 minutter. Avkjøl bladene i kaldt vann og klem ut så mye vann som mulig. Klem grønnkålen sammen til en klump og bruk en skarp kniv til å kutte hakke den.  | 10. Bland den hakkede grønnkålen inn i potetmosen og la alt bli gjennomvarmt. | 11. Smelt smøret på middels høy varme og la det bli gyllenbrunt og duftende. Hakk nøttene grovt og bland dem i smøret.  | 12. Fordel colcannon på tallerkener og plasser en lammeskank oppå. Hell litt saus rundt og litt av nøttesmøret over skanken og server med én gang.",
+    "steps": [
+      "1. Tørk godt av lammeskankene og stell dem slik at de kan stå med beinpipen opp. ",
+      "2. Varm en vid gryte (gjerne jerngryte) med litt av oljen og brun lammeskankene på alle sider. Krydre godt med salt og pepper. Løft skankene over på en tallerken.",
+      "3. Finhakk løk og fres den i resten av oljen til den er gyllen og myk. ",
+      "4. Hell kraften i gryten sammen med appelsinsaft og -skall, hvitløk, honning, brunt sukker, rødvinseddik, hel kanel og rosmarinstilker. Kok opp. ",
+      "5. Legg lammeskankene tilbake i gryten og bland godt, slik at skankene blir dekket av sausen. Om mulig, sett skankene slik at beinpipene peker oppover. Kok opp på nytt, sett på lokk eller dekk med folie og plasser gryten i stekeovnen på 150 °C 3 -3 ½ time. ",
+      "6. Øk temperaturen i stekeovnen til 220 °C. Ta lokket av gryten og sett den tilbake i ovnen i ytterligere 25-30 minutter. Sausen skal tykne litt og bli litt klissete, men ikke brent. Kjøttet er ferdig når det løsner fra beina.  ",
+      "7. Skrell potetetene og del dem i biter om de er store. Kok dem helt møre i usaltet vann. Hell av kokevannet og la potetene dampe seg tørre. ",
+      "8. Mos potetene og rør inn smør. Spe med litt melk av gangen til mosen har en lett og luftig konsistens. Smak til med salt og pepper. ",
+      "9. Fjern de groveste stilkene og forvell grønnkålbladene i kokende vann i ca 2 minutter. Avkjøl bladene i kaldt vann og klem ut så mye vann som mulig. Klem grønnkålen sammen til en klump og bruk en skarp kniv til å kutte hakke den. ",
+      "10. Bland den hakkede grønnkålen inn i potetmosen og la alt bli gjennomvarmt.",
+      "11. Smelt smøret på middels høy varme og la det bli gyllenbrunt og duftende. Hakk nøttene grovt og bland dem i smøret. ",
+      "12. Fordel colcannon på tallerkener og plasser en lammeskank oppå. Hell litt saus rundt og litt av nøttesmøret over skanken og server med én gang."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "4stk. lammeskank | 3ss olje | 1stk. løk | 3dl kyllingkraft | 2stk. appelsin | 8båter hvitløk | 1dl flytende honning | 1dl brunt sukker | 1dl rødvinseddik | 2stk. hel kanel | 4stilker frisk rosmarin | 1kg melen potet | 2ss smør | 3dl melk | 200g grønnkål | 150g smør | 15stk. hasselnøtter",
+    "ingredients": [
+      "4stk. lammeskank",
+      "3ss olje",
+      "1stk. løk",
+      "3dl kyllingkraft",
+      "2stk. appelsin",
+      "8båter hvitløk",
+      "1dl flytende honning",
+      "1dl brunt sukker",
+      "1dl rødvinseddik",
+      "2stk. hel kanel",
+      "4stilker frisk rosmarin",
+      "1kg melen potet",
+      "2ss smør",
+      "3dl melk",
+      "200g grønnkål",
+      "150g smør",
+      "15stk. hasselnøtter"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -143,9 +564,42 @@
     "attributes": "Drikke",
     "title": "Milkshake med pistasj",
     "description": "Dette må være pistasjelskerens ultimate milkshake! En tykk og smooth milkshake med smak av pistasj. Toppet med krem, pistasjnøtter og karamellsaus! ",
-    "steps": "1. Ha is og melk i en blender og kjør til alt er godt blandet.  | 2. Ha kremfløte i en kjøkkenmaskin og pisk til krem. | 3. Ha milkshake i høye glass og pynt med krem, grovhakkede pistasjnøtter og karamellsaus. ",
+    "steps": [
+      "1. Ha is og melk i en blender og kjør til alt er godt blandet. ",
+      "2. Ha kremfløte i en kjøkkenmaskin og pisk til krem.",
+      "3. Ha milkshake i høye glass og pynt med krem, grovhakkede pistasjnøtter og karamellsaus. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "5ss vaniljeis med smak av pistasj | 2dl melk | 2dl kremfløte | 2ss pistasjnøtter | 2ss karamellsaus",
+    "ingredients": [
+      "5ss vaniljeis med smak av pistasj",
+      "2dl melk",
+      "2dl kremfløte",
+      "2ss pistasjnøtter",
+      "2ss karamellsaus"
+    ],
+    "time": "Under 20 min",
+    "difficulty": "Superenkel"
+  },
+  {
+    "attributes": "Drikke",
+    "title": "Tropisk milkshake",
+    "description": "Milkshake kan varieres i det uendelige, og denne tar deg rett til tropene med smak av mango, ananas og kokos! Kjør på med masse pynt og plutselig har du en freakshake du kan imponere med!",
+    "steps": [
+      "1. Del og kutt mango og ananas i biter. Spar noen skiver av mango til pynt.",
+      "2. Ha mango, ananas, vaniljeis og kokosmelk i en blender og kjør sammen, til alt er godt blandet. ",
+      "3. Ha kremfløte i en kjøkkenmaskin og pisk til krem. ",
+      "4. Ha milkshake i høye glass og pynt med krem, biter av aprikos, kokosflak og skiver av mango. "
+    ],
+    "numberOfPeople": "2",
+    "ingredients": [
+      "2dl fersk eller fryst mango",
+      "1dl fersk eller fryst ananas",
+      "4ss vaniljeis",
+      "2,5dl kokosmelk",
+      "2dl kremfløte",
+      "3stk. tørket aprikos",
+      "1ss kokosflak"
+    ],
     "time": "Under 20 min",
     "difficulty": "Superenkel"
   },
@@ -153,9 +607,29 @@
     "attributes": "Familien Middagsrett Gryter Pasta",
     "title": "Pølsegryte",
     "description": "En superenkel one pot gryte med pølser hele familien vil elske! Middagen er ferdig på ca. 20 minutter, og i tillegg sparer du litt oppvask - kan det bli bedre?",
-    "steps": "1. Fjern skinnet på pølsene, og skjær dem i 1/2 cm tykke skiver. Kutt brokkoli i små buketter. Husk også å ta med stilken - kutt den i grove biter. Sett pølser og brokkoli til side.  | 2. Rens løk og hvitløk. Grovhakk løken og finhakk hvitløken.  | 3. Ha pastaskruer, hermetisk tomat, buljong/vann og oregano i en stor gryte sammen med løk og hvitløk. Rør litt rundt så alt blander seg. Sett gryten på platen , og kok opp. Sett på lokk, og la det koke i ca. 10 minutter. Rør innimellom slik at det ikke svir seg i bunnen av gryten. Dersom du syns det er litt lite væske kan du ha i mer vann.  | 4. Når gryten har småkokt under lokk i ca. 10 minutter, har du i pølser og brokkoli. Kok til alt er gjennomvarmt, og pastaen er \"al dente\", ca. 5 minutter til.  | 5. Rør inn revet hvitost og fløte. Smak til med salt, pepper og eventuelt litt sukker. | 6. Ha i erter helt til slutt. Da får de akkurat nok varme, uten å miste den fine grønnfargen sin. ",
+    "steps": [
+      "1. Fjern skinnet på pølsene, og skjær dem i 1/2 cm tykke skiver. Kutt brokkoli i små buketter. Husk også å ta med stilken - kutt den i grove biter. Sett pølser og brokkoli til side. ",
+      "2. Rens løk og hvitløk. Grovhakk løken og finhakk hvitløken. ",
+      "3. Ha pastaskruer, hermetisk tomat, buljong/vann og oregano i en stor gryte sammen med løk og hvitløk. Rør litt rundt så alt blander seg. Sett gryten på platen , og kok opp. Sett på lokk, og la det koke i ca. 10 minutter. Rør innimellom slik at det ikke svir seg i bunnen av gryten. Dersom du syns det er litt lite væske kan du ha i mer vann. ",
+      "4. Når gryten har småkokt under lokk i ca. 10 minutter, har du i pølser og brokkoli. Kok til alt er gjennomvarmt, og pastaen er \"al dente\", ca. 5 minutter til. ",
+      "5. Rør inn revet hvitost og fløte. Smak til med salt, pepper og eventuelt litt sukker.",
+      "6. Ha i erter helt til slutt. Da får de akkurat nok varme, uten å miste den fine grønnfargen sin. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "400g kjøttpølse | 0,5stk. brokkoli | 1stk. løk | 1båt hvitløk | 400g fullkornpastaskruer | 2bokser hakkede, hermetiske tomater (´a 400 g) | 4dl vann eller kyllingbuljong (utblandet) | 1ts tørket oregano | 100g revet hvitost | 2dl matfløte | 1ts sukker | 100g frosne erter",
+    "ingredients": [
+      "400g kjøttpølse",
+      "0,5stk. brokkoli",
+      "1stk. løk",
+      "1båt hvitløk",
+      "400g fullkornpastaskruer",
+      "2bokser hakkede, hermetiske tomater (´a 400 g)",
+      "4dl vann eller kyllingbuljong (utblandet)",
+      "1ts tørket oregano",
+      "100g revet hvitost",
+      "2dl matfløte",
+      "1ts sukker",
+      "100g frosne erter"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -163,9 +637,21 @@
     "attributes": "Dessert Is",
     "title": "Sjokolademilkshake",
     "description": "Milkshake med smak av deilig sjokolade! Litt banan i milkshaken er også supert for å få en kremet og god konsistens – og det er en perfekt måte å bruke opp brune bananer på. Du kan også lage den som en freak shake, og server den med sjokoladesaus, pisket krem og et lite coctailbær på toppen for litt ekstra show.",
-    "steps": "1. Ha banan, melk og is i en blender. | 2. Kjør sammen, til alt er godt blandet. | 3. Server i glass, gjerne sammen med litt sjokoladesaus, pisket krem, strøssel og cocktailbær. ",
+    "steps": [
+      "1. Ha banan, melk og is i en blender.",
+      "2. Kjør sammen, til alt er godt blandet.",
+      "3. Server i glass, gjerne sammen med litt sjokoladesaus, pisket krem, strøssel og cocktailbær. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "1stk. fryst banan | 2dl melk | 5ss sjokoladeis | 2ss sjokoladesaus | 4ss pisket kremfløte , eller pisket krem på boks | 1ts kakestrøssel | 2stk. cocktailbær",
+    "ingredients": [
+      "1stk. fryst banan",
+      "2dl melk",
+      "5ss sjokoladeis",
+      "2ss sjokoladesaus",
+      "4ss pisket kremfløte , eller pisket krem på boks",
+      "1ts kakestrøssel",
+      "2stk. cocktailbær"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -173,9 +659,20 @@
     "attributes": "Smørbrød/sandwich Frokost",
     "title": "Surdeigsbrød med revet egg",
     "description": "Lyst på et skikkelig god smørbrød? Smak på dette: sprø skiver av surdeig topp med revet kokt egg, yoghurt, chiliolje og frisk dill. Dette er frokosten for deg som virkelig vil kose deg, og de luftige trådene av kokt egg som rives over skiven setter virkelig prikken over i’en her.",
-    "steps": "1. Kok egg i 10 minutter. Avkjøl i kaldt vann og skrell av skallet. | 2. Ha smør eller olje i en varm stekepanne, og stek brødet på begge sider til det blir sprøtt og gyllent.  | 3. Smør yoghurt på brødskiven og bruk et rivjern til å forsiktig rive kokt egg over skiva. Topp med chilisaus, litt frisk dill og gjerne et lite pepperdryss. ",
+    "steps": [
+      "1. Kok egg i 10 minutter. Avkjøl i kaldt vann og skrell av skallet.",
+      "2. Ha smør eller olje i en varm stekepanne, og stek brødet på begge sider til det blir sprøtt og gyllent. ",
+      "3. Smør yoghurt på brødskiven og bruk et rivjern til å forsiktig rive kokt egg over skiva. Topp med chilisaus, litt frisk dill og gjerne et lite pepperdryss. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "1stk. egg | 1stk. smør eller olje til steking | 1skive surdeigsbrød | 1ss gresk yoghurt | 1ts chiliolje | 1ts frisk dill",
+    "ingredients": [
+      "1stk. egg",
+      "1stk. smør eller olje til steking",
+      "1skive surdeigsbrød",
+      "1ss gresk yoghurt",
+      "1ts chiliolje",
+      "1ts frisk dill"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -183,9 +680,20 @@
     "attributes": "Smørbrød/sandwich",
     "title": "Surdeigsbrød med laks og revet egg",
     "description": "Gylne skiver av surdeigsbrød toppet med majones, røkelaks, vårløk og egg. Her har vi latt oss inspirere at det virale trikset med å rive kokt egg over sandwichen for å skape en fantastisk luftig konsistens på egget. Perfekt til frokost, lunsj eller som en enkel og god middag når du er alene. ",
-    "steps": "1. Kok egg i 10 minutter. Avkjøl i kaldt vann og skrell av skallet. | 2. Ha smør eller olje i en varm stekepanne og stek brødet på begge sider til det blir sprøtt og gyllent.  | 3. Smør majones på brødskiven og legg over skiver av røkelaks. Bruk et rivjern til å forsiktig rive kokt egg over skiva. Topp med finhakket vårløk og gjerne et lite pepperdryss. ",
+    "steps": [
+      "1. Kok egg i 10 minutter. Avkjøl i kaldt vann og skrell av skallet.",
+      "2. Ha smør eller olje i en varm stekepanne og stek brødet på begge sider til det blir sprøtt og gyllent. ",
+      "3. Smør majones på brødskiven og legg over skiver av røkelaks. Bruk et rivjern til å forsiktig rive kokt egg over skiva. Topp med finhakket vårløk og gjerne et lite pepperdryss. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "1stk. egg | 1ss smør eller olje til steking | 1skive surdeigsbrød | 1ss majones | 2skiver røkelaks | 1stk. finhakket vårløk",
+    "ingredients": [
+      "1stk. egg",
+      "1ss smør eller olje til steking",
+      "1skive surdeigsbrød",
+      "1ss majones",
+      "2skiver røkelaks",
+      "1stk. finhakket vårløk"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -193,9 +701,30 @@
     "attributes": "Smørbrød/sandwich Egg/eggeretter",
     "title": "Surdeigsbrød med biff og revet egg",
     "description": "Du har kanskje sett den virale trenden med å rive hardkokte egg over deilige smørbrød? Her har vi laget en variant med biff, kremost og chimichurri saus. Perfekt når du har lyst på en skikkelig god sandwich som trykker på alle knappene!",
-    "steps": "1. Kok egg i 10 minutter. Avkjøl i kaldt vann og skrell dem. | 2. Lag chimichurri saus: Ha urter, hvitløk, salt og pepper i en foodprosessor. Tilsett rødvinseddik, sitronsaft og olje i en tynn stråle under kjøring. Sausen er ferdig når alt er fint blandet sammen | 3. Ha smør eller margarin i en varm stekepanne, og stek skiver av surdeigsbrød på begge sider til de er gylne og sprø. | 4. Krydre biffkjøttet med salt og pepper etter eget ønske. Stek biffene på sterk varme i en stekepanne med smør eller margarin til det begynner å piple kjøttsaft på oversiden. Snu biffene og stek dem videre til rosa kjøttsaft pipler frem. | 5. Smør kremost på brødskivene og legg over biffene. Bruk et rivjern og riv forsiktig kokt egg over skiva. Topp med chimichurrisaus og gjerne et lite pepperdryss.",
+    "steps": [
+      "1. Kok egg i 10 minutter. Avkjøl i kaldt vann og skrell dem.",
+      "2. Lag chimichurri saus: Ha urter, hvitløk, salt og pepper i en foodprosessor. Tilsett rødvinseddik, sitronsaft og olje i en tynn stråle under kjøring. Sausen er ferdig når alt er fint blandet sammen",
+      "3. Ha smør eller margarin i en varm stekepanne, og stek skiver av surdeigsbrød på begge sider til de er gylne og sprø.",
+      "4. Krydre biffkjøttet med salt og pepper etter eget ønske. Stek biffene på sterk varme i en stekepanne med smør eller margarin til det begynner å piple kjøttsaft på oversiden. Snu biffene og stek dem videre til rosa kjøttsaft pipler frem.",
+      "5. Smør kremost på brødskivene og legg over biffene. Bruk et rivjern og riv forsiktig kokt egg over skiva. Topp med chimichurrisaus og gjerne et lite pepperdryss."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "4stk. egg | 4skiver surdeigsbrød | 2ss smør til steking | 400g biff av mørbrad,eller ytrefilet, i skiver | 4ss kremost naturell | 25g frisk persille | 2ss frisk oregano | 2ss frisk koriander | 2båter finhakket hvitløk | 0,25ts salt | 0,5ts kvernet pepper | 2ss rødvinseddik | 1ss sitronsaft | 1dl olje",
+    "ingredients": [
+      "4stk. egg",
+      "4skiver surdeigsbrød",
+      "2ss smør til steking",
+      "400g biff av mørbrad,eller ytrefilet, i skiver",
+      "4ss kremost naturell",
+      "25g frisk persille",
+      "2ss frisk oregano",
+      "2ss frisk koriander",
+      "2båter finhakket hvitløk",
+      "0,25ts salt",
+      "0,5ts kvernet pepper",
+      "2ss rødvinseddik",
+      "1ss sitronsaft",
+      "1dl olje"
+    ],
     "time": "Under 20 min",
     "difficulty": "Middels"
   },
@@ -203,9 +732,12 @@
     "attributes": "Dessert Andre desserter",
     "title": "Sukkerlake",
     "description": "En enkel sukkerlake - med eller uten smakstilsetning - er raskt å lage, og har mange anvendelsesområder. Bruk den til å sette ekstra smak på en dessert, eller hell den over frukt eller bær. ",
-    "steps": "1. Ha sukker og vann i en kjele og kok opp. Rør til sukkeret har løst seg helt.  | 2. Del vaniljestangen på langs og skrap ut frøene tilsett frø og stang i den varme laken. Du kan bytte ut vaniljestang med annen ønsket smakstilsetning. Avkjøl. Oppbevar laken i tett glass.",
+    "steps": [
+      "1. Ha sukker og vann i en kjele og kok opp. Rør til sukkeret har løst seg helt. ",
+      "2. Del vaniljestangen på langs og skrap ut frøene tilsett frø og stang i den varme laken. Du kan bytte ut vaniljestang med annen ønsket smakstilsetning. Avkjøl. Oppbevar laken i tett glass."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "500g sukker | 0,5l vann | 1stk. vaniljestang",
+    "ingredients": ["500g sukker", "0,5l vann", "1stk. vaniljestang"],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -213,9 +745,31 @@
     "attributes": "Middagsrett Panneretter",
     "title": "Steinbit med asiatiske smaker",
     "description": "Steinbit har nydelig fast, hvitt fiskekjøtt som tåler litt tøff behandling uten å falle fra hverandre. Helt perfekt for denne deilige retten med masse grønnsaker og spennende saus med mangochutney og soya. ",
-    "steps": "1. Skjær steinbitfileten i grove biter og tørk den med litt tørkepapir. | 2. Kutt gulrot, vårløk og sukkererter i tynne strimler og grønn chili i tynne ringer. | 3. Bland sammen mangochutney, soyasaus, eddik, hvitløk og ingefær i en skål. Tilsett litt vann slik at sausen blir ganske flytende. Vil du ha en glatt saus, kan du mose den med hurtigmikser eller stavmikser. Smak til med litt salt og pepper. | 4. Varm olje i en vid og dyp stekepanne og stek fiskebitene til de har fin farge. Krydre med litt salt og pepper. Løft dem over på en tallerken.  | 5. Varm stekepannen på nytt og tilsett litt mer olje. Stek grønnsakene raskt i et minutt. Legg fiskebitene tilbake i pannen og hell over sausen. La alt bli gjennomvarmt.  | 6. Rist sesamfrø i tørr panne og dryss dem over retten sammen med litt grovhakket koriander.",
+    "steps": [
+      "1. Skjær steinbitfileten i grove biter og tørk den med litt tørkepapir.",
+      "2. Kutt gulrot, vårløk og sukkererter i tynne strimler og grønn chili i tynne ringer.",
+      "3. Bland sammen mangochutney, soyasaus, eddik, hvitløk og ingefær i en skål. Tilsett litt vann slik at sausen blir ganske flytende. Vil du ha en glatt saus, kan du mose den med hurtigmikser eller stavmikser. Smak til med litt salt og pepper.",
+      "4. Varm olje i en vid og dyp stekepanne og stek fiskebitene til de har fin farge. Krydre med litt salt og pepper. Løft dem over på en tallerken. ",
+      "5. Varm stekepannen på nytt og tilsett litt mer olje. Stek grønnsakene raskt i et minutt. Legg fiskebitene tilbake i pannen og hell over sausen. La alt bli gjennomvarmt. ",
+      "6. Rist sesamfrø i tørr panne og dryss dem over retten sammen med litt grovhakket koriander."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "800g steinbitfilet | 2stk. gulrot | 3stk. vårløk | 50g sukkererter | 1stk. grønn chili | 2ss olje til steking | 2,5dl mangochutney | 1,5dl soyasaus | 2ss eplecidereddik eller limejuice | 2båter finhakket hvitløk | 2ss revet frisk ingefær | 1dl vann | 1ss svarte sesamfrø eller hvite | 0,5potte frisk koriander",
+    "ingredients": [
+      "800g steinbitfilet",
+      "2stk. gulrot",
+      "3stk. vårløk",
+      "50g sukkererter",
+      "1stk. grønn chili",
+      "2ss olje til steking",
+      "2,5dl mangochutney",
+      "1,5dl soyasaus",
+      "2ss eplecidereddik eller limejuice",
+      "2båter finhakket hvitløk",
+      "2ss revet frisk ingefær",
+      "1dl vann",
+      "1ss svarte sesamfrø eller hvite",
+      "0,5potte frisk koriander"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -223,9 +777,32 @@
     "attributes": "Brød/bakverk Søt gjærbakst",
     "title": "Hveteboller med mandelfyll",
     "description": "Fylte boller med makronfyll er nydelig å servere på fastelavnssøndag eller når du har lyst på noe skikkelig godt! Du kan også velge å fylle bollene med ferdig eller hjemmelaget vaniljekrem.",
-    "steps": "1. Skjær smøret i terninger og la det mykne på benken i romtemperatur. | 2. Ha hvetemel, sukker, kardemomme, salt og melk i en bakebolle, og smuldre i gjæren. Elt deigen godt for hånd, eller med en kjøkkenmaskin. Tilsett smøret helt til slutt og jobb det godt inn i bolledeigen. | 3. Dekk bollen med plast eller et klede, og la deigen heve til dobbel størrelse, ca. 40 minutter. | 4. Gjør klar det fyllet du vil bruke mens deigen hever.  | 5. Ta deigen ut på et lett melet bakebord. Del deigen i passe store emner. Du får ca. 12 middels store boller av en porsjon deig. | 6. Del den i 12 like store deler, trill boller og trykk dem flate. Legg 1 stor teskje fyll midt på deigen, strekk deigen rundt fyllet og snurr den sammen. Sett bollen med skjøten ned på en stekeplate med bakepapir. Sett en mandel på toppen av bollene, hvis du har valgt makronfyll.  | 7. Dekk bollene med et klede, og la dem etterheve til dobbel størrelse, ca. 20-30 minutter. | 8. Pensle bollene lett med sammenvispet egg. | 9. Stek bollene midt i ovnen ved 225°C i 5 – 10 minutter. Avkjøl på rist.  | 10. Dryss over melis før servering.",
+    "steps": [
+      "1. Skjær smøret i terninger og la det mykne på benken i romtemperatur.",
+      "2. Ha hvetemel, sukker, kardemomme, salt og melk i en bakebolle, og smuldre i gjæren. Elt deigen godt for hånd, eller med en kjøkkenmaskin. Tilsett smøret helt til slutt og jobb det godt inn i bolledeigen.",
+      "3. Dekk bollen med plast eller et klede, og la deigen heve til dobbel størrelse, ca. 40 minutter.",
+      "4. Gjør klar det fyllet du vil bruke mens deigen hever. ",
+      "5. Ta deigen ut på et lett melet bakebord. Del deigen i passe store emner. Du får ca. 12 middels store boller av en porsjon deig.",
+      "6. Del den i 12 like store deler, trill boller og trykk dem flate. Legg 1 stor teskje fyll midt på deigen, strekk deigen rundt fyllet og snurr den sammen. Sett bollen med skjøten ned på en stekeplate med bakepapir. Sett en mandel på toppen av bollene, hvis du har valgt makronfyll. ",
+      "7. Dekk bollene med et klede, og la dem etterheve til dobbel størrelse, ca. 20-30 minutter.",
+      "8. Pensle bollene lett med sammenvispet egg.",
+      "9. Stek bollene midt i ovnen ved 225°C i 5 – 10 minutter. Avkjøl på rist. ",
+      "10. Dryss over melis før servering."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "100g smør | 600g hvetemel | 90g sukker | 1ts malt kardemomme | 0,5ts salt | 3,5dl melk | 1pakke gjær | 1pakke makronfyll , eller vaniljekrem | 12stk. mandler (valgfritt) | 1stk. egg , til pensling | 2ss melis",
+    "ingredients": [
+      "100g smør",
+      "600g hvetemel",
+      "90g sukker",
+      "1ts malt kardemomme",
+      "0,5ts salt",
+      "3,5dl melk",
+      "1pakke gjær",
+      "1pakke makronfyll , eller vaniljekrem",
+      "12stk. mandler (valgfritt)",
+      "1stk. egg , til pensling",
+      "2ss melis"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -233,9 +810,24 @@
     "attributes": "Dessert Andre desserter Frokost",
     "title": "Baked oats med appelsin og karamell",
     "description": "Vi får virkelig ikke nok av baked oats og spesielt ikke denne med smak av appelsin servert med masse karamellsaus. Har du lyst på noe søtt og godt er dette noe for deg! ",
-    "steps": "1. Ha havregryn, melk, egg, banan, honning, bakepulver, kanel og salt i en blender. Kjør til blandingen er jevn og glatt. | 2. Ha blandingen i en kopp som tåler varme eller en liten ildfast form. Hell over karamellsaus og lag en liten swirl med en teskje.  | 3. Skjær appelsin i tynne skiver uten skall og legg på toppen. Ta vare på resten av appelsinskivene til servering. Stek i ovnen på 175 °C i 25-30 minutter.",
+    "steps": [
+      "1. Ha havregryn, melk, egg, banan, honning, bakepulver, kanel og salt i en blender. Kjør til blandingen er jevn og glatt.",
+      "2. Ha blandingen i en kopp som tåler varme eller en liten ildfast form. Hell over karamellsaus og lag en liten swirl med en teskje. ",
+      "3. Skjær appelsin i tynne skiver uten skall og legg på toppen. Ta vare på resten av appelsinskivene til servering. Stek i ovnen på 175 °C i 25-30 minutter."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "1,5dl lettkokte havregryn | 1dl melk | 1stk. egg | 0,5stk. banan | 1,5ss flytende honning | 0,5ts bakepulver | 0,5ts malt kanel | 0,25ts salt | 1ss karamellsaus | 0,5stk. appelsin",
+    "ingredients": [
+      "1,5dl lettkokte havregryn",
+      "1dl melk",
+      "1stk. egg",
+      "0,5stk. banan",
+      "1,5ss flytende honning",
+      "0,5ts bakepulver",
+      "0,5ts malt kanel",
+      "0,25ts salt",
+      "1ss karamellsaus",
+      "0,5stk. appelsin"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -243,9 +835,24 @@
     "attributes": "Dessert Andre desserter Frokost",
     "title": "Baked oats med peanøtter og bringebær",
     "description": "Peanut butter jelly er en uslåelig kombinasjon og elsket verden over. Vi har laget vår egen vri, nemlig bakt havregrøt med peanøttsmør og bringebær. En rett du kan kose deg skikkelig med! Oppskriften gir en større porsjon eller to små. ",
-    "steps": "1. Ha havregryn, melk, egg, banan, honning, bakepulver, kanel og salt i en blender. Kjør til blandingen er jevn og glatt.  | 2. Ha 1/3 av blandingen i en kopp som tåler varme eller en liten ildfast form. Ha i peanøttsmør i midten og hell resten av røren over. | 3. Grovhakk peanøtter og dryss over sammen med friske bringebær. Stek i ovnen på 175 °C i 25-30 minutter. ",
+    "steps": [
+      "1. Ha havregryn, melk, egg, banan, honning, bakepulver, kanel og salt i en blender. Kjør til blandingen er jevn og glatt. ",
+      "2. Ha 1/3 av blandingen i en kopp som tåler varme eller en liten ildfast form. Ha i peanøttsmør i midten og hell resten av røren over.",
+      "3. Grovhakk peanøtter og dryss over sammen med friske bringebær. Stek i ovnen på 175 °C i 25-30 minutter. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "1,5dl lettkokte havregryn | 1dl melk | 1stk. egg | 0,5stk. banan | 1,5ss flytende honning | 0,5ts bakepulver | 0,25ts salt | 1ts peanøttsmør | 1ts peanøtter | 1ss bringebær",
+    "ingredients": [
+      "1,5dl lettkokte havregryn",
+      "1dl melk",
+      "1stk. egg",
+      "0,5stk. banan",
+      "1,5ss flytende honning",
+      "0,5ts bakepulver",
+      "0,25ts salt",
+      "1ts peanøttsmør",
+      "1ts peanøtter",
+      "1ss bringebær"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -253,9 +860,23 @@
     "attributes": "Frokost",
     "title": "Baked oats med blåbær",
     "description": "Vi har fått skikkelig dilla på bakt havregrøt og spesielt denne som er fylt med blåbær. Perfekt start på dagen eller som en litt sunnere dessert! Oppskriften gir en større porsjon eller to små.",
-    "steps": "1. Ha havregryn, melk, egg, banan, honning, bakepulver, kanel og salt i en blender. Kjør til blandingen er jevn og glatt.  | 2. Ha blandingen i en kopp som tåler varme eller en liten ildfast form.  | 3. Ha i blåbær og stek i ovnen på 175 °C i 25-30 minutter. ",
+    "steps": [
+      "1. Ha havregryn, melk, egg, banan, honning, bakepulver, kanel og salt i en blender. Kjør til blandingen er jevn og glatt. ",
+      "2. Ha blandingen i en kopp som tåler varme eller en liten ildfast form. ",
+      "3. Ha i blåbær og stek i ovnen på 175 °C i 25-30 minutter. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "1,5dl lettkokte havregryn | 1dl melk | 1stk. egg | 0,5stk. banan | 1,5ss flytende honning | 0,5ts bakepulver | 0,5ts malt kanel | 0,25ts salt | 1ss blåbær",
+    "ingredients": [
+      "1,5dl lettkokte havregryn",
+      "1dl melk",
+      "1stk. egg",
+      "0,5stk. banan",
+      "1,5ss flytende honning",
+      "0,5ts bakepulver",
+      "0,5ts malt kanel",
+      "0,25ts salt",
+      "1ss blåbær"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -263,9 +884,26 @@
     "attributes": "Kaker Andre kaker",
     "title": "Koppkake med gulrot",
     "description": "Raskere og enklere blir det ikke! Kake i kopp er perfekt når du får lyst på noe søtt og ikke vil lage en hel kake. Med gulrot, kesam og en frisk kesamglasur på toppen blir denne også litt sunnere.",
-    "steps": "1. Skrell og riv gulrot med et rivjern.  | 2. Ha egg, kesam, kanel, kardemomme, bakepulver, mel og honning i en bolle og bland godt sammen. Vend inn revet gulrot, men ta vare på noe til servering. | 3. Hell røren i to kopper som tåler varme og stek i ovnen på 175 °C i ca. 15 minutter. Sjekk med en bakenål for å se om kakene er ferdig.  | 4. Rør sammen kesam, sitronskall og honning. Ha glasur og revet gulrot på kaken rett før servering. ",
+    "steps": [
+      "1. Skrell og riv gulrot med et rivjern. ",
+      "2. Ha egg, kesam, kanel, kardemomme, bakepulver, mel og honning i en bolle og bland godt sammen. Vend inn revet gulrot, men ta vare på noe til servering.",
+      "3. Hell røren i to kopper som tåler varme og stek i ovnen på 175 °C i ca. 15 minutter. Sjekk med en bakenål for å se om kakene er ferdig. ",
+      "4. Rør sammen kesam, sitronskall og honning. Ha glasur og revet gulrot på kaken rett før servering. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "1stk. gulrot | 1stk. egg | 1ss kesam mager, 1 % | 0,5ts malt kanel | 0,5ts malt kardemomme | 0,5ts bakepulver | 4ss hvetemel eller valgfritt mel | 2ss honning | 1ss kesam mager, 1 % | 0,5ts revet sitronskall | 0,5ss honning",
+    "ingredients": [
+      "1stk. gulrot",
+      "1stk. egg",
+      "1ss kesam mager, 1 %",
+      "0,5ts malt kanel",
+      "0,5ts malt kardemomme",
+      "0,5ts bakepulver",
+      "4ss hvetemel eller valgfritt mel",
+      "2ss honning",
+      "1ss kesam mager, 1 %",
+      "0,5ts revet sitronskall",
+      "0,5ss honning"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -273,9 +911,24 @@
     "attributes": "Dessert Andre desserter Frokost",
     "title": "Arme riddere i muffinsform",
     "description": "Arme riddere er digg både til frokost og dessert. Her har vi laget en versjon i muffinsform fylt med søte bringebær. Bruk gjerne gammelt brød, da dette er en super rett å lage som restemat. Oppskriften gir ca. 9 stk.",
-    "steps": "1. Skjær brød i store terninger og smør muffinsform med litt smør.  | 2. Ha egg, melk, sukker, kanel og kardemomme i en bolle. Rør sammen.  | 3. Vend inn brød i blandingen og la stå i noen minutter til eggeblandingen har trukket godt inn i brødet. | 4. Vend inn bringebær i blandingen og ha over i muffinsformer.  | 5. Stek i ovnen på 180 °C i ca. 15 minutter, til gylne. ",
+    "steps": [
+      "1. Skjær brød i store terninger og smør muffinsform med litt smør. ",
+      "2. Ha egg, melk, sukker, kanel og kardemomme i en bolle. Rør sammen. ",
+      "3. Vend inn brød i blandingen og la stå i noen minutter til eggeblandingen har trukket godt inn i brødet.",
+      "4. Vend inn bringebær i blandingen og ha over i muffinsformer. ",
+      "5. Stek i ovnen på 180 °C i ca. 15 minutter, til gylne. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "3skiver brød | 1ts smør | 3stk. egg | 1dl melk | 2ss sukker | 0,5ts malt kanel | 0,5ts malt kardemomme | 2ss bringebær",
+    "ingredients": [
+      "3skiver brød",
+      "1ts smør",
+      "3stk. egg",
+      "1dl melk",
+      "2ss sukker",
+      "0,5ts malt kanel",
+      "0,5ts malt kardemomme",
+      "2ss bringebær"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -283,9 +936,28 @@
     "attributes": "Dessert Andre desserter Frokost",
     "title": "Arme riddere med blodappelsinsirup",
     "description": "Arme riddere er supert som frokost eller som en god og enkel dessert, og er en perfekt måte å bruke opp daggammelt brød på. Her har du en versjon med det lille ekstra, nemlig blodappelsinsirup, yoghurt og cruncy nøtter.",
-    "steps": "1. Start med å lage sirupen: Press appelsin og sil saften. Ha i en kjele sammen med sukker og rør til sukkeret har smeltet. La det koke inn litt, slik at det blir litt tykkere og får en sirupslignende konsistens. Avkjøl.  | 2. Skjær brød i tykke skiver. Visp egg lett sammen med melk, sukker og krydder og hell blandingen i et fat med kanter. | 3. Legg brødskivene i røren og la dem bli gjennombløte. | 4. Ta opp brødskivene og stek dem i litt smør i en stekepanne på middels varme. Stek de arme ridderne på begge sider til de er pent gulbrune. | 5. Skjær av skall på appelsinen og del  i tynne skiver. ",
+    "steps": [
+      "1. Start med å lage sirupen: Press appelsin og sil saften. Ha i en kjele sammen med sukker og rør til sukkeret har smeltet. La det koke inn litt, slik at det blir litt tykkere og får en sirupslignende konsistens. Avkjøl. ",
+      "2. Skjær brød i tykke skiver. Visp egg lett sammen med melk, sukker og krydder og hell blandingen i et fat med kanter.",
+      "3. Legg brødskivene i røren og la dem bli gjennombløte.",
+      "4. Ta opp brødskivene og stek dem i litt smør i en stekepanne på middels varme. Stek de arme ridderne på begge sider til de er pent gulbrune.",
+      "5. Skjær av skall på appelsinen og del  i tynne skiver. "
+    ],
     "numberOfPeople": "6",
-    "ingredients": "6skiver brød , fint eller grovt | 3stk. egg | 1dl melk | 2ss sukker | 1ts malt kanel | 0,5ts malt kardemomme | 2ss smør , til steking | 1dl saft av blodappelsin | 1dl sukker | 1stk. blodappelsin | 6ss gresk yoghurt | 1dl hakkede pistasjnøtter , eller hamdler",
+    "ingredients": [
+      "6skiver brød , fint eller grovt",
+      "3stk. egg",
+      "1dl melk",
+      "2ss sukker",
+      "1ts malt kanel",
+      "0,5ts malt kardemomme",
+      "2ss smør , til steking",
+      "1dl saft av blodappelsin",
+      "1dl sukker",
+      "1stk. blodappelsin",
+      "6ss gresk yoghurt",
+      "1dl hakkede pistasjnøtter , eller hamdler"
+    ],
     "time": "Under 20 min",
     "difficulty": "Middels"
   },
@@ -293,9 +965,27 @@
     "attributes": "Familien Middagsrett Ovnsretter Panneretter",
     "title": "Fiskeform med sei",
     "description": "Seifilet er rimelig, smakfull og anvendelig og sammen med en deilig, kremete saus med paprika og spinat, blir dette et hverdagslig herremåltid.",
-    "steps": "1. Skjær ut bein av fiskefileten og del den i porsjonsstykker. Legg stykkene på en tallerken og krydre dem med litt salt og pepper. | 2. Kutt paprika og løk i små biter og finhakk hvitløk.  | 3. Varm en sauteringspanne eller dyp stekepanne med olje og fres paprika, løk og hvitløk på middels varme et par minutter uten at det tar farge.  | 4. Hell i fløte og kok opp.  | 5. Fjern de groveste stilkene på spinaten og ha den i pannen. La alt koke til spinaten begynner å falle sammen. Smak til med hakket persille, salt og pepper. | 6. Hell sausen over i en ildfast form og legg fiskestykkene på toppen. Sett formen midt i forvarmet ovn på 180 °C i 12-15 minutter avhengig av størrelsen på fiskestykkene til fisken er ferdig.  | 7. Kok byggris eller perlespelt etter anvisning på pakken mens fisken står i ovnen. ",
+    "steps": [
+      "1. Skjær ut bein av fiskefileten og del den i porsjonsstykker. Legg stykkene på en tallerken og krydre dem med litt salt og pepper.",
+      "2. Kutt paprika og løk i små biter og finhakk hvitløk. ",
+      "3. Varm en sauteringspanne eller dyp stekepanne med olje og fres paprika, løk og hvitløk på middels varme et par minutter uten at det tar farge. ",
+      "4. Hell i fløte og kok opp. ",
+      "5. Fjern de groveste stilkene på spinaten og ha den i pannen. La alt koke til spinaten begynner å falle sammen. Smak til med hakket persille, salt og pepper.",
+      "6. Hell sausen over i en ildfast form og legg fiskestykkene på toppen. Sett formen midt i forvarmet ovn på 180 °C i 12-15 minutter avhengig av størrelsen på fiskestykkene til fisken er ferdig. ",
+      "7. Kok byggris eller perlespelt etter anvisning på pakken mens fisken står i ovnen. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "800g seifilet | 1stk. løk | 1stk. rød paprika | 1stk. gul paprika | 2båter hvitløk | 2ss olje | 3dl matfløte | 150g frisk spinat | 2dl byggris eller perlespelt",
+    "ingredients": [
+      "800g seifilet",
+      "1stk. løk",
+      "1stk. rød paprika",
+      "1stk. gul paprika",
+      "2båter hvitløk",
+      "2ss olje",
+      "3dl matfløte",
+      "150g frisk spinat",
+      "2dl byggris eller perlespelt"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -303,9 +993,20 @@
     "attributes": "Småretter",
     "title": "Kikertchips",
     "description": "Er du glad i kikerter? Her har du enda en måte å bruke denne næringsrike, glutenfrie og anvendelige belgfrukten på - lag din egen chips av kikertmel, og sett ditt personlige preg på dem ved å krydre dem med ulike smaker!",
-    "steps": "1. Bland kikertmel, salt og olje i en bolle og kna det sammen til en deig. Deigen skal være ganske fast. Tilsett mer kikertmel om den er for klebrig. | 2. Del deigen i to. Form hver halvdel til en ball og klem dem ut til en tykk leiv. Legg et bakepapir på benken og dryss det med kikertmel. Legg på leiven og dryss med mer kikertmel. Legg et stykke plastfolie eller en plastpose over. Kjevle ut leiven til den er  0.3-0.4 cm tykk. Bruk et pastahjul eller en trinse og skjær leiven i strimler eller annen ønsket fasong. Den vil fortsatt henge sammen, men blir lett å brekke i biter etter steking. | 3. Flytt bakepapiret over på et stekebrett, og  dryss over litt flaksalt eller krydder til pynt (vi har brukt litt paprikapulver). | 4. Stek chipsen midt i forvarmet ovn på 220 °C i ca. 8 minutter. Pass på at de ikke blir brent. Ta ut av ovnen og avkjøl på rist. Bruk fingrene og brekk chipsen fra hverandre. Server chipsene som de er, eller sammen med din favorittdip. Oppbevar chipsene i en tett pose eller boks.",
+    "steps": [
+      "1. Bland kikertmel, salt og olje i en bolle og kna det sammen til en deig. Deigen skal være ganske fast. Tilsett mer kikertmel om den er for klebrig.",
+      "2. Del deigen i to. Form hver halvdel til en ball og klem dem ut til en tykk leiv. Legg et bakepapir på benken og dryss det med kikertmel. Legg på leiven og dryss med mer kikertmel. Legg et stykke plastfolie eller en plastpose over. Kjevle ut leiven til den er  0.3-0.4 cm tykk. Bruk et pastahjul eller en trinse og skjær leiven i strimler eller annen ønsket fasong. Den vil fortsatt henge sammen, men blir lett å brekke i biter etter steking.",
+      "3. Flytt bakepapiret over på et stekebrett, og  dryss over litt flaksalt eller krydder til pynt (vi har brukt litt paprikapulver).",
+      "4. Stek chipsen midt i forvarmet ovn på 220 °C i ca. 8 minutter. Pass på at de ikke blir brent. Ta ut av ovnen og avkjøl på rist. Bruk fingrene og brekk chipsen fra hverandre. Server chipsene som de er, eller sammen med din favorittdip. Oppbevar chipsene i en tett pose eller boks."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "0,5l kikertmel | 2ts olivenolje | 0,5ts salt | 2,5dl vann | 1ts flaksalt , paprikapulver eller annet ønsket krydder",
+    "ingredients": [
+      "0,5l kikertmel",
+      "2ts olivenolje",
+      "0,5ts salt",
+      "2,5dl vann",
+      "1ts flaksalt , paprikapulver eller annet ønsket krydder"
+    ],
     "time": "40–60 min",
     "difficulty": "Enkel"
   },
@@ -313,9 +1014,33 @@
     "attributes": "Middagsrett Supper",
     "title": "Ungarsk gulasj",
     "description": "Dette er en original oppskrift på ungarsk gulasj, raust delt med MatPrat av ungarskættede Peter Nagy. Vi lager den med høyrygg eller bog av storfe, og aller helst ungarsk paprikapulver, som gir den helt riktige, dype paprikasmaken. Og husk - gulasj er en suppe, ikke en gryterett.",
-    "steps": "1. Fjern de groveste hinnene og overflødig fett, og kutt kjøttet i terninger på ca. 3x3 cm. | 2. Finhakk løken. Varm olje i en gryte (gjerne en jerngryte) og stek løken på svak varme til den blir gyllen, ca. 20 minutter. Tilsett litt vann så er du sikker på at løken ikke blir brent.  | 3. Ta kjelen av varmen og bland inn paprikapulver. Pass på at det ikke brunes eller blir brent – det vil ødelegge smaken.  | 4. Vend kjøttet inn i løk/ paprika-miksen. Tilsett pepper og vann så det akkurat dekker kjøttet. Kok opp (men ikke skum av), senk varmen, sett på lokk og la kjøttet småkoke i 2-3 timer, til det er mørt. | 5. Skrell og kutt poteter, gulrot, persillerot og sellerirot i små terninger. Bruk morter og knus karve grovt. | 6. Flå tomaten ved å skjære et kryss i skinnet og dyppe den i kokende vann til skinnet begynner å løsne. Løft den ut av vannet og fjern resten av skallet. Hakk tomaten fint. | 7. Ha poteter, grønnsaker, karve og tomat i suppen og la alt koke med den siste halvtimen, eller til potene er møre. Smak eventuelt til med litt salt og pepper. Dryss over hakket persille.",
+    "steps": [
+      "1. Fjern de groveste hinnene og overflødig fett, og kutt kjøttet i terninger på ca. 3x3 cm.",
+      "2. Finhakk løken. Varm olje i en gryte (gjerne en jerngryte) og stek løken på svak varme til den blir gyllen, ca. 20 minutter. Tilsett litt vann så er du sikker på at løken ikke blir brent. ",
+      "3. Ta kjelen av varmen og bland inn paprikapulver. Pass på at det ikke brunes eller blir brent – det vil ødelegge smaken. ",
+      "4. Vend kjøttet inn i løk/ paprika-miksen. Tilsett pepper og vann så det akkurat dekker kjøttet. Kok opp (men ikke skum av), senk varmen, sett på lokk og la kjøttet småkoke i 2-3 timer, til det er mørt.",
+      "5. Skrell og kutt poteter, gulrot, persillerot og sellerirot i små terninger. Bruk morter og knus karve grovt.",
+      "6. Flå tomaten ved å skjære et kryss i skinnet og dyppe den i kokende vann til skinnet begynner å løsne. Løft den ut av vannet og fjern resten av skallet. Hakk tomaten fint.",
+      "7. Ha poteter, grønnsaker, karve og tomat i suppen og la alt koke med den siste halvtimen, eller til potene er møre. Smak eventuelt til med litt salt og pepper. Dryss over hakket persille."
+    ],
     "numberOfPeople": "6",
-    "ingredients": "1kg kokekjøtt av storfe, f.eks bog eller høyrygg | 2ts salt | 3stk. løk | 3ss olje | 0,5dl vann | 4ss paprikapulver , helst ungarsk | 1ts hel, svart pepper | 1,5l vann | 500g potet | 200g gulrot | 100g persillerot | 200g sellerirot | 1ts karve | 1stk. tomat | 2ss hakket bladpersille",
+    "ingredients": [
+      "1kg kokekjøtt av storfe, f.eks bog eller høyrygg",
+      "2ts salt",
+      "3stk. løk",
+      "3ss olje",
+      "0,5dl vann",
+      "4ss paprikapulver , helst ungarsk",
+      "1ts hel, svart pepper",
+      "1,5l vann",
+      "500g potet",
+      "200g gulrot",
+      "100g persillerot",
+      "200g sellerirot",
+      "1ts karve",
+      "1stk. tomat",
+      "2ss hakket bladpersille"
+    ],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -323,9 +1048,22 @@
     "attributes": "Familien Middagsrett Gryter",
     "title": "Fiskeboller i hvit saus",
     "description": "Enkelte retter vekker til live sterke barndomsminner. Fiskeboller i hvit saus er en slik rett for mange, og enten elsker du denne retroretten og blir myk om hjertet av smaken, eller så mener du dette kun er mat for tannløse og småunger. Uansett - fiskeboller i hvit saus glimrende hverdagsmat!",
-    "steps": "1. Smelt margarin i en kjele og rør inn hvetemel. | 2. Tilsett melk og halvparten av kraften i fiskebolleboksen og visp godt, slik at det ikke blir klumper i sausen. Kok opp, senk varmen og la sausen småkoke et par minutter. Tilsett mer melk om sausen blir for tykk. Pass på at sausen ikke brenner seg i bunnen. Smak til med salt og pepper. | 3. Ha fiskebollene i sausen og la dem bli gjennomvarme.  | 4. Kok potetene til de er helt møre.Skrell og kutt gulrøttene i terninger og kok dem møre i litt lettsaltet vann. Dryss over litt hakket gressløk.",
+    "steps": [
+      "1. Smelt margarin i en kjele og rør inn hvetemel.",
+      "2. Tilsett melk og halvparten av kraften i fiskebolleboksen og visp godt, slik at det ikke blir klumper i sausen. Kok opp, senk varmen og la sausen småkoke et par minutter. Tilsett mer melk om sausen blir for tykk. Pass på at sausen ikke brenner seg i bunnen. Smak til med salt og pepper.",
+      "3. Ha fiskebollene i sausen og la dem bli gjennomvarme. ",
+      "4. Kok potetene til de er helt møre.Skrell og kutt gulrøttene i terninger og kok dem møre i litt lettsaltet vann. Dryss over litt hakket gressløk."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "2ss margarin | 3ss hvetemel | 1boks eller pakke fiskeboller | 4dl melk | 800g potet | 800g gulrot | 2ss finkuttet frisk gressløk eller persille",
+    "ingredients": [
+      "2ss margarin",
+      "3ss hvetemel",
+      "1boks eller pakke fiskeboller",
+      "4dl melk",
+      "800g potet",
+      "800g gulrot",
+      "2ss finkuttet frisk gressløk eller persille"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -333,9 +1071,18 @@
     "attributes": "Tilbehør Sauser",
     "title": "Sandefjordsmør",
     "description": "Sandefjordsmør er en klassisk saus med lange tradisjoner i Norge. Den fyldige og gode smaken fra fløte og smør passer spesielt godt til fiskeretter.",
-    "steps": "1. Kok opp kremfløten og kok den inn til litt under halvparten, ca. 3 dl.  | 2. Ta gryten av varmen og pisk inn smørterninger, litt etter litt.  | 3. Tilsett hakket persille og smak til med sitronsaft, salt og pepper.",
+    "steps": [
+      "1. Kok opp kremfløten og kok den inn til litt under halvparten, ca. 3 dl. ",
+      "2. Ta gryten av varmen og pisk inn smørterninger, litt etter litt. ",
+      "3. Tilsett hakket persille og smak til med sitronsaft, salt og pepper."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "6dl fløte | 200g smør | 2ss frisk persille | 1ss sitronsaft",
+    "ingredients": [
+      "6dl fløte",
+      "200g smør",
+      "2ss frisk persille",
+      "1ss sitronsaft"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -343,9 +1090,22 @@
     "attributes": "Dessert Dessertsauser/kremer",
     "title": "Karamellsaus",
     "description": "En deilig hjemmelaget karamellsaus er alltid populært og passer perfekt til hjemmelaget is, kaker og andre desserter. Det krever litt tålmodighet, men det er så verdt det!",
-    "steps": "1. Del smør i terninger. Ha sukker i en tykkbunnet kjele og sett platen på middels varme. Rør av og til i starten og ofte når sukkeret begynner å smelte.  | 2. Skru platen ned noe når sukkeret er oppløst og begynner å bli brunt.  | 3. Ta kjelen bort fra platen og ha i vannet. Det kan sprute noe, så vær forsiktig. Rør godt og sett kjelen tilbake på svak varme når vannet har roet seg. Rør godt til vannet har blandet seg med sukkeret.  | 4. Ta kjelen bort fra platen igjen og tilsett vaniljeekstrakt.  | 5. Pisk inn smør i to omganger og ha deretter i fløte. Rør til alt er godt blandet og smak til med litt salt.  | 6. Avkjøl karamellsausen og hell over på rene, steriliserte glass. ",
+    "steps": [
+      "1. Del smør i terninger. Ha sukker i en tykkbunnet kjele og sett platen på middels varme. Rør av og til i starten og ofte når sukkeret begynner å smelte. ",
+      "2. Skru platen ned noe når sukkeret er oppløst og begynner å bli brunt. ",
+      "3. Ta kjelen bort fra platen og ha i vannet. Det kan sprute noe, så vær forsiktig. Rør godt og sett kjelen tilbake på svak varme når vannet har roet seg. Rør godt til vannet har blandet seg med sukkeret. ",
+      "4. Ta kjelen bort fra platen igjen og tilsett vaniljeekstrakt. ",
+      "5. Pisk inn smør i to omganger og ha deretter i fløte. Rør til alt er godt blandet og smak til med litt salt. ",
+      "6. Avkjøl karamellsausen og hell over på rene, steriliserte glass. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "100g smør | 2,5dl sukker | 0,5dl vann | 0,5ts vaniljeekstrakt | 1dl kremfløte",
+    "ingredients": [
+      "100g smør",
+      "2,5dl sukker",
+      "0,5dl vann",
+      "0,5ts vaniljeekstrakt",
+      "1dl kremfløte"
+    ],
     "time": "20–40 min",
     "difficulty": "Middels"
   },
@@ -353,9 +1113,21 @@
     "attributes": "Familien Dessert Andre desserter Frokost",
     "title": "Toast med enkel eggekrem",
     "description": "Har du prøvd den virale custrad yoghurt toasten? Her er oppskriften om du vil teste denne enkle og søte toasten med en jukse-eggekrem laget av yoghurt, egg og honning. Enkelt og godt!",
-    "steps": "1. Visp sammen egg, yoghurt og honning. | 2. Bruk baksiden av en spiseskje til å presse en liten grop i midten av hver skive med brød, og fyll hver grop med eggeblandingen.  | 3. Topp med litt skiver av jordbær eller sjokoladebiter. Du kan også bruke annen topping som for eksempel bringebær, blåbær, skiver av aprikos eller fersken. | 4. Stek i ovnen på et bakepapirkledd stekebrett eller i en ildfast form på 180 °C i ca. 10 minutter, eller til eggekremen stivner. ",
+    "steps": [
+      "1. Visp sammen egg, yoghurt og honning.",
+      "2. Bruk baksiden av en spiseskje til å presse en liten grop i midten av hver skive med brød, og fyll hver grop med eggeblandingen. ",
+      "3. Topp med litt skiver av jordbær eller sjokoladebiter. Du kan også bruke annen topping som for eksempel bringebær, blåbær, skiver av aprikos eller fersken.",
+      "4. Stek i ovnen på et bakepapirkledd stekebrett eller i en ildfast form på 180 °C i ca. 10 minutter, eller til eggekremen stivner. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "1stk. egg | 2ss gresk yoghurt | 1ts flytende honning | 4skiver brød , fint eller grovt | 2stk. jordbær , i skiver | 2ss sjokolade , i biter",
+    "ingredients": [
+      "1stk. egg",
+      "2ss gresk yoghurt",
+      "1ts flytende honning",
+      "4skiver brød , fint eller grovt",
+      "2stk. jordbær , i skiver",
+      "2ss sjokolade , i biter"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -363,9 +1135,22 @@
     "attributes": "Familien Middagsrett",
     "title": "Røkt kolje med grønnsaksragu",
     "description": "Røkt kolje har her fått utradisjonelt følge av en deilig grønnsaksragu med masse smak, som matcher den røkte fisken veldig godt. En klatt yoghurt eller rømme og en lite skvis med sitron et friskt alternativ til saus.",
-    "steps": "1. Kok opp rikelig med vann i en romslig kjele. Legg i fiskestykkene. Varm opp til kokepunktet igjen, sett på lokk og trekk kjelen av platen. La fisken trekke i ca. 10 minutter, avhengig av størrelsen på stykkene. | 2. Kutt løk og persillerot i fine terninger og sopp i skiver. Varm en stekepanne med litt olje i en stekepanne og fres grønnsaker og sopp til de begynner å få farge. Tilsett sitronskall- og saft og smak til med salt og pepper.  | 3. Vend frisk spinat og hakket persille inn grønnsaksraguen. Smak til med litt salt og pepper.",
+    "steps": [
+      "1. Kok opp rikelig med vann i en romslig kjele. Legg i fiskestykkene. Varm opp til kokepunktet igjen, sett på lokk og trekk kjelen av platen. La fisken trekke i ca. 10 minutter, avhengig av størrelsen på stykkene.",
+      "2. Kutt løk og persillerot i fine terninger og sopp i skiver. Varm en stekepanne med litt olje i en stekepanne og fres grønnsaker og sopp til de begynner å få farge. Tilsett sitronskall- og saft og smak til med salt og pepper. ",
+      "3. Vend frisk spinat og hakket persille inn grønnsaksraguen. Smak til med litt salt og pepper."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "800g røkt kolje eler annen røkt fisk | 1stk. løk | 150g persillerot | 250g aromasopp eller sjampinjong | 2ss olje | 0,5stk. sitron | 100g frisk spinat | 2ss hakket bladpersille",
+    "ingredients": [
+      "800g røkt kolje eler annen røkt fisk",
+      "1stk. løk",
+      "150g persillerot",
+      "250g aromasopp eller sjampinjong",
+      "2ss olje",
+      "0,5stk. sitron",
+      "100g frisk spinat",
+      "2ss hakket bladpersille"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -373,9 +1158,33 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Sushi bake",
     "description": "Bakt sushi i langpanne eller sushi bake er en superenkel måter å lage sushi til mange på! Sett langpanna rett på bordet sammen med tilbehøret, slik at alle kan forsyne seg selv – litt som sushitaco! ",
-    "steps": "1. Kok ris etter anvisning på pakken, eller følg denne fremgangsmetoden: Skyll ris i kaldt vann i flere omganger til vannet blir helt klart (ikke lenger hvitt). Ha risen i en kasserolle og hell på vann slik at vannet står ca. 2 cm over risen. Kok opp under lokk, og la det koke godt i 2-3 minutter. Trekk kasserollen til side eller skru ned platen og kok videre på lav varme i ca. 10 minutter. I løpet av denne tiden skal alt vannet bli borte. Vend forsiktig inn risvineddik, og la det avkjøle seg.  | 2. Lag fyllet: Riv crabsticks i små biter og bland sammen med majones, kremost og sriacha til du har en jevn og fin røre.   | 3. Bland sammen majones og sriacha, for å lage srirachamajones. | 4. Ha risen over i en ildfast form, og fordel den utover. Press risen lett ned i forma, slik at du får et jevnt og glatt lag. Dryss over furikake og bre over crabstick-fyllet. Topp med litt av srirachamajonesen og gjerne litt ekstra sriacha, hvis du litt sterk smak.  | 5. Stek på 200 °C, i ca. 10 minutter.  | 6. Gjør klar tilbehøret: Klipp opp noriark i mindre biter, skjær avokado i tynne skiver, agurk i tynne staver og vårløk i skiver. | 7. Topp formen med finhakket vårløk og sesamfrø og server varm sammen med noriark, avokado, agurk, koriander og srirachamajones.",
+    "steps": [
+      "1. Kok ris etter anvisning på pakken, eller følg denne fremgangsmetoden: Skyll ris i kaldt vann i flere omganger til vannet blir helt klart (ikke lenger hvitt). Ha risen i en kasserolle og hell på vann slik at vannet står ca. 2 cm over risen. Kok opp under lokk, og la det koke godt i 2-3 minutter. Trekk kasserollen til side eller skru ned platen og kok videre på lav varme i ca. 10 minutter. I løpet av denne tiden skal alt vannet bli borte. Vend forsiktig inn risvineddik, og la det avkjøle seg. ",
+      "2. Lag fyllet: Riv crabsticks i små biter og bland sammen med majones, kremost og sriacha til du har en jevn og fin røre.  ",
+      "3. Bland sammen majones og sriacha, for å lage srirachamajones.",
+      "4. Ha risen over i en ildfast form, og fordel den utover. Press risen lett ned i forma, slik at du får et jevnt og glatt lag. Dryss over furikake og bre over crabstick-fyllet. Topp med litt av srirachamajonesen og gjerne litt ekstra sriacha, hvis du litt sterk smak. ",
+      "5. Stek på 200 °C, i ca. 10 minutter. ",
+      "6. Gjør klar tilbehøret: Klipp opp noriark i mindre biter, skjær avokado i tynne skiver, agurk i tynne staver og vårløk i skiver.",
+      "7. Topp formen med finhakket vårløk og sesamfrø og server varm sammen med noriark, avokado, agurk, koriander og srirachamajones."
+    ],
     "numberOfPeople": "6",
-    "ingredients": "250g sushiris | 0,5dl risvineddik | 1ss furikake | 4stk. nori (grønne ark som brukes til maki) | 1stk. avokado | 0,5stk. agurk | 4stk. vårløk | 1ss sesamfrø | 0,25potte frisk koriander | 250g crabsticks | 0,5dl majones , gjerne en syrlig variant | 60g kremost naturell | 1ss sriracha (asiatisk chilisaus) | 1,5dl majones , gjerne en syrlig variant | 1ss sriracha (asiatisk chilisaus)",
+    "ingredients": [
+      "250g sushiris",
+      "0,5dl risvineddik",
+      "1ss furikake",
+      "4stk. nori (grønne ark som brukes til maki)",
+      "1stk. avokado",
+      "0,5stk. agurk",
+      "4stk. vårløk",
+      "1ss sesamfrø",
+      "0,25potte frisk koriander",
+      "250g crabsticks",
+      "0,5dl majones , gjerne en syrlig variant",
+      "60g kremost naturell",
+      "1ss sriracha (asiatisk chilisaus)",
+      "1,5dl majones , gjerne en syrlig variant",
+      "1ss sriracha (asiatisk chilisaus)"
+    ],
     "time": "20–40 min",
     "difficulty": "Middels"
   },
@@ -383,9 +1192,20 @@
     "attributes": "Småretter",
     "title": "Lefseruller med røkelaks",
     "description": "Lefseruller med røkelaks er en klassiker og noe de fleste setter pris på! Disse har vi fylt med snøfrisk, rødløk og dill. Passer like godt til koldtbordet, som til lunsj!",
-    "steps": "1. Smør kremost i et jevnt, tynt lag utover lefsene. Legg på skiver av røkelaks.  | 2. Finhakk dill og rødløk.  | 3. Legg litt ruccula på lefsene, og dryss på finhakket dill og rødløk. Rull lefsene sammen, og skjær dem opp i biter på 3-4 cm. Legg over på et serveringsfat eller spis som de er. ",
+    "steps": [
+      "1. Smør kremost i et jevnt, tynt lag utover lefsene. Legg på skiver av røkelaks. ",
+      "2. Finhakk dill og rødløk. ",
+      "3. Legg litt ruccula på lefsene, og dryss på finhakket dill og rødløk. Rull lefsene sammen, og skjær dem opp i biter på 3-4 cm. Legg over på et serveringsfat eller spis som de er. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "4ss snøfrisk naturell | 2stk. lefse | 4skiver røkelaks | 2ss frisk dill | 0,25stk. rødløk | 20g ruccula",
+    "ingredients": [
+      "4ss snøfrisk naturell",
+      "2stk. lefse",
+      "4skiver røkelaks",
+      "2ss frisk dill",
+      "0,25stk. rødløk",
+      "20g ruccula"
+    ],
     "time": "Under 20 min",
     "difficulty": "Superenkel"
   },
@@ -393,9 +1213,25 @@
     "attributes": "Forretter Småretter Koldtbord",
     "title": "Terteskjell med fiskepudding og reker",
     "description": "Sprø terteskjell fylt med en deilig hvit saus, fiskepudding, reker og erter – terteskjell med fiskepudding er en skikkelig retro-klassiker!",
-    "steps": "1. Smelt smør i en kjele og rør inn mel. Rør godt til blandingen «slipper» kjelen. Spe med halvparten av melken, og rør godt. Tilsett resten av melken og rør til du har en glatt saus. Bruk gjerne varm melk når du sper, da er det enklere å få en jevn og fin saus. | 2. La sausen småkoke i ca. 5 minutter. Rør om av og til. Pass på at sausen ikke blir brent. Smak til med salt, pepper og eventuelt muskat. | 3. Varm gjerne terteskjellene etter anvisning på pakken.  | 4. Skjær fiskepuddingen i terninger og vend inn i den hvite sausen sammen med erter. La det trekke til alt er varmt. Vend inn rekene rett før servering. ",
+    "steps": [
+      "1. Smelt smør i en kjele og rør inn mel. Rør godt til blandingen «slipper» kjelen. Spe med halvparten av melken, og rør godt. Tilsett resten av melken og rør til du har en glatt saus. Bruk gjerne varm melk når du sper, da er det enklere å få en jevn og fin saus.",
+      "2. La sausen småkoke i ca. 5 minutter. Rør om av og til. Pass på at sausen ikke blir brent. Smak til med salt, pepper og eventuelt muskat.",
+      "3. Varm gjerne terteskjellene etter anvisning på pakken. ",
+      "4. Skjær fiskepuddingen i terninger og vend inn i den hvite sausen sammen med erter. La det trekke til alt er varmt. Vend inn rekene rett før servering. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "2ss smør | 3ss hvetemel | 5dl melk | 0,5ts salt | 0,25ts pepper | 0,25ts malt muskat | 8stk. terteskjell | 600g fiskepudding | 1dl frosne erter | 100g pillede reker",
+    "ingredients": [
+      "2ss smør",
+      "3ss hvetemel",
+      "5dl melk",
+      "0,5ts salt",
+      "0,25ts pepper",
+      "0,25ts malt muskat",
+      "8stk. terteskjell",
+      "600g fiskepudding",
+      "1dl frosne erter",
+      "100g pillede reker"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -403,9 +1239,22 @@
     "attributes": "Familien Middagsrett",
     "title": "Enkel fiskeburger",
     "description": "Lag enkle fiskeburgere med fiskepudding! Sammen med grove hamburgerbrød, en enkel kålsalat og paprika blir dette en deilig og enkel og rask middag eller lunsj som passer både for store og små.",
-    "steps": "1. Skjær fiskepudding i tykke skiver. Varm en stekepanne på middels varme med margarin eller olje. Legg i fiskepuddingskivene og stek dem på begge sider til de har fått fin farge og er gjennomvarme. | 2. Gjør klar tilbehøret. Varm hamburgerbrød som anvist på pakken, eventuelt varm dem raskt på grillen.  | 3. Finsnitt kål så tynt som mulig med mandolin, ostehøvel eller en skarp kniv. Kutt vårløk i tynne skiver og bland sammen kål, vårløk og rømme. Smak gjerne til med salt og pepper.  | 4. Skjær paprika i skiver. ",
+    "steps": [
+      "1. Skjær fiskepudding i tykke skiver. Varm en stekepanne på middels varme med margarin eller olje. Legg i fiskepuddingskivene og stek dem på begge sider til de har fått fin farge og er gjennomvarme.",
+      "2. Gjør klar tilbehøret. Varm hamburgerbrød som anvist på pakken, eventuelt varm dem raskt på grillen. ",
+      "3. Finsnitt kål så tynt som mulig med mandolin, ostehøvel eller en skarp kniv. Kutt vårløk i tynne skiver og bland sammen kål, vårløk og rømme. Smak gjerne til med salt og pepper. ",
+      "4. Skjær paprika i skiver. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "600g fiskepudding | 2ss margarin eller olje, til steking | 4stk. grove hamburgerbrød | 200g hodekål , eller spisskål | 4stk. vårløk | 2dl lettrømme | 1stk. grønn paprika",
+    "ingredients": [
+      "600g fiskepudding",
+      "2ss margarin eller olje, til steking",
+      "4stk. grove hamburgerbrød",
+      "200g hodekål , eller spisskål",
+      "4stk. vårløk",
+      "2dl lettrømme",
+      "1stk. grønn paprika"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -413,9 +1262,23 @@
     "attributes": "Tilbehør Dressing/dip",
     "title": "Cheddar cheese ostedipp",
     "description": "Ostedipp fra bunnen av er kanskje noe av det diggeste man kan lage! Bruk gode oster med masse smak så har du en fulltreffer hver gang. Server den over taco eller som dipp til nachochips!",
-    "steps": "1. Smelt smør i en kjele og rør inn mel. Rør godt til blandingen «slipper» kjelen. | 2. Spe med halvparten av melken, og rør godt. Tilsett resten av melken og rør til du har en glatt saus. | 3. La sausen småkoke i ca. 5 minutter. Rør om av og til. Pass på at sausen ikke blir brent. Smak til med salt, kajennepepper og muskat.  | 4. Riv ost med et rivjern og ha i kjelen. Skru ned varmen og rør godt rundt til osten smelter inn i sausen. ",
+    "steps": [
+      "1. Smelt smør i en kjele og rør inn mel. Rør godt til blandingen «slipper» kjelen.",
+      "2. Spe med halvparten av melken, og rør godt. Tilsett resten av melken og rør til du har en glatt saus.",
+      "3. La sausen småkoke i ca. 5 minutter. Rør om av og til. Pass på at sausen ikke blir brent. Smak til med salt, kajennepepper og muskat. ",
+      "4. Riv ost med et rivjern og ha i kjelen. Skru ned varmen og rør godt rundt til osten smelter inn i sausen. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "2ss smør | 2ss hvetemel | 3dl melk | 1ts salt | 1ts kajennepepper | 0,25ts malt muskat | 100g god cheddar ost | 100g vellagret ost , gjerne halvmyk ost med smak av paprika eller jalapeño",
+    "ingredients": [
+      "2ss smør",
+      "2ss hvetemel",
+      "3dl melk",
+      "1ts salt",
+      "1ts kajennepepper",
+      "0,25ts malt muskat",
+      "100g god cheddar ost",
+      "100g vellagret ost , gjerne halvmyk ost med smak av paprika eller jalapeño"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -423,9 +1286,28 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Ovnsbakt laks med crispy salat",
     "description": "Ovnsstekt laks penslet med olje og gode, varme kryddere er noe vi aldri får nok av! Server med en frisk og knasende salat med havreris og du har en knallgod rett gang på gang!",
-    "steps": "1. Kok havreris som anvist på pakken.  | 2. Ha laksefilet over i en ildfast form. Bland sammen olje, paprikakrydder, spisskummen og salt i en bolle. Rør sammen og pensle oljeblandingen på fisken.  | 3. Stek fisken i ovnen på 180 °C i 10-12 minutter.  | 4. Skrell gulrot og skyll agurk, reddiker og vårløk. Skjær gulrot og agurk i lange, tynne skiver ved hjelp av en mandolin, grønnsakskjærer eller ostehøvel. Skjær reddiker og vårløk i tynne skiver. | 5. Ha grønnsakene over i en serveringsbolle og smak til med sitronsaft, olivenolje, salt og pepper. ",
+    "steps": [
+      "1. Kok havreris som anvist på pakken. ",
+      "2. Ha laksefilet over i en ildfast form. Bland sammen olje, paprikakrydder, spisskummen og salt i en bolle. Rør sammen og pensle oljeblandingen på fisken. ",
+      "3. Stek fisken i ovnen på 180 °C i 10-12 minutter. ",
+      "4. Skrell gulrot og skyll agurk, reddiker og vårløk. Skjær gulrot og agurk i lange, tynne skiver ved hjelp av en mandolin, grønnsakskjærer eller ostehøvel. Skjær reddiker og vårløk i tynne skiver.",
+      "5. Ha grønnsakene over i en serveringsbolle og smak til med sitronsaft, olivenolje, salt og pepper. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "2dl havreris eller byggryn | 600g laksefilet | 0,5ss olje | 0,5ss paprikapulver | 0,5ss malt spisskummen | 0,5ts salt | 4stk. gulrot | 2stk. agurk | 1pk reddik | 2stk. vårløk | 0,5stk. sitronsaft | 0,5ss virgin olivenolje",
+    "ingredients": [
+      "2dl havreris eller byggryn",
+      "600g laksefilet",
+      "0,5ss olje",
+      "0,5ss paprikapulver",
+      "0,5ss malt spisskummen",
+      "0,5ts salt",
+      "4stk. gulrot",
+      "2stk. agurk",
+      "1pk reddik",
+      "2stk. vårløk",
+      "0,5stk. sitronsaft",
+      "0,5ss virgin olivenolje"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -433,9 +1315,29 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Fylt søtpotet",
     "description": "Fylt søtpotet er skikkelig digg! Spesielt godt er det om man fyller den med syltet rødkål, ristede gresskarkjerner, en frisk yoghurtdressing og masse ruccula på toppen!",
-    "steps": "1. Stikk hull i søtpoteten med en skarp kniv. Legg over i en ildfast form og stek i ovnen på 180 °C i ca. 45 minutter eller til gjennomstekt og myk.  | 2. Kutt rødkål og rødløk i tynne skiver, gjerne med en mandolin.  | 3. Ha rødkål og rødløk i en bolle sammen med eddik, sukker og salt. Bland sammen. | 4. Ha yoghurt, spisskummen, gurkemeie og sitronsaft i en bolle. Bland sammen og smak til med salt og pepper.  | 5. Ha gresskarkjerner i en tørr stekepanne. Skru på medium varme og rist gresskarkjernene til gylne. Dette kan gå fort, så følg med! | 6. Ta søtpotetene ut av ovnen og kutt et snitt på langs. Press lett på sidene for å åpne poteten. Ha på yoghurtdressing, syltet rødkål, ristede gresskarkjerner og topp med masse ruccula. ",
+    "steps": [
+      "1. Stikk hull i søtpoteten med en skarp kniv. Legg over i en ildfast form og stek i ovnen på 180 °C i ca. 45 minutter eller til gjennomstekt og myk. ",
+      "2. Kutt rødkål og rødløk i tynne skiver, gjerne med en mandolin. ",
+      "3. Ha rødkål og rødløk i en bolle sammen med eddik, sukker og salt. Bland sammen.",
+      "4. Ha yoghurt, spisskummen, gurkemeie og sitronsaft i en bolle. Bland sammen og smak til med salt og pepper. ",
+      "5. Ha gresskarkjerner i en tørr stekepanne. Skru på medium varme og rist gresskarkjernene til gylne. Dette kan gå fort, så følg med!",
+      "6. Ta søtpotetene ut av ovnen og kutt et snitt på langs. Press lett på sidene for å åpne poteten. Ha på yoghurtdressing, syltet rødkål, ristede gresskarkjerner og topp med masse ruccula. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "1stk. søtpotet | 2ss gresskarkjerner | 0,5dl ruccula | 1dl rødkål | 0,5stk. rødløk | 1ss eplecidereddik | 0,5ts sukker | 0,5ts salt | 1dl yoghurt naturell | 0,5ts malt spisskummen | 0,5ts gurkemeie | 0,5ss sitron",
+    "ingredients": [
+      "1stk. søtpotet",
+      "2ss gresskarkjerner",
+      "0,5dl ruccula",
+      "1dl rødkål",
+      "0,5stk. rødløk",
+      "1ss eplecidereddik",
+      "0,5ts sukker",
+      "0,5ts salt",
+      "1dl yoghurt naturell",
+      "0,5ts malt spisskummen",
+      "0,5ts gurkemeie",
+      "0,5ss sitron"
+    ],
     "time": "40–60 min",
     "difficulty": "Enkel"
   },
@@ -443,9 +1345,21 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Tray bake med laks",
     "description": "Kanskje verdens enkleste tray bake? Ha alle ingrediensene i en form og smekk inn i ovnen. Perfekt når du har lyst på noe som går fort, men som også smaker skikkelig godt. Bruk grønnsakene du har liggende, så blir du en matredder i samme slengen!",
-    "steps": "1. Skyll og kutt grønnsaker i like store biter.  | 2. Ha olje i en ildfast form eller på et stekebrett. Legg laksefilet og grønnsaker i formen. Ha  olje på toppen og krydre med salt og pepper.  | 3. Sett formen inn i ovnen og stek på 200 °C i ca. 10 minutter. Ha over sitronsaft før servering. ",
+    "steps": [
+      "1. Skyll og kutt grønnsaker i like store biter. ",
+      "2. Ha olje i en ildfast form eller på et stekebrett. Legg laksefilet og grønnsaker i formen. Ha  olje på toppen og krydre med salt og pepper. ",
+      "3. Sett formen inn i ovnen og stek på 200 °C i ca. 10 minutter. Ha over sitronsaft før servering. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "1stk. grønn squash | 1stk. gul paprika | 2stk. rødløk | 1stk. brokkoli | 4ss olje | 4stk. laksefilet | 0,5stk. sitron",
+    "ingredients": [
+      "1stk. grønn squash",
+      "1stk. gul paprika",
+      "2stk. rødløk",
+      "1stk. brokkoli",
+      "4ss olje",
+      "4stk. laksefilet",
+      "0,5stk. sitron"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -453,9 +1367,20 @@
     "attributes": "Dessert Frukt/bær",
     "title": "Tray bake med banan og is",
     "description": "Tray bake trenger ikke alltid være en middagsrett- det kan også bli til en skikkelig digg dessert. Bak banan i ovnen og topp med vaniljeis, peanøtter, cocktailbær og karamellsaus. Bruk gjerne brune bananer til denne retten, så reduserer du matsvinn i samme slengen!",
-    "steps": "1. Skrell og del banan i skiver på langs. Legg over i en ildfast form eller på et stekebrett.  | 2. Dryss over brunt sukker og stek i ovnen på 200 °C i 15 minutter. | 3. Grovhakk peanøtter og server varme bananer toppet med vaniljeis, peanøtter, cocktailbær og karamellsaus. ",
+    "steps": [
+      "1. Skrell og del banan i skiver på langs. Legg over i en ildfast form eller på et stekebrett. ",
+      "2. Dryss over brunt sukker og stek i ovnen på 200 °C i 15 minutter.",
+      "3. Grovhakk peanøtter og server varme bananer toppet med vaniljeis, peanøtter, cocktailbær og karamellsaus. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "3stk. banan | 2ts brunt sukker | 4ss salte peanøtter | 0,5l vaniljeis | 1glass cocktailbær | 4ss karamellsaus",
+    "ingredients": [
+      "3stk. banan",
+      "2ts brunt sukker",
+      "4ss salte peanøtter",
+      "0,5l vaniljeis",
+      "1glass cocktailbær",
+      "4ss karamellsaus"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -463,9 +1388,33 @@
     "attributes": "Middagsrett Supper Vegetar",
     "title": "Maissuppe med grove scones",
     "description": "Maissuppe, eller corn chowder, er en deilig og kremet suppe som passer like godt på en kald vinterdag med hermetisk mais som på en varm sommerdag med sesongens ferske mais. Server med nystekte grove scones – enkelt og veldig, veldig godt!",
-    "steps": "1. Start med å forberede sconesen: Ha mel, bakepulver, salt og sukker i en bakebolle og bland sammen. Ha i olje og melk og rør sammen deigen. Er den litt klissete så kan du tilsette litt mer hvetemel.  | 2. Ha deigen over på et stekbrett med bakepapir og form den til en rundt kake (2-3 cm tykk), og skjær rektangelet i fire like deler, men ikke skjær helt igjennom. Stek midt i ovnen ved 200 °C i 15–20 minutter. Avkjøl på rist.  | 3. Rens løk, gulrot og potet, og skjær i biter. Sil vekk laken fra de hermetiske maiskornene, hvis du bruker hermetisk mais. | 4. Fres løken i en gryte med olje til løken er blitt blank. Ha i maisen, potet- og gulrotbitene i kjelen, sammen med vann og buljong. La det småkoke til potetbitene er møre. Hold gjerne av litt av maisen til servering, hvis du ønsker litt ekstra biter av mais i suppen din for ekstra tekstur.  | 5. Ha i fløte og kjør suppen jevn med en stavmikser, eventuelt i en blender. Smak til med litt salt og pepper etter eget ønske.  | 6. Server suppen i skåler toppet med finhakket gressløk og nystekte scones. Du kan også smaksette suppen med litt lime og toppe den med litt ekstra grønn chili hvis du liker det litt sterkt. ",
+    "steps": [
+      "1. Start med å forberede sconesen: Ha mel, bakepulver, salt og sukker i en bakebolle og bland sammen. Ha i olje og melk og rør sammen deigen. Er den litt klissete så kan du tilsette litt mer hvetemel. ",
+      "2. Ha deigen over på et stekbrett med bakepapir og form den til en rundt kake (2-3 cm tykk), og skjær rektangelet i fire like deler, men ikke skjær helt igjennom. Stek midt i ovnen ved 200 °C i 15–20 minutter. Avkjøl på rist. ",
+      "3. Rens løk, gulrot og potet, og skjær i biter. Sil vekk laken fra de hermetiske maiskornene, hvis du bruker hermetisk mais.",
+      "4. Fres løken i en gryte med olje til løken er blitt blank. Ha i maisen, potet- og gulrotbitene i kjelen, sammen med vann og buljong. La det småkoke til potetbitene er møre. Hold gjerne av litt av maisen til servering, hvis du ønsker litt ekstra biter av mais i suppen din for ekstra tekstur. ",
+      "5. Ha i fløte og kjør suppen jevn med en stavmikser, eventuelt i en blender. Smak til med litt salt og pepper etter eget ønske. ",
+      "6. Server suppen i skåler toppet med finhakket gressløk og nystekte scones. Du kan også smaksette suppen med litt lime og toppe den med litt ekstra grønn chili hvis du liker det litt sterkt. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "1stk. løk | 1stk. gulrot | 2stk. stor potet | 600g hermetiske maiskorn , eller fersk mais | 2ss smaksnøytral olje | 8dl vann | 1terning buljongpulver | 2dl lett matfløte (10 % fett) | 4ss frisk gressløk | 100g hvetemel | 100g fin sammalt hvete | 2ts bakepulver | 0,5ts salt | 1ss sukker | 2ss smaksnøyral olje | 1dl skummet melk",
+    "ingredients": [
+      "1stk. løk",
+      "1stk. gulrot",
+      "2stk. stor potet",
+      "600g hermetiske maiskorn , eller fersk mais",
+      "2ss smaksnøytral olje",
+      "8dl vann",
+      "1terning buljongpulver",
+      "2dl lett matfløte (10 % fett)",
+      "4ss frisk gressløk",
+      "100g hvetemel",
+      "100g fin sammalt hvete",
+      "2ts bakepulver",
+      "0,5ts salt",
+      "1ss sukker",
+      "2ss smaksnøyral olje",
+      "1dl skummet melk"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -473,9 +1422,27 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Tray bake med torsk",
     "description": "Alt på ett brett, lag en enkel middag med tray bake! Denne varianter er med ovnsbakt torsk, fargerike grønnsaker, oliven og friske urter – rett og slett en smak av middelhavet.",
-    "steps": "1. Kutt paprika i biter og del cherrytomat i to. Ha over i en ildfast form sammen med oliven.  | 2. Drypp over sitronsaft og olivenolje og krydre med litt salt og pepper etter ønske. | 3. Sett formen midt i forvarmet ovn på 220 °C i 15-20 minutter, til grønnsakene er blitt myke. | 4. Skru ned varmen til 180°C. Tørk torskefilet med kjøkkenpapir, skjær fileten i porsjonsstykker og krydre med litt salt. Legg filetene over grønnsakene i den ildfaste formen. Stek videre i ca. 15 minutter. Kjenn lett med en gaffel om fisken flaker seg, da er den ferdig.  | 5. Dryss over grovhakket bladpersille og ost. | 6. Settformen på bordet og server med deilig grovt brød og gjerne noen båter med sitron for litt ekstra frisk smak.",
+    "steps": [
+      "1. Kutt paprika i biter og del cherrytomat i to. Ha over i en ildfast form sammen med oliven. ",
+      "2. Drypp over sitronsaft og olivenolje og krydre med litt salt og pepper etter ønske.",
+      "3. Sett formen midt i forvarmet ovn på 220 °C i 15-20 minutter, til grønnsakene er blitt myke.",
+      "4. Skru ned varmen til 180°C. Tørk torskefilet med kjøkkenpapir, skjær fileten i porsjonsstykker og krydre med litt salt. Legg filetene over grønnsakene i den ildfaste formen. Stek videre i ca. 15 minutter. Kjenn lett med en gaffel om fisken flaker seg, da er den ferdig. ",
+      "5. Dryss over grovhakket bladpersille og ost.",
+      "6. Settformen på bordet og server med deilig grovt brød og gjerne noen båter med sitron for litt ekstra frisk smak."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "3stk. rød paprika | 200g cherrytomat | 200g sorte oliven , i lake | 0,5stk. sitron | 2ss olivenolje | 800g torskefilet | 0,5ts salt , til salting av fisken | 1dl grovhakket bladpersille | 100g salatost , eller fetaost | 4skiver grovt brød",
+    "ingredients": [
+      "3stk. rød paprika",
+      "200g cherrytomat",
+      "200g sorte oliven , i lake",
+      "0,5stk. sitron",
+      "2ss olivenolje",
+      "800g torskefilet",
+      "0,5ts salt , til salting av fisken",
+      "1dl grovhakket bladpersille",
+      "100g salatost , eller fetaost",
+      "4skiver grovt brød"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -483,9 +1450,20 @@
     "attributes": "Familien Småretter",
     "title": "Ferske reker",
     "description": "Å pille ferske, nykokte reker på bryggekanten eller i parken er er en deilig sommeraktivitet, men de beste rekene får du i sesong om vinteren. Og enten du bestemmer deg for rekeaften i varmen eller i kulda, så er rekene aller best når de får spille hovedrollen i selskap med ferskt brød, majones, sitron og dill. ",
-    "steps": "1. Sjekk at rekene er helt ferske når du kjøper dem, og oppbevar dem så kaldt som mulig (gjerne på is om det er varmt) til de skal serveres. | 2. Gjør klar tilbehøret du har valgt og ha det i skåler. Skjær brødet i skiver og ha det i en kurv. Del sitron i båter.  | 3. Ha rekene på et fat eller i en bolle og pynt med frisk dill og sitronbåter. Server med en gang og nyt.",
+    "steps": [
+      "1. Sjekk at rekene er helt ferske når du kjøper dem, og oppbevar dem så kaldt som mulig (gjerne på is om det er varmt) til de skal serveres.",
+      "2. Gjør klar tilbehøret du har valgt og ha det i skåler. Skjær brødet i skiver og ha det i en kurv. Del sitron i båter. ",
+      "3. Ha rekene på et fat eller i en bolle og pynt med frisk dill og sitronbåter. Server med en gang og nyt."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "2kg ferske reker | 1stk. fersk loff , baguette eller annet brød | 150g majones eller aïoli | 1stk. sitron | 1stk. hjertesalat | 1potte frisk dill",
+    "ingredients": [
+      "2kg ferske reker",
+      "1stk. fersk loff , baguette eller annet brød",
+      "150g majones eller aïoli",
+      "1stk. sitron",
+      "1stk. hjertesalat",
+      "1potte frisk dill"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -493,9 +1471,20 @@
     "attributes": "Frokost",
     "title": "Chiapudding med mango og kokos",
     "description": "Lag en mettende og skikkelig god chiapudding med mango og kokos - en utrolig digg frokost eller sunnere dessert når du får lyst på noe godt. ",
-    "steps": "1. Hell kokosmelk og lønnesirup i en liten bolle, et glass eller boks med lokk. Ha i chiafrø og rør godt sammen. | 2. Ha på lokk eller dekk til glasset/ bollen og la stå i kjøleskapet i minst 3 timer, gjerne over natten. Chiafrøene vil svelle, og du får en tykk konsistens på puddingen. | 3. Finkutt en halv mango og rør sammen i chiapuddingen. Kutt resten av mangoen i større biter og ha i en bolle sammen med limeskall og limesaft. Rør lett sammen. ",
+    "steps": [
+      "1. Hell kokosmelk og lønnesirup i en liten bolle, et glass eller boks med lokk. Ha i chiafrø og rør godt sammen.",
+      "2. Ha på lokk eller dekk til glasset/ bollen og la stå i kjøleskapet i minst 3 timer, gjerne over natten. Chiafrøene vil svelle, og du får en tykk konsistens på puddingen.",
+      "3. Finkutt en halv mango og rør sammen i chiapuddingen. Kutt resten av mangoen i større biter og ha i en bolle sammen med limeskall og limesaft. Rør lett sammen. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "2,5dl lett kokosmelk | 1ss lønnesirup eller honning | 3ss chiafrø | 1stk. mango | 1stk. lime | 2ss kokosflak",
+    "ingredients": [
+      "2,5dl lett kokosmelk",
+      "1ss lønnesirup eller honning",
+      "3ss chiafrø",
+      "1stk. mango",
+      "1stk. lime",
+      "2ss kokosflak"
+    ],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -503,9 +1492,28 @@
     "attributes": "Frokost",
     "title": "Chiapudding med bringebær",
     "description": "Chiapudding er næringsrik, mettende og utrolig digg. I denne oppskriften har vi valgt å lage en bringebærkompott med lime som gir chiapuddingen det lille ekstra. Server den til frokost eller som en sunnere dessert. ",
-    "steps": "1. Hell kokosmelk og lønnesirup i en liten bolle, et glass eller boks med lokk. Ha i chiafrø og rør godt sammen.  | 2. Ha på lokk eller dekk til glasset/ bollen og la stå i kjøleskapet i minst 3 timer, gjerne over natten. Chiafrøene vil svelle, og du får en tykk konsistens på puddingen. | 3. Ha bringebær, vann, lime og lønnesirup i en kjele. Kok opp og la småkoke i ca. 5 minutter.  | 4. Rør sammen potetmel og kaldt vann. Ta kjelen til side og tilsett potetmeljevningen i en tynn stråle under omrøring. Sett kjelen tilbake på platen og kok raskt opp. Avkjøl kompotten.  | 5. Ta litt av bringebærkompotten og bland sammen med chiapuddingen, så den får en fin farge. Ha litt bringebærkompott nederst i et glass, etterfulgt av chiapudding, frisk bringebær, fersken i skiver og litt mynte. ",
+    "steps": [
+      "1. Hell kokosmelk og lønnesirup i en liten bolle, et glass eller boks med lokk. Ha i chiafrø og rør godt sammen. ",
+      "2. Ha på lokk eller dekk til glasset/ bollen og la stå i kjøleskapet i minst 3 timer, gjerne over natten. Chiafrøene vil svelle, og du får en tykk konsistens på puddingen.",
+      "3. Ha bringebær, vann, lime og lønnesirup i en kjele. Kok opp og la småkoke i ca. 5 minutter. ",
+      "4. Rør sammen potetmel og kaldt vann. Ta kjelen til side og tilsett potetmeljevningen i en tynn stråle under omrøring. Sett kjelen tilbake på platen og kok raskt opp. Avkjøl kompotten. ",
+      "5. Ta litt av bringebærkompotten og bland sammen med chiapuddingen, så den får en fin farge. Ha litt bringebærkompott nederst i et glass, etterfulgt av chiapudding, frisk bringebær, fersken i skiver og litt mynte. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "2,5dl lett kokosmelk | 1ss lønnesirup eller honning | 3ss chiafrø | 10stk. friske bringebær | 1stk. fersken | 1stilk frisk mynte | 200g bringebær , gjerne frosne | 1dl vann | 0,5stk. lime | 2ss lønnesirup eller honning | 1ss potetmel | 0,5dl vann",
+    "ingredients": [
+      "2,5dl lett kokosmelk",
+      "1ss lønnesirup eller honning",
+      "3ss chiafrø",
+      "10stk. friske bringebær",
+      "1stk. fersken",
+      "1stilk frisk mynte",
+      "200g bringebær , gjerne frosne",
+      "1dl vann",
+      "0,5stk. lime",
+      "2ss lønnesirup eller honning",
+      "1ss potetmel",
+      "0,5dl vann"
+    ],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -513,9 +1521,36 @@
     "attributes": "Middagsrett Koteletter",
     "title": "Grønnkålsalat med crispy nakkekoteletter",
     "description": "Grønnkål er en fantastisk grønnsak som kan brukes året rundt. Bruk den i en deilig råkostsalat sammen med tynne skiver av fennikel og en kremet dressing. Perfekt følge til crispy nakkekoteletter!",
-    "steps": "1. Skjær bort beina på nakkekotelettene. Bruk en kjøtthammer, eller noe egnet og bank kotelettene til de er 1- 1 1/2 cm tykke.  | 2. Finn frem 3 dype tallerkener. Bland sammen hvetemel, salt og pepper i den ene, visp sammen egg i den andre og ha panko i den tredje.  | 3. Fyll frityrolje i en egnet gryte eller dyp stekepanne. Du bør minst ha minst 2 cm olje i gryten/pannen. Varm opp oljen.  | 4. Dypp kotelettene først i melblandingen, deretter i egget og til sist i panko. Sørg for at kotelettene er godt dekket med panko rundt det hele. | 5. Sjekk at oljen er varm nok. Ideell temperatur er ca. 180 °C. Bruk et digitalt steketermometer eller sjekk med en tresleiv. Bruser det rundt sleiven, er oljen varm nok. Legg nedi kotelettene og friter til de er gyllenbrune, 3-4 minutter på hver side. | 6. Legg kotelettene på en rist eller et ark kjøkkenpapir så noe av oljen får renne av. | 7. Vask og tørk grønnkål, og fjern grove stilker og bladnerver. Riv grønnkål grovt med hendene og riv fennikel i så tynne skiver som mulig med mandolin eller en skarp kniv. Ha på salt og sitron, og maser salaten til fibrene i grønnkålen mykner litt. | 8. Bland sammen fløte, eddik, honning og salt, og la stå i 5 min, slik at dressingen tykner litt. Pisk det hele lett sammen med en visp til den blir luftig og fin. Smak gjerne til med salt og pepper. | 9. Vend dressingen inn i salaten og topp med hakkede mandler.",
+    "steps": [
+      "1. Skjær bort beina på nakkekotelettene. Bruk en kjøtthammer, eller noe egnet og bank kotelettene til de er 1- 1 1/2 cm tykke. ",
+      "2. Finn frem 3 dype tallerkener. Bland sammen hvetemel, salt og pepper i den ene, visp sammen egg i den andre og ha panko i den tredje. ",
+      "3. Fyll frityrolje i en egnet gryte eller dyp stekepanne. Du bør minst ha minst 2 cm olje i gryten/pannen. Varm opp oljen. ",
+      "4. Dypp kotelettene først i melblandingen, deretter i egget og til sist i panko. Sørg for at kotelettene er godt dekket med panko rundt det hele.",
+      "5. Sjekk at oljen er varm nok. Ideell temperatur er ca. 180 °C. Bruk et digitalt steketermometer eller sjekk med en tresleiv. Bruser det rundt sleiven, er oljen varm nok. Legg nedi kotelettene og friter til de er gyllenbrune, 3-4 minutter på hver side.",
+      "6. Legg kotelettene på en rist eller et ark kjøkkenpapir så noe av oljen får renne av.",
+      "7. Vask og tørk grønnkål, og fjern grove stilker og bladnerver. Riv grønnkål grovt med hendene og riv fennikel i så tynne skiver som mulig med mandolin eller en skarp kniv. Ha på salt og sitron, og maser salaten til fibrene i grønnkålen mykner litt.",
+      "8. Bland sammen fløte, eddik, honning og salt, og la stå i 5 min, slik at dressingen tykner litt. Pisk det hele lett sammen med en visp til den blir luftig og fin. Smak gjerne til med salt og pepper.",
+      "9. Vend dressingen inn i salaten og topp med hakkede mandler."
+    ],
     "numberOfPeople": "2",
-    "ingredients": "2stk. nakkekoteletter av svin | 5ss hvetemel | 0,5ts salt | 0,5ts kvernet pepper | 1stk. egg | 2dl panko brødkrum | 0,5l olje til fritering | 300g grønnkål | 0,5stk. fennikel | 0,5stk. sitron | 0,5ts salt | 2dl fløte | 4ss eddik, 7 % | 1ts flytende honning | 0,5ts salt | 50g hakkede mandler",
+    "ingredients": [
+      "2stk. nakkekoteletter av svin",
+      "5ss hvetemel",
+      "0,5ts salt",
+      "0,5ts kvernet pepper",
+      "1stk. egg",
+      "2dl panko brødkrum",
+      "0,5l olje til fritering",
+      "300g grønnkål",
+      "0,5stk. fennikel",
+      "0,5stk. sitron",
+      "0,5ts salt",
+      "2dl fløte",
+      "4ss eddik, 7 %",
+      "1ts flytende honning",
+      "0,5ts salt",
+      "50g hakkede mandler"
+    ],
     "time": "20–40 min",
     "difficulty": "Middels"
   },
@@ -523,9 +1558,26 @@
     "attributes": "Familien Middagsrett Ovnsretter Kjøttdeig- og farseretter",
     "title": "Kålpudding",
     "description": "Kålpudding er svensk husmannskost som er stadig er like populær. Hodekål og kjøttdeig bakt i ovnen med kraft, fløte, soya og sirup smaker helt nydelig. Server med rørte tyttebær eller en grønn salat.",
-    "steps": "1. Del hodekål i to og skjær ut den harde midtstokken. Kutt kålen i fine strimler.  | 2. Varm en stekepanne med litt olje og fres kålen i omganger til den begynner å bli myk. Kålen skal ikke bli brent. | 3. Ha den stekte kålen over i en bolle og smak til med sirup, salt og pepper. | 4. Finhakk løk og bland den med kjøttdeig, egg, soyasaus, fløte og konsentrert oksefond. Smak til med litt salt og pepper. | 5. Smør en ildfast form (ca. 25 x 30 cm) med litt olje og ha halvparten av den stekte kålen i formen. Legg på klikker av kjøttfarse og bruk en sleiv eller liknende til å bre kjøttdeigen jevnt ut over kålen. Fordel resten av kålen på toppen. | 6. Stek kjøttpuddingen midt i ovnen på 200 °C i ca. 40 minutter. ",
+    "steps": [
+      "1. Del hodekål i to og skjær ut den harde midtstokken. Kutt kålen i fine strimler. ",
+      "2. Varm en stekepanne med litt olje og fres kålen i omganger til den begynner å bli myk. Kålen skal ikke bli brent.",
+      "3. Ha den stekte kålen over i en bolle og smak til med sirup, salt og pepper.",
+      "4. Finhakk løk og bland den med kjøttdeig, egg, soyasaus, fløte og konsentrert oksefond. Smak til med litt salt og pepper.",
+      "5. Smør en ildfast form (ca. 25 x 30 cm) med litt olje og ha halvparten av den stekte kålen i formen. Legg på klikker av kjøttfarse og bruk en sleiv eller liknende til å bre kjøttdeigen jevnt ut over kålen. Fordel resten av kålen på toppen.",
+      "6. Stek kjøttpuddingen midt i ovnen på 200 °C i ca. 40 minutter. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "1kg hodekål | 2ss olje | 1ss mørk sirup | 1stk. løk | 500g kjøttdeig, gjerne en blanding av storfe og svin | 1stk. egg | 2ss soyasaus | 1dl fløte | 2ss konsentrert oksefond",
+    "ingredients": [
+      "1kg hodekål",
+      "2ss olje",
+      "1ss mørk sirup",
+      "1stk. løk",
+      "500g kjøttdeig, gjerne en blanding av storfe og svin",
+      "1stk. egg",
+      "2ss soyasaus",
+      "1dl fløte",
+      "2ss konsentrert oksefond"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -533,9 +1585,18 @@
     "attributes": "Dessert Dessertsauser/kremer",
     "title": "Rød saus",
     "description": "Hjemmelaget rød saus er det perfekte følget til blant annet risgrøt, semulepudding eller fløterand. I stedet for husholdningssaft kan du også bruke kirsebærsaft, bringebærsaft, ripssaft eller solbærsaft.",
-    "steps": "1. Kok opp saft og vann i en kjele.  | 2. Rør potetmel ut i kaldt vann slik at du får en fin jevning uten klumper og hell potetmeljevningen over i kjelen i en tynn stråle, samtidig som du rører rundt. | 3. Trekk så kjelen til sides, da sausen kan bli grå og seig hvis den blir stående og koke. Hell sausen over i en skål eller mugge og avkjøl helt.",
+    "steps": [
+      "1. Kok opp saft og vann i en kjele. ",
+      "2. Rør potetmel ut i kaldt vann slik at du får en fin jevning uten klumper og hell potetmeljevningen over i kjelen i en tynn stråle, samtidig som du rører rundt.",
+      "3. Trekk så kjelen til sides, da sausen kan bli grå og seig hvis den blir stående og koke. Hell sausen over i en skål eller mugge og avkjøl helt."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "4dl husholdningssaft | 3dl vann | 1ss potetmel | 2ss vann , til å blande sammen med potetmelet",
+    "ingredients": [
+      "4dl husholdningssaft",
+      "3dl vann",
+      "1ss potetmel",
+      "2ss vann , til å blande sammen med potetmelet"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -543,9 +1604,26 @@
     "attributes": "Forretter",
     "title": "Rekecocktail",
     "description": "Rekecocktail er en gammel god klassiker som - når den er laget med kjærlighet - fortsatt evner å begeistre gjestene. Spandér ferske reker og lag dressingen fra bunnen, så løfter du smaken mange, mange hakk.",
-    "steps": "1. Bland sammen majones, yoghurt, rømme, ketchup og worchestershiresaus i en skål. Smak til med litt sitronsaft, salt og pepper. Sett kaldt til servering. | 2. Rens rekene. Legg til side noen pene reker til pynt. | 3. Finsnitt hjertesalaten og fordel den i skåler eller glass. Finkutt agurk og rødløk og fordel den over salaten. Ha en skje dressing over salaten.  | 4. Fordel rekene på salaten. Topp med en liten skje lakserogn og pynt med mer reker og dill. Server resten av dressingen ved siden av.",
+    "steps": [
+      "1. Bland sammen majones, yoghurt, rømme, ketchup og worchestershiresaus i en skål. Smak til med litt sitronsaft, salt og pepper. Sett kaldt til servering.",
+      "2. Rens rekene. Legg til side noen pene reker til pynt.",
+      "3. Finsnitt hjertesalaten og fordel den i skåler eller glass. Finkutt agurk og rødløk og fordel den over salaten. Ha en skje dressing over salaten. ",
+      "4. Fordel rekene på salaten. Topp med en liten skje lakserogn og pynt med mer reker og dill. Server resten av dressingen ved siden av."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "200g ferske reker | 0,5stk. hjertesalat | 0,5stk. agurk | 0,5stk. rødløk | 1ss lakserogn | 1stilk frisk dill | 1dl majones | 2ss rømme eller gresk yoghurt | 2ss ketchup eller chilisaus (ketcuptypen) | 1ts worchestershiresaus | 2ts sitronsaft",
+    "ingredients": [
+      "200g ferske reker",
+      "0,5stk. hjertesalat",
+      "0,5stk. agurk",
+      "0,5stk. rødløk",
+      "1ss lakserogn",
+      "1stilk frisk dill",
+      "1dl majones",
+      "2ss rømme eller gresk yoghurt",
+      "2ss ketchup eller chilisaus (ketcuptypen)",
+      "1ts worchestershiresaus",
+      "2ts sitronsaft"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -553,9 +1631,27 @@
     "attributes": "Brød/bakverk Grove brød og rundstykker",
     "title": "Grove rundstykker med bygg",
     "description": "Grove, gode rundstykker med bygg og havre - supre i matpakka eller ved siden av middagen.",
-    "steps": "1. Bland sammen byggmel, havregryn og vann i en bakebolle. Dekk til og la stå på benken i ca. 30 minutter. | 2. Bland inn det meste av hvetemelet, salt, sukker og olje inn i deigen. Smuldre gjæren og elt den godt inn i deigen med maskin eller for hånd. Tilsett litt mer mel om nødvendig, og elt deigen til den slipper bollen. | 3. Dekk til bakebollen og sett den lunt. La deigen heve til dobbel størrelse, 30-40 minutter.  | 4. Hvelv deigen ut på et lett melet bakebord. Form den til en tykk pølse og del den i 12 like store deigemner. Trill hvert emne til et rundstykke. Legg dem på en stekeplate med bakepapir. | 5. Dekk rundstykkene med klede og la etterheve til dobbel størrelse, ca. 30 minutter. Pensle dem med sammenvispet egg og dryss havregryn på. | 6. Stek rundstykkene midt i ovnen på 220 °C i 10-12 minutter. Avkjøl på rist.",
+    "steps": [
+      "1. Bland sammen byggmel, havregryn og vann i en bakebolle. Dekk til og la stå på benken i ca. 30 minutter.",
+      "2. Bland inn det meste av hvetemelet, salt, sukker og olje inn i deigen. Smuldre gjæren og elt den godt inn i deigen med maskin eller for hånd. Tilsett litt mer mel om nødvendig, og elt deigen til den slipper bollen.",
+      "3. Dekk til bakebollen og sett den lunt. La deigen heve til dobbel størrelse, 30-40 minutter. ",
+      "4. Hvelv deigen ut på et lett melet bakebord. Form den til en tykk pølse og del den i 12 like store deigemner. Trill hvert emne til et rundstykke. Legg dem på en stekeplate med bakepapir.",
+      "5. Dekk rundstykkene med klede og la etterheve til dobbel størrelse, ca. 30 minutter. Pensle dem med sammenvispet egg og dryss havregryn på.",
+      "6. Stek rundstykkene midt i ovnen på 220 °C i 10-12 minutter. Avkjøl på rist."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "150g byggmel | 150g lettkokte havregryn | 4dl kaldt vann | 300g hvetemel | 1ts salt | 2ts sukker | 3ss olje | 50g gjær | 1stk. egg til pensling | 2ss lettkokte havregryn til pynt",
+    "ingredients": [
+      "150g byggmel",
+      "150g lettkokte havregryn",
+      "4dl kaldt vann",
+      "300g hvetemel",
+      "1ts salt",
+      "2ts sukker",
+      "3ss olje",
+      "50g gjær",
+      "1stk. egg til pensling",
+      "2ss lettkokte havregryn til pynt"
+    ],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -563,9 +1659,22 @@
     "attributes": "Familien Kaker Småkaker",
     "title": "Sjakkruter",
     "description": "Sjakkruter er enkle og gode julekaker med smak av vanilje og kakao! Perfekt å lage til jul eller som småkaker du kan sette frem hele året. 1 porsjon i oppskriften gir ca. 25 småkaker. Oppbevares i en kakeboks på et mørkt og tørt sted.",
-    "steps": "1. Ha romtemperert smør, hvetemel, sukker og vaniljesukker i en foodprosessor og kjør blandingen sammen til alt har samlet seg til en fin deig. | 2. Ta ut halvparten av deigen. Ha i kakaopulver i bollen sammen med resten av deigen og kjør sammen på nytt til kakaopulveret er godt blandet inn i deigen. På denne måten blir halvparten av deigen sjokoladefarget. | 3. Del kakaodeigen i to emner, og vaniljedeigen i to emner. Rull ut fire lange pølser. Hvis deigen er litt smuldrete, kan du kna den litt mer før du ruller den ut. | 4. Legg pølsene sammen, slik at det blir et rutemønster. | 5. Press pølsene lett sammen og form sidene rette ved å presse hver side lett mot arbeidsbordet. Skjær i skiver (ca. 1-2 cm tykke).  | 6.  Stek sjakkrutene på 175 °C til de har fått en gyllen og fin farge, ca. 12 minutter. Avkjøl.",
+    "steps": [
+      "1. Ha romtemperert smør, hvetemel, sukker og vaniljesukker i en foodprosessor og kjør blandingen sammen til alt har samlet seg til en fin deig.",
+      "2. Ta ut halvparten av deigen. Ha i kakaopulver i bollen sammen med resten av deigen og kjør sammen på nytt til kakaopulveret er godt blandet inn i deigen. På denne måten blir halvparten av deigen sjokoladefarget.",
+      "3. Del kakaodeigen i to emner, og vaniljedeigen i to emner. Rull ut fire lange pølser. Hvis deigen er litt smuldrete, kan du kna den litt mer før du ruller den ut.",
+      "4. Legg pølsene sammen, slik at det blir et rutemønster.",
+      "5. Press pølsene lett sammen og form sidene rette ved å presse hver side lett mot arbeidsbordet. Skjær i skiver (ca. 1-2 cm tykke). ",
+      "6.  Stek sjakkrutene på 175 °C til de har fått en gyllen og fin farge, ca. 12 minutter. Avkjøl."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "200g romtemperert smør | 5dl hvetemel | 1dl sukker | 2ts vaniljesukker | 1ss kakaopulver",
+    "ingredients": [
+      "200g romtemperert smør",
+      "5dl hvetemel",
+      "1dl sukker",
+      "2ts vaniljesukker",
+      "1ss kakaopulver"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -573,9 +1682,29 @@
     "attributes": "Brød/bakverk Grove brød og rundstykker",
     "title": "Grovt byggbrød",
     "description": "Et saftig og smakfullt hverdagsbrød med bygg. Bygg er det norske \"urkornet\", og gir brødet en deilig kornsmak og god saftighet. Et supert hverdagsbrød!",
-    "steps": "1. Fordeig: Rør sammen gjær og vann i en bakebolle, og bland inn melet til en jevn røre. Dekk bollen med plast, og la blandingen stå i romtemperatur til neste dag. | 2. Hoveddeig: Bland resten av  vannet inn i fordeigen, og elt inn det meste av melet. Hold tilbake noe av hvetemelet slik at du kan tilsette mer om nødvendig. Elt deigen godt for hånd eller med en kjøkkenmaskin (start med lav fart og øk hastigheten noe etter hvert). Tilsett litt mer mel om nødvendig. Ta «tyggegummitesten» for å sjekke om deigen er ferdig eltet. (Ta en liten deigklump og rull den mellom fingrene og strekk den ut. Kan du strekke deigen uten at den brister er den ferdig eltet). | 3. Dekk til bakebollen og sett den lunt. La deigen heve til dobbel størrelse, ca. 1 time.  | 4. Dryss mel på bakebordet og hvelv deigen ut på bordet. Del den i fire like store emner. Kna dem lett og form dem til runde deigemner. Dekk emnene med et klede og la dem hvile på bakebordet i 10–20 minutter.  | 5. Form deigemnene til ovale brød. Smør en ildfast form med olje og legg deigemnene i formen. Det kan være lurt å pensle litt olje mellom brødene slik at det blir letter å dele dem fra hverandre etter at de er stekt. | 6. Dekk brødene med et klede, og etterhev til dobbel størrelse.Pensle brødene med vann, sikt litt byggmel på toppen, og snitt brødene med en skarp kniv.  | 7. Stek brødene på nederste rille i ovnen på 220 °C i 35–50 minutter, til de er gyllenbrune. Hvelv dem ut av formen og etterstek dem i 10 minutter. Sjekk om brødet er ferdig ved å banke på undersiden. Lyden skal være hul. Avkjøl brødene på rist.",
+    "steps": [
+      "1. Fordeig: Rør sammen gjær og vann i en bakebolle, og bland inn melet til en jevn røre. Dekk bollen med plast, og la blandingen stå i romtemperatur til neste dag.",
+      "2. Hoveddeig: Bland resten av  vannet inn i fordeigen, og elt inn det meste av melet. Hold tilbake noe av hvetemelet slik at du kan tilsette mer om nødvendig. Elt deigen godt for hånd eller med en kjøkkenmaskin (start med lav fart og øk hastigheten noe etter hvert). Tilsett litt mer mel om nødvendig. Ta «tyggegummitesten» for å sjekke om deigen er ferdig eltet. (Ta en liten deigklump og rull den mellom fingrene og strekk den ut. Kan du strekke deigen uten at den brister er den ferdig eltet).",
+      "3. Dekk til bakebollen og sett den lunt. La deigen heve til dobbel størrelse, ca. 1 time. ",
+      "4. Dryss mel på bakebordet og hvelv deigen ut på bordet. Del den i fire like store emner. Kna dem lett og form dem til runde deigemner. Dekk emnene med et klede og la dem hvile på bakebordet i 10–20 minutter. ",
+      "5. Form deigemnene til ovale brød. Smør en ildfast form med olje og legg deigemnene i formen. Det kan være lurt å pensle litt olje mellom brødene slik at det blir letter å dele dem fra hverandre etter at de er stekt.",
+      "6. Dekk brødene med et klede, og etterhev til dobbel størrelse.Pensle brødene med vann, sikt litt byggmel på toppen, og snitt brødene med en skarp kniv. ",
+      "7. Stek brødene på nederste rille i ovnen på 220 °C i 35–50 minutter, til de er gyllenbrune. Hvelv dem ut av formen og etterstek dem i 10 minutter. Sjekk om brødet er ferdig ved å banke på undersiden. Lyden skal være hul. Avkjøl brødene på rist."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "2g gjær (en ertestor klump) | 5dl vann | 400g byggmel | 200g fullkornhvetemel | 7dl vann | 800g hvetemel | 200g fullkornhvetemel | 200g byggmel | 120g mørk sirup | 30g salt | 25g gjær",
+    "ingredients": [
+      "2g gjær (en ertestor klump)",
+      "5dl vann",
+      "400g byggmel",
+      "200g fullkornhvetemel",
+      "7dl vann",
+      "800g hvetemel",
+      "200g fullkornhvetemel",
+      "200g byggmel",
+      "120g mørk sirup",
+      "30g salt",
+      "25g gjær"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -583,9 +1712,28 @@
     "attributes": "Brød/bakverk Grove brød og rundstykker",
     "title": "Dansk rugbrød",
     "description": "Tradisjonsrikt, saftig og smakfullt dansk rugbrød - perfekt både i matpakka og til høye danske smørrebrød. ",
-    "steps": "1. Bland sammen fin og grov sammalt rug, solsikkekjerner, linfrø, salt og vann. Elt deigen godt for hånd eller med en kjøkkenmaskin på laveste hastighet. Deigen skal være klissete. | 2. Dekk bakebollen godt. La deigen stå i minst 4 timer eller natten over på kjøkkenbenken.  | 3. Løs opp gjæren i vannet og rør det inn i deigen sammen med hvetemel og sirup.   | 4. Elt deigen godt (på laveste hastighet dersom du bruker kjøkkenmaskin). Deigen vil fortsatt være litt klissete. Dekk bakebollen godt, og la deigen heve i ca. 1 time. | 5. Del deigen i 2 like store emner. Form avlange brød.Smør to 2-litersformer godt med litt olje. Legg i brødemnene og trykk dem forsiktig ned i formene med en fuktig hånd. Dekk formene med et klede, og la dem etterheve på et lunt sted i 25–30 minutter til brødene fyller formene. | 6. Stek brødene nederst i ovnen på 225 °C i 40–60 minutter. Avkjøl i formen noen minutter, og hvelv så brødene ut på en rist. Avkjøl helt.",
+    "steps": [
+      "1. Bland sammen fin og grov sammalt rug, solsikkekjerner, linfrø, salt og vann. Elt deigen godt for hånd eller med en kjøkkenmaskin på laveste hastighet. Deigen skal være klissete.",
+      "2. Dekk bakebollen godt. La deigen stå i minst 4 timer eller natten over på kjøkkenbenken. ",
+      "3. Løs opp gjæren i vannet og rør det inn i deigen sammen med hvetemel og sirup.  ",
+      "4. Elt deigen godt (på laveste hastighet dersom du bruker kjøkkenmaskin). Deigen vil fortsatt være litt klissete. Dekk bakebollen godt, og la deigen heve i ca. 1 time.",
+      "5. Del deigen i 2 like store emner. Form avlange brød.Smør to 2-litersformer godt med litt olje. Legg i brødemnene og trykk dem forsiktig ned i formene med en fuktig hånd. Dekk formene med et klede, og la dem etterheve på et lunt sted i 25–30 minutter til brødene fyller formene.",
+      "6. Stek brødene nederst i ovnen på 225 °C i 40–60 minutter. Avkjøl i formen noen minutter, og hvelv så brødene ut på en rist. Avkjøl helt."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "350g fin sammalt rug | 400g grov sammalt rug | 120g solsikkekjerner | 35g linfrø | 3ts salt | 7dl vann | 1,5dl vann | 50g gjær | 200g hvetemel | 3ss lys sirup | 1ss olje til pensling",
+    "ingredients": [
+      "350g fin sammalt rug",
+      "400g grov sammalt rug",
+      "120g solsikkekjerner",
+      "35g linfrø",
+      "3ts salt",
+      "7dl vann",
+      "1,5dl vann",
+      "50g gjær",
+      "200g hvetemel",
+      "3ss lys sirup",
+      "1ss olje til pensling"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -593,9 +1741,21 @@
     "attributes": "Dessert Andre desserter",
     "title": "Sjokoladefudge",
     "description": "Myke, deilige sjokoladekarameller hører til på godtebordet. Kanskje like greit å lage dobbel porsjon med en gang?",
-    "steps": "1. Bland fløte, smør, sukker, sirup, kakao og vaniljesukker i en vid kjele. Varm opp på middels varme slik at smøret smelter og sukkeret løser seg opp.  | 2. La massen småkoke i minst 30 minutter. Lager du dobbel porsjon, må koketiden forlenges med minst 15-20 minutter. Rør om av og til og pass på at det ikke brenner seg i bunnen. Ta \"dråpetesten\" for å sjekke om karamellblandingen har kokt lenge nok. | 3. Ta \"dråpetesten\" for å sjekke om karamellblandingen har kokt lenge nok. Hell en dråpe karamell i et glass med kald vann. Hvis karamellen stivner og du klarer å forme den til en kule er den klar. Hvis ikke, kok litt til. Gjør gjerne testen flere ganger. | 4. Legg bakepapir i bunnen av en form (ca. 20x20 cm) og hell karamellmassen i formen.  La den bli nesten kald før du skjærer den i passe store biter med en skarp kniv. ",
+    "steps": [
+      "1. Bland fløte, smør, sukker, sirup, kakao og vaniljesukker i en vid kjele. Varm opp på middels varme slik at smøret smelter og sukkeret løser seg opp. ",
+      "2. La massen småkoke i minst 30 minutter. Lager du dobbel porsjon, må koketiden forlenges med minst 15-20 minutter. Rør om av og til og pass på at det ikke brenner seg i bunnen. Ta \"dråpetesten\" for å sjekke om karamellblandingen har kokt lenge nok.",
+      "3. Ta \"dråpetesten\" for å sjekke om karamellblandingen har kokt lenge nok. Hell en dråpe karamell i et glass med kald vann. Hvis karamellen stivner og du klarer å forme den til en kule er den klar. Hvis ikke, kok litt til. Gjør gjerne testen flere ganger.",
+      "4. Legg bakepapir i bunnen av en form (ca. 20x20 cm) og hell karamellmassen i formen.  La den bli nesten kald før du skjærer den i passe store biter med en skarp kniv. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "3dl kremfløte | 60g smør | 1,5dl sukker | 1,5dl lys sirup | 3ss kakaopulver | 0,5ss vaniljesukker",
+    "ingredients": [
+      "3dl kremfløte",
+      "60g smør",
+      "1,5dl sukker",
+      "1,5dl lys sirup",
+      "3ss kakaopulver",
+      "0,5ss vaniljesukker"
+    ],
     "time": "40–60 min",
     "difficulty": "Middels"
   },
@@ -603,9 +1763,30 @@
     "attributes": "Småretter",
     "title": "Kjøttboller med tomatpesto",
     "description": "En super tapasrett når du har lyst på noe godt eller har lyst til å imponere gjestene. Hjemmelagde kjøttboller av svin med en smakfull tomatpesto på et digg, ristet brød! Kjøttbollene kan godt kjøpes ferdig. ",
-    "steps": "1. Finhakk sjalottløk og chili og bland dette inn i kjøttdeigen sammen med salt, krydder og griljermel. Rør godt og bland forsiktig inn egget. Rull små kjøttboller for hånd og stek kjøttbollene på middels varme i en stekepanne med smør til de har fått en fin stekeskorpe. Skru av varmen og la det steke videre på ettervarme i et par minutter. | 2. Ha soltørket tomat i en foodprosessor og ta vare på oljen. Rist pinjekjernene lett i en tørr stekepanne til gylne. Riv parmesan og ha i en foodprosessor sammen med pinjekjerner, hvitløk og basilikum. Spe med olje fra tomatene litt etter litt og kjør til pestoen får en fin konsistens. | 3. Skjær brød i skiver og rist dem i en varm panne med litt smør til gylne på begge sider. Ha på tomatpesto og kjøttboller. Server med engang. ",
+    "steps": [
+      "1. Finhakk sjalottløk og chili og bland dette inn i kjøttdeigen sammen med salt, krydder og griljermel. Rør godt og bland forsiktig inn egget. Rull små kjøttboller for hånd og stek kjøttbollene på middels varme i en stekepanne med smør til de har fått en fin stekeskorpe. Skru av varmen og la det steke videre på ettervarme i et par minutter.",
+      "2. Ha soltørket tomat i en foodprosessor og ta vare på oljen. Rist pinjekjernene lett i en tørr stekepanne til gylne. Riv parmesan og ha i en foodprosessor sammen med pinjekjerner, hvitløk og basilikum. Spe med olje fra tomatene litt etter litt og kjør til pestoen får en fin konsistens.",
+      "3. Skjær brød i skiver og rist dem i en varm panne med litt smør til gylne på begge sider. Ha på tomatpesto og kjøttboller. Server med engang. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "400g kjøttdeig | 2stk. sjalottløk | 0,5stk. rød chili | 0,5ts pepper | 1ts salt | 0,5ts muskatblomme | 1ts tørket oregano | 2ss griljermel | 1stk. egg | 150g soltørkede tomater i olje | 50g pinjekjerner | 50g parmesan | 2båter hvitløk | 0,5potte frisk basilikum | 4skiver lyst brød | 2ss smør",
+    "ingredients": [
+      "400g kjøttdeig",
+      "2stk. sjalottløk",
+      "0,5stk. rød chili",
+      "0,5ts pepper",
+      "1ts salt",
+      "0,5ts muskatblomme",
+      "1ts tørket oregano",
+      "2ss griljermel",
+      "1stk. egg",
+      "150g soltørkede tomater i olje",
+      "50g pinjekjerner",
+      "50g parmesan",
+      "2båter hvitløk",
+      "0,5potte frisk basilikum",
+      "4skiver lyst brød",
+      "2ss smør"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -613,9 +1794,27 @@
     "attributes": "Middagsrett Panneretter",
     "title": "Ørret med appelsinsaus",
     "description": "Fersk ørretfilet er nydelig gjestemat til små og store anledninger. Her serverer vi ovnsbakt ørretfilet med en syrlig og frisk appelsinsaus og hakkede mandler. ",
-    "steps": "1. Napp ut eventuelle bein langs fileten og del den i porsjonsstykker. Legg dem over på bakepapir i en langpanne. Drypp over noen dråper olje og krydre med litt salt og pepper. | 2. Sett formen i ovnen på 180 °C i 10-15 minutter, avhengig av tykkelse på fiskestykkene. La fisken gjerne ha litt rosa kjerne - det er bedre at den er litt for lite stekt enn for mye. | 3. Kok opp appelsinjuice og honning. Senk varmen litt og la blandingen koke inn til omtrent det halve. | 4. Ta kjelen av varmen og tilsett smøret i terninger. Visp sausen til alt smøret har blitt vispet inn og sausen har tyknet. Hold sausen varm, men pass på at den ikke varmes så mye at den sprekker. Smak til med salt og pepper. | 5. Hakk mandlene grovt og rist dem raskt i en varm stekepanne. Bland mandlene i appelsinsausen. | 6. Kutt blomkål i små buketter, gulrot i strimler og sukkererter i to på langs. Fres grønnsakene i smør i en stekepanne i noen minutter, til de begynner på bli myke. Smak til med salt og pepper. ",
+    "steps": [
+      "1. Napp ut eventuelle bein langs fileten og del den i porsjonsstykker. Legg dem over på bakepapir i en langpanne. Drypp over noen dråper olje og krydre med litt salt og pepper.",
+      "2. Sett formen i ovnen på 180 °C i 10-15 minutter, avhengig av tykkelse på fiskestykkene. La fisken gjerne ha litt rosa kjerne - det er bedre at den er litt for lite stekt enn for mye.",
+      "3. Kok opp appelsinjuice og honning. Senk varmen litt og la blandingen koke inn til omtrent det halve.",
+      "4. Ta kjelen av varmen og tilsett smøret i terninger. Visp sausen til alt smøret har blitt vispet inn og sausen har tyknet. Hold sausen varm, men pass på at den ikke varmes så mye at den sprekker. Smak til med salt og pepper.",
+      "5. Hakk mandlene grovt og rist dem raskt i en varm stekepanne. Bland mandlene i appelsinsausen.",
+      "6. Kutt blomkål i små buketter, gulrot i strimler og sukkererter i to på langs. Fres grønnsakene i smør i en stekepanne i noen minutter, til de begynner på bli myke. Smak til med salt og pepper. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "800g ørretfilet | 2ss olivenolje | 2,5dl appelsinjuice | 2ss honning | 3ss smør | 50g mandler | 100g blomkål | 100g gulrot | 100g sukkererter | 1ss smør",
+    "ingredients": [
+      "800g ørretfilet",
+      "2ss olivenolje",
+      "2,5dl appelsinjuice",
+      "2ss honning",
+      "3ss smør",
+      "50g mandler",
+      "100g blomkål",
+      "100g gulrot",
+      "100g sukkererter",
+      "1ss smør"
+    ],
     "time": "40–60 min",
     "difficulty": "Middels"
   },
@@ -623,9 +1822,20 @@
     "attributes": "Tilbehør Annet tilbehør",
     "title": "Fløtestuede grønnsaker",
     "description": "Med favorittgrønnsakene dine, noen kokte, kalde poteter og en skvett fløte lager du i løpet av få minutter denne nydelige stuingen, som passer til all slags kjøtt og fisk, og som kan varieres med det du har for hånden. ",
-    "steps": "1. Kutt vårløk og sukkererter i biter på skrå og brokkoli i små buketter. Del poteter i to eller fire. | 2. Hell fløten i en kjele eller sauteringspanne og kok opp. Ha alle grønnsakene i kjelen og la det koke i 2-3 minutter, til fløten tykner litt og grønnsakene er knapt møre. Bland inn hakket dill. Smak til med salt og pepper.",
+    "steps": [
+      "1. Kutt vårløk og sukkererter i biter på skrå og brokkoli i små buketter. Del poteter i to eller fire.",
+      "2. Hell fløten i en kjele eller sauteringspanne og kok opp. Ha alle grønnsakene i kjelen og la det koke i 2-3 minutter, til fløten tykner litt og grønnsakene er knapt møre. Bland inn hakket dill. Smak til med salt og pepper."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "2stk. vårløk | 50g sukkererter | 100g brokkoli | 150g små kokte poteter | 100g edamamebønner (soyabønner) | 3dl matfløte | 2ss hakket frisk dill",
+    "ingredients": [
+      "2stk. vårløk",
+      "50g sukkererter",
+      "100g brokkoli",
+      "150g små kokte poteter",
+      "100g edamamebønner (soyabønner)",
+      "3dl matfløte",
+      "2ss hakket frisk dill"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -633,9 +1843,14 @@
     "attributes": "Middagsrett Gryter",
     "title": "Dynegrøt",
     "description": "Risengrynsgrøten som lager seg selv! Gi grøten et raskt oppkok og pakk den godt inn i en dyne eller flere lag med pledd - vent i noen timer og så har du en fiks ferdig grøt! Enklere blir det ikke. ",
-    "steps": "1. Kok opp vann i en kjele og ha i salt og ris. Kok til vannet har fordampet. | 2. Tilsett melk og gi det et oppkok mens du rører, så melken ikke brenner seg. | 3. Ta gryten av varmen og sett på lokk. Pakk kjelen godt inn i en dyne eller et ullpledd og sett den på et lunt sted, gjerne med en ekstra dyne over, i 3-4 timer. | 4. Ta ut grøten og rør den lett sammen med en sleiv før servering. Server grøten med smør, sukker og kanel.",
+    "steps": [
+      "1. Kok opp vann i en kjele og ha i salt og ris. Kok til vannet har fordampet.",
+      "2. Tilsett melk og gi det et oppkok mens du rører, så melken ikke brenner seg.",
+      "3. Ta gryten av varmen og sett på lokk. Pakk kjelen godt inn i en dyne eller et ullpledd og sett den på et lunt sted, gjerne med en ekstra dyne over, i 3-4 timer.",
+      "4. Ta ut grøten og rør den lett sammen med en sleiv før servering. Server grøten med smør, sukker og kanel."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "4dl vann | 1ts salt | 2dl grøtris | 1l helmelk",
+    "ingredients": ["4dl vann", "1ts salt", "2dl grøtris", "1l helmelk"],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -643,9 +1858,27 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Fiskeflette med kremet spinat",
     "description": "Å flette strimler av fiskefilet og så dampe fisken er en morsom og elegant måte å servere fisk på. Fiskeslagene kan variere ut fra tilgang. Vi har valgt ørret, kveite og steinbit. Kremet spinat er enkelt og smakfullt tilbehør. ",
-    "steps": "1. Skjær fiskefiletene i ca. 20 cm lange fingertykke strimler. Legg en strimmel av hvert fiskeslag ved siden av hverandre og fest dem sammen i den ene enden med en tannpirker. Flett strimlene ved å legge dem vekselvis over hverandre, og fest til slutt med en tannpirker.dette steget kan gjøres i god tid før servering. Sett fiskeflettene kaldt til de skal tilberedes. | 2. Bruk en stekespade og løft fiskeflettene over i en ildfast form.  Krydre med salt og pepper og hell i hvitvin eller vann. | 3. Dekk formen med aluminiumsfolie slik at det blir helt tett, og sett formen i stekeovnen på 180 °C  i 15-18 minutter. | 4. Fjern de groveste stilkene på spinaten og finkutt vårløk og hvitløk. Smelt smør i en dyp stekepanne eller sauteringspanne og fres spinat, vårløk og hvitløk til spinaten akkurat faller sammen.  | 5. Hell på fløte og kok opp. Smak til med muskat, litt sitronsaft, salt og pepper. | 6. Fordel spinaten på tallerkener, eller legg opp på fat. Legg på fiskefletten og dryss over litt finrevet sitronskall. Servér med en gang, gjerne med kokte poteter.",
+    "steps": [
+      "1. Skjær fiskefiletene i ca. 20 cm lange fingertykke strimler. Legg en strimmel av hvert fiskeslag ved siden av hverandre og fest dem sammen i den ene enden med en tannpirker. Flett strimlene ved å legge dem vekselvis over hverandre, og fest til slutt med en tannpirker.dette steget kan gjøres i god tid før servering. Sett fiskeflettene kaldt til de skal tilberedes.",
+      "2. Bruk en stekespade og løft fiskeflettene over i en ildfast form.  Krydre med salt og pepper og hell i hvitvin eller vann.",
+      "3. Dekk formen med aluminiumsfolie slik at det blir helt tett, og sett formen i stekeovnen på 180 °C  i 15-18 minutter.",
+      "4. Fjern de groveste stilkene på spinaten og finkutt vårløk og hvitløk. Smelt smør i en dyp stekepanne eller sauteringspanne og fres spinat, vårløk og hvitløk til spinaten akkurat faller sammen. ",
+      "5. Hell på fløte og kok opp. Smak til med muskat, litt sitronsaft, salt og pepper.",
+      "6. Fordel spinaten på tallerkener, eller legg opp på fat. Legg på fiskefletten og dryss over litt finrevet sitronskall. Servér med en gang, gjerne med kokte poteter."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "300g ørretfilet | 300g kveitefilet | 300g steinbitfilet | 2dl tørr hvitvin | 600g frisk spinat | 2stk. vårløk | 1båt hvitløk | 3dl matfløte | 0,25ts revet muskatnøtt | 0,5stk. sitron",
+    "ingredients": [
+      "300g ørretfilet",
+      "300g kveitefilet",
+      "300g steinbitfilet",
+      "2dl tørr hvitvin",
+      "600g frisk spinat",
+      "2stk. vårløk",
+      "1båt hvitløk",
+      "3dl matfløte",
+      "0,25ts revet muskatnøtt",
+      "0,5stk. sitron"
+    ],
     "time": "20–40 min",
     "difficulty": "Middels"
   },
@@ -653,9 +1886,24 @@
     "attributes": "Familien Middagsrett Panneretter",
     "title": "Ørret med fløtestuede grønnsaker",
     "description": "Stekt ørretfilet er nydelig mat til hele familien. Fløtestuede grønnsaker fungerer både som saus og tilbehør i denne retten. Enkelt og kjempegodt.",
-    "steps": "1. Fjern skinnet og del ørretfileten i jevnstore porsjonsstykker. Krydre med litt salt og pepper. | 2. Varm en stekepanne med smør eller margarin. Når det bruser godt kan du legge i fiskestykkene med undersiden opp. Stek på middels varme i ca. 2 minutter, og snu deretter stykkene. Trekk pannen til side og la fiskestykkene bli ferdige på ettervarmen. Øs litt av smøret over dem underveis.  | 3. Kutt vårløk og sukkererter i biter på skrå og brokkoli i små buketter. Del poteter i to eller fire.  | 4. Hell fløten i en kjele eller sauteringspanne og kok opp. Ha alle grønnsakene i kjelen og la det koke i 2-3 minutter, til fløten tykner litt og grønnsakene er knapt møre. Bland inn hakket dill. Smak til med salt og pepper. ",
+    "steps": [
+      "1. Fjern skinnet og del ørretfileten i jevnstore porsjonsstykker. Krydre med litt salt og pepper.",
+      "2. Varm en stekepanne med smør eller margarin. Når det bruser godt kan du legge i fiskestykkene med undersiden opp. Stek på middels varme i ca. 2 minutter, og snu deretter stykkene. Trekk pannen til side og la fiskestykkene bli ferdige på ettervarmen. Øs litt av smøret over dem underveis. ",
+      "3. Kutt vårløk og sukkererter i biter på skrå og brokkoli i små buketter. Del poteter i to eller fire. ",
+      "4. Hell fløten i en kjele eller sauteringspanne og kok opp. Ha alle grønnsakene i kjelen og la det koke i 2-3 minutter, til fløten tykner litt og grønnsakene er knapt møre. Bland inn hakket dill. Smak til med salt og pepper. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "800g ørretfilet | 2ss smør eller margarin | 2stk. vårløk | 50g sukkererter | 100g brokkoli | 200g kokte poteter | 2dl edamamebønner (soyabønner) | 3dl matfløte | 2ss hakket frisk dill",
+    "ingredients": [
+      "800g ørretfilet",
+      "2ss smør eller margarin",
+      "2stk. vårløk",
+      "50g sukkererter",
+      "100g brokkoli",
+      "200g kokte poteter",
+      "2dl edamamebønner (soyabønner)",
+      "3dl matfløte",
+      "2ss hakket frisk dill"
+    ],
     "time": "20–40 min",
     "difficulty": "Middels"
   },
@@ -663,9 +1911,22 @@
     "attributes": "Tilbehør Annet tilbehør Småretter",
     "title": "15-timers TikTok poteter ",
     "description": "Lag på lag med tynne potetskiver som konfiteres og friteres til perfeksjon – her er de virale 15-timers potetene fra TikTok også kalt 15-h TikTok potatoes! Det tar en stund før disse godbitene er ferdig, men det meste av jobben er venting.",
-    "steps": "1. Skrell poteter og legg i kaldt vann. Bruk en mandolin og skjær potetene i tynne skiver. Ha de over i en stor bolle. | 2. Varm opp andefettet slik at det er flytende og hell over potetskivene.  Dryss over salt og bland alt godt. | 3. Finn frem en passende form, kle den med bakepapir og legg potene lagvis i forma. Dryss det resterende fettet over i forma. Klipp ut et ark bakepapir slik at det er tilpasset forma og legg det på toppen av potetene, slik at de er tildekket. Stek potetene i ovnen på 150°C i 2 timer.  | 4. Ta formen ut av ovnen og avkjøl litt. Legg press på forma, slik at potetene blir presset godt sammen. Dette kan gjøres ved å legge en lignende form over i forma, og deretter fylle den med hermetikk eller noe annet som har litt tyngde. La den stå kaldt til neste dag, gjerne i 12 timer. | 5. Ta potetene ut av formen og del opp i mindre stykker med en skarp kniv.  | 6. Fyll frityrolje i en egnet gryte eller dyp stekepanne. Du bør minst ha minst 2 cm olje i gryten/pannen. Varm opp oljen. Ideell temperatur er ca. 180 °C. Bruk et digitalt steketermometer eller sjekk med en tresleiv. Bruser det rundt sleiven, er oljen varm nok. | 7. Friter potetbitene  i 3-5 minutter, eller til de er gyllenbrune. Legg potetbitene på en rist eller et ark kjøkkenpapir så noe av oljen får renne av. Krydre med litt salt. ",
+    "steps": [
+      "1. Skrell poteter og legg i kaldt vann. Bruk en mandolin og skjær potetene i tynne skiver. Ha de over i en stor bolle.",
+      "2. Varm opp andefettet slik at det er flytende og hell over potetskivene.  Dryss over salt og bland alt godt.",
+      "3. Finn frem en passende form, kle den med bakepapir og legg potene lagvis i forma. Dryss det resterende fettet over i forma. Klipp ut et ark bakepapir slik at det er tilpasset forma og legg det på toppen av potetene, slik at de er tildekket. Stek potetene i ovnen på 150°C i 2 timer. ",
+      "4. Ta formen ut av ovnen og avkjøl litt. Legg press på forma, slik at potetene blir presset godt sammen. Dette kan gjøres ved å legge en lignende form over i forma, og deretter fylle den med hermetikk eller noe annet som har litt tyngde. La den stå kaldt til neste dag, gjerne i 12 timer.",
+      "5. Ta potetene ut av formen og del opp i mindre stykker med en skarp kniv. ",
+      "6. Fyll frityrolje i en egnet gryte eller dyp stekepanne. Du bør minst ha minst 2 cm olje i gryten/pannen. Varm opp oljen. Ideell temperatur er ca. 180 °C. Bruk et digitalt steketermometer eller sjekk med en tresleiv. Bruser det rundt sleiven, er oljen varm nok.",
+      "7. Friter potetbitene  i 3-5 minutter, eller til de er gyllenbrune. Legg potetbitene på en rist eller et ark kjøkkenpapir så noe av oljen får renne av. Krydre med litt salt. "
+    ],
     "numberOfPeople": "6",
-    "ingredients": "1,5kg potet | 150g andefett eller klarnet smør | 2ts salt | 0,5l olje til fritering",
+    "ingredients": [
+      "1,5kg potet",
+      "150g andefett eller klarnet smør",
+      "2ts salt",
+      "0,5l olje til fritering"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
   },
@@ -673,9 +1934,33 @@
     "attributes": "Forretter Småretter",
     "title": "Lettgravet ørret med spinatkrem",
     "description": "Å grave fisk i en blanding av salt og sukker i et par timer gjør at smaken blir tydeligere og konsistensen fastere og fargen skarpere. Sammen med en irrgrønn, nydelig spinatkrem er dette en enkel og elegant forrett. ",
-    "steps": "1. Fjern skinn og eventuelle bein av ørretfileten. | 2. Bland sammen salt, sukker og pepper. Dryss halvparten av blandingen i bunnen av en tallerken, og legg ørretfileten oppå. Dryss resten av blandingen over. Drypp over noen dråper brennevin og dekk til.  | 3. La ørretfileten stå i romtemperatur i ca. 30 minutter, og sett den deretter kaldt i ca. 1 time. | 4. Fjern de groveste stilkene av spinaten. finhakk vårløk.  | 5. Smelt litt av smøret i en sauteringspanne eller vid stekepanne. Tilsett spinat og vårløk og fres så spinaten akkurat faller sammen. | 6. Hell i fløte og kok opp. Senk varmen og la det koke et par minutter til fløten begynner å tykne. Bruk stavmikser eller blender til å kjøre kremen glatt. Smak til med litt muskatnøtt, salt og pepper. Hold kremen varm. | 7. Skyll av ørretfileten og del den i porsjonsstykker, gjerne i trekanter. | 8. Varm en stekepanne med resten av smøret og legg i ørretstykkene. La dem ligge i pannen uten å snu dem i et par minutter, til du ser at de har endret farge i bunnen, men fortsatt er rå på oversiden. De skal ikke varmebehandles helt igjennom.  | 9. Fordel spinatkremen på asjetter og legg ørretstykkene oppå. Kvern over litt pepper drypp på noen dråper god olivenolje og pynt med en frisk urt, for eksempel dill. ",
+    "steps": [
+      "1. Fjern skinn og eventuelle bein av ørretfileten.",
+      "2. Bland sammen salt, sukker og pepper. Dryss halvparten av blandingen i bunnen av en tallerken, og legg ørretfileten oppå. Dryss resten av blandingen over. Drypp over noen dråper brennevin og dekk til. ",
+      "3. La ørretfileten stå i romtemperatur i ca. 30 minutter, og sett den deretter kaldt i ca. 1 time.",
+      "4. Fjern de groveste stilkene av spinaten. finhakk vårløk. ",
+      "5. Smelt litt av smøret i en sauteringspanne eller vid stekepanne. Tilsett spinat og vårløk og fres så spinaten akkurat faller sammen.",
+      "6. Hell i fløte og kok opp. Senk varmen og la det koke et par minutter til fløten begynner å tykne. Bruk stavmikser eller blender til å kjøre kremen glatt. Smak til med litt muskatnøtt, salt og pepper. Hold kremen varm.",
+      "7. Skyll av ørretfileten og del den i porsjonsstykker, gjerne i trekanter.",
+      "8. Varm en stekepanne med resten av smøret og legg i ørretstykkene. La dem ligge i pannen uten å snu dem i et par minutter, til du ser at de har endret farge i bunnen, men fortsatt er rå på oversiden. De skal ikke varmebehandles helt igjennom. ",
+      "9. Fordel spinatkremen på asjetter og legg ørretstykkene oppå. Kvern over litt pepper drypp på noen dråper god olivenolje og pynt med en frisk urt, for eksempel dill. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "400g ørretfilet | 2ss salt | 1,5ss sukker | 1ts kvernet pepper | 2ts akevitt gin eller konjakk (kan utelates) | 0,5ts kvernet pepper | 1ss virgin olivenolje | 1stilk frisk dill | 500g frisk spinat | 2stk. vårløk | 1ss smør | 3dl matfløte | 0,25ts revet muskatnøtt",
+    "ingredients": [
+      "400g ørretfilet",
+      "2ss salt",
+      "1,5ss sukker",
+      "1ts kvernet pepper",
+      "2ts akevitt gin eller konjakk (kan utelates)",
+      "0,5ts kvernet pepper",
+      "1ss virgin olivenolje",
+      "1stilk frisk dill",
+      "500g frisk spinat",
+      "2stk. vårløk",
+      "1ss smør",
+      "3dl matfløte",
+      "0,25ts revet muskatnøtt"
+    ],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -683,9 +1968,14 @@
     "attributes": "Middagsrett Ovnsretter",
     "title": "Risgrøt i ovn",
     "description": "Dette er kanskje den enkleste risgrøten du har kommet over! Risgrøt i ovn er perfekt om du har lyst på risgrøt, men ikke lyst til å stå ved komfyren og passe på at melken ikke brenner seg. Et raskt oppkok og en time i ovnen er alt som skal til. ",
-    "steps": "1. Kok opp vann i en kjele og ha i salt og ris. Kok til vannet har fordampet.  | 2. Tilsett melk og gi det et raskt oppkok mens du rører, så melken ikke brenner seg.  | 3. Sett grøten midt i ovnen med lokk på 100 °C i 75 minutter.  | 4. Ta ut grøten og rør den lett sammen med en sleiv før servering. Server grøten med smør, sukker og kanel. ",
+    "steps": [
+      "1. Kok opp vann i en kjele og ha i salt og ris. Kok til vannet har fordampet. ",
+      "2. Tilsett melk og gi det et raskt oppkok mens du rører, så melken ikke brenner seg. ",
+      "3. Sett grøten midt i ovnen med lokk på 100 °C i 75 minutter. ",
+      "4. Ta ut grøten og rør den lett sammen med en sleiv før servering. Server grøten med smør, sukker og kanel. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "4dl vann | 1ts salt | 2dl grøtris | 1l helmelk",
+    "ingredients": ["4dl vann", "1ts salt", "2dl grøtris", "1l helmelk"],
     "time": "Over 60 min",
     "difficulty": "Enkel"
   },
@@ -693,9 +1983,29 @@
     "attributes": "Middagsrett Pasta",
     "title": "Penne alla vodka ",
     "description": "Den raske pastaretten penne alla vodka eller pasta alla vodka ble en skikkelig TikTok-trend etter at modellen Gigi Hadid la sin elsk på den. En kremet pastasaus med hvitløk, tomat og spicy chiliflak. Litt vodka i pastasausen er med på å gi en aromatisert og balansert smak, men den kan også lages uten vodka.",
-    "steps": "1. Kok pasta etter anvisning på pakken i en kjele med lettsaltet vann. Pastaen er aller best når den er kokt al dente, altså myk, men fortsatt har litt tyggemotstand. Ta vare på pastavannet, da dette skal brukes i sausen.  | 2. Varm olje i en panne. Ha i sjalottløk og hvitløk og stek på middels varme til løken bli blank.  | 3. Rør inn tomatpuré og chiliflak og stek videre i et par minutter.  | 4. Ha i vodka og la sausen småputre i tre minutter. | 5. Ha i fløte og rør til du har en jevn saus. Spe med pastavann. | 6. Ha i halvparten av parmesanen, og rør til osten har smeltet. Vend inn pastaen og spe med litt mer pastavann hvis du vil ha en tynnere saus.  | 7. Topp med resten av parmesanen og litt basilikum. ",
+    "steps": [
+      "1. Kok pasta etter anvisning på pakken i en kjele med lettsaltet vann. Pastaen er aller best når den er kokt al dente, altså myk, men fortsatt har litt tyggemotstand. Ta vare på pastavannet, da dette skal brukes i sausen. ",
+      "2. Varm olje i en panne. Ha i sjalottløk og hvitløk og stek på middels varme til løken bli blank. ",
+      "3. Rør inn tomatpuré og chiliflak og stek videre i et par minutter. ",
+      "4. Ha i vodka og la sausen småputre i tre minutter.",
+      "5. Ha i fløte og rør til du har en jevn saus. Spe med pastavann.",
+      "6. Ha i halvparten av parmesanen, og rør til osten har smeltet. Vend inn pastaen og spe med litt mer pastavann hvis du vil ha en tynnere saus. ",
+      "7. Topp med resten av parmesanen og litt basilikum. "
+    ],
     "numberOfPeople": "2",
-    "ingredients": "200g pasta penne | 2ss olje | 1stk. finhakket sjalottløk | 3båter finhakket hvitløk | 100g tomatpuré | 0,5ts chiliflakes | 3ss vodka | 1dl fløte | 1dl pastavann | 50g revet parmesan | 1håndfull frisk basilikum",
+    "ingredients": [
+      "200g pasta penne",
+      "2ss olje",
+      "1stk. finhakket sjalottløk",
+      "3båter finhakket hvitløk",
+      "100g tomatpuré",
+      "0,5ts chiliflakes",
+      "3ss vodka",
+      "1dl fløte",
+      "1dl pastavann",
+      "50g revet parmesan",
+      "1håndfull frisk basilikum"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -703,9 +2013,27 @@
     "attributes": "Middagsrett",
     "title": "Torsk med bacon og gulrotstuing",
     "description": "Kokt torsk med poteter, bacon og hjemmelaget gulrotstuing er nydelig hverdagsmat. I skreisesongen kan fersk skrei serveres på samme måte.",
-    "steps": "1. Skjær fisken i porsjonsstykker. Kok opp godt med vann i en vid kjele og tilsett salt.Legg i fiskestykkene og varm opp til kokepunktet. Trekk kjelen til side, sett på lokk og la fisken trekke i ca. 8-10 minutter. | 2. Skjær bacon i terninger og stek det i en stekepanne til det er gyllent og sprøtt.  | 3. Skrell gulrøttene og del dem i terninger eller skiver. | 4. Kok gulrotbitene knapt nesten møre i lettsaltet vann. Hell av kokevannet. | 5. Dryss melet over gulrotbitene og bland raskt. | 6. Rør inn melk og kok opp under omrøring. Pass på at det ikke brenner seg i bunnen. Smak til med muskat og litt salt og pepper. | 7. Kok stuingen på svak varme til gulrøttene er møre. Tilsett litt mer melk om du synes stuingen blir for tykk. | 8. Server med kokte poteter og dryss litt hakket persille over ved servering.",
+    "steps": [
+      "1. Skjær fisken i porsjonsstykker. Kok opp godt med vann i en vid kjele og tilsett salt.Legg i fiskestykkene og varm opp til kokepunktet. Trekk kjelen til side, sett på lokk og la fisken trekke i ca. 8-10 minutter.",
+      "2. Skjær bacon i terninger og stek det i en stekepanne til det er gyllent og sprøtt. ",
+      "3. Skrell gulrøttene og del dem i terninger eller skiver.",
+      "4. Kok gulrotbitene knapt nesten møre i lettsaltet vann. Hell av kokevannet.",
+      "5. Dryss melet over gulrotbitene og bland raskt.",
+      "6. Rør inn melk og kok opp under omrøring. Pass på at det ikke brenner seg i bunnen. Smak til med muskat og litt salt og pepper.",
+      "7. Kok stuingen på svak varme til gulrøttene er møre. Tilsett litt mer melk om du synes stuingen blir for tykk.",
+      "8. Server med kokte poteter og dryss litt hakket persille over ved servering."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "800g torsk | 0,5dl salt per liter vann | 200g bacon | 500g gulrot | 2ss hvetemel | 2,5dl melk | 0,25ts malt muskat | 2ss hakket frisk persille",
+    "ingredients": [
+      "800g torsk",
+      "0,5dl salt per liter vann",
+      "200g bacon",
+      "500g gulrot",
+      "2ss hvetemel",
+      "2,5dl melk",
+      "0,25ts malt muskat",
+      "2ss hakket frisk persille"
+    ],
     "time": "20–40 min",
     "difficulty": "Middels"
   },
@@ -713,9 +2041,19 @@
     "attributes": "Middagsrett Pasta",
     "title": "Cacio e pepe",
     "description": "Dette er en enkel og rask klassisk pastarett med smak av ost og deilig pepper. I vår versjon har vi også litt smør for ekstra smak. Serveres alene som en lett lunsj eller som tilbehør til en smakfull biff eller saftig kylling.",
-    "steps": "1. Kok opp en stor kjele med vann og ha i salt. Ha pastaen i det kokende vannet. Hvis du bruker tørket pasta kan du koke den til det er 1-2 minutter igjen av koketiden, og hvis du bruker fersk pasta trenger du kun å koke den 30 sekunder- 1 minutt. Pastaen skal ikke være helt ferdig, da den også skal trekke videre i sausen. | 2. Knus hel pepper i en morter, og rist pepperet i en tørr stekepanne på middels varme til det begynner å dufte.  | 3. Ha i smør og la pepperet bruse raskt i smøret. Ha over et par spiseskjeer av pastavannet som står på kok. Skru ned temperaturen og la det småputre i ca. 1 minutt.  | 4. Ha spagettien over i stekepannen. Hell en øse av det varme pastavannet over pastaen og rør i pannen til vannet er absorbert. Fortsett å spe med pastavann til pastaen er «al-dente». Vend inn parmesan og la osten smelte inn i pastaen. Ha eventuelt i litt mer pastavann til du får en kremet saus som klistrer seg til pastaen. ",
+    "steps": [
+      "1. Kok opp en stor kjele med vann og ha i salt. Ha pastaen i det kokende vannet. Hvis du bruker tørket pasta kan du koke den til det er 1-2 minutter igjen av koketiden, og hvis du bruker fersk pasta trenger du kun å koke den 30 sekunder- 1 minutt. Pastaen skal ikke være helt ferdig, da den også skal trekke videre i sausen.",
+      "2. Knus hel pepper i en morter, og rist pepperet i en tørr stekepanne på middels varme til det begynner å dufte. ",
+      "3. Ha i smør og la pepperet bruse raskt i smøret. Ha over et par spiseskjeer av pastavannet som står på kok. Skru ned temperaturen og la det småputre i ca. 1 minutt. ",
+      "4. Ha spagettien over i stekepannen. Hell en øse av det varme pastavannet over pastaen og rør i pannen til vannet er absorbert. Fortsett å spe med pastavann til pastaen er «al-dente». Vend inn parmesan og la osten smelte inn i pastaen. Ha eventuelt i litt mer pastavann til du får en kremet saus som klistrer seg til pastaen. "
+    ],
     "numberOfPeople": "4",
-    "ingredients": "400g spagetti | 1ss hel pepper | 1ss smør | 200g parmesan eller pecorino",
+    "ingredients": [
+      "400g spagetti",
+      "1ss hel pepper",
+      "1ss smør",
+      "200g parmesan eller pecorino"
+    ],
     "time": "Under 20 min",
     "difficulty": "Enkel"
   },
@@ -723,9 +2061,23 @@
     "attributes": "Familien Middagsrett Ovnsretter",
     "title": "Tray bake med medisterpølse",
     "description": "Tray bake er en genial måte å lage middag på om du vil ha noe raskt og enkelt! Denne formen med medisterpølse er super om du har lyst på smak av jul uten å bruke timesvis på kjøkkenet. ",
-    "steps": "1. Skjær rødkål i biter, epler i skiver og sjalottløk i to på langs.  | 2. Ha rødløk, eple, sjalottløk og poteter over i en ildfast og ha over olivenolje, salt og pepper.  | 3. Sett formen midt i forvarmet ovn på 200 °C i 10 minutter.  | 4. Del medisterpølse i biter og legg over i formen. Stek i nye 10 minutter til grønnsakene er møre og medisterpølsene gjennomvarme.  | 5. Sett pannen på bordet og server med grovhakket bladpersille.",
+    "steps": [
+      "1. Skjær rødkål i biter, epler i skiver og sjalottløk i to på langs. ",
+      "2. Ha rødløk, eple, sjalottløk og poteter over i en ildfast og ha over olivenolje, salt og pepper. ",
+      "3. Sett formen midt i forvarmet ovn på 200 °C i 10 minutter. ",
+      "4. Del medisterpølse i biter og legg over i formen. Stek i nye 10 minutter til grønnsakene er møre og medisterpølsene gjennomvarme. ",
+      "5. Sett pannen på bordet og server med grovhakket bladpersille."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "0,5stk. rødkål | 2stk. eple | 8stk. sjalottløk | 400g småpoteter | 2ss olivenolje | 600g medisterpølse | 2ss bladpersille",
+    "ingredients": [
+      "0,5stk. rødkål",
+      "2stk. eple",
+      "8stk. sjalottløk",
+      "400g småpoteter",
+      "2ss olivenolje",
+      "600g medisterpølse",
+      "2ss bladpersille"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -733,9 +2085,27 @@
     "attributes": "Familien Middagsrett Ovnsretter Grillet kylling",
     "title": "Flyvende Jacob",
     "description": "Er du glad i kylling? Og banan? Og bacon? Og peanøtter? Og synes det er en knallidé å lage middag av kombinasjonen? Værsågod - her har du Flyvende Jacob: kyllinggryten som har alt, også et merkverdig navn!",
-    "steps": "1. Rens kyllingen for bein og skjær kjøttet i biter (skinnet kan godt sitte på).  | 2. Smør en ildfast form med litt olje. Legg kyllingbitene i formen og dryss over oregano.  | 3. Visp kremen og bland inn chilisaus. Fordel sausen over formen. | 4. Skrell bananene og del dem først i to på langs. Legg bananbitene oppå kyllingen. | 5. Sett formen midt i ovnen og stek den på 220 °C i ca. 20 minutter, til sausen bobler og har blitt gyllenbrun. | 6. Kutt bacon i biter og stek det i litt olje i en stekepanne til det er gyllent og sprøtt. La det renne av seg på litt kjøkkenpapir. | 7. Ta formen ut av ovnen og dryss over bacon, peanøtter og hakket persille.",
+    "steps": [
+      "1. Rens kyllingen for bein og skjær kjøttet i biter (skinnet kan godt sitte på). ",
+      "2. Smør en ildfast form med litt olje. Legg kyllingbitene i formen og dryss over oregano. ",
+      "3. Visp kremen og bland inn chilisaus. Fordel sausen over formen.",
+      "4. Skrell bananene og del dem først i to på langs. Legg bananbitene oppå kyllingen.",
+      "5. Sett formen midt i ovnen og stek den på 220 °C i ca. 20 minutter, til sausen bobler og har blitt gyllenbrun.",
+      "6. Kutt bacon i biter og stek det i litt olje i en stekepanne til det er gyllent og sprøtt. La det renne av seg på litt kjøkkenpapir.",
+      "7. Ta formen ut av ovnen og dryss over bacon, peanøtter og hakket persille."
+    ],
     "numberOfPeople": "4",
-    "ingredients": "1stk. grillet kylling eller tilsvarende mengde kyllingkjøtt | 1ss olje | 1ts tørket oregano | 2dl kremfløte | 2dl chilisaus (ketchuptypen) | 2stk. banan | 150g bacon | 100g salte peanøtter | 2ss hakket bladpersille",
+    "ingredients": [
+      "1stk. grillet kylling eller tilsvarende mengde kyllingkjøtt",
+      "1ss olje",
+      "1ts tørket oregano",
+      "2dl kremfløte",
+      "2dl chilisaus (ketchuptypen)",
+      "2stk. banan",
+      "150g bacon",
+      "100g salte peanøtter",
+      "2ss hakket bladpersille"
+    ],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -743,9 +2113,16 @@
     "attributes": "Kaker Småkaker",
     "title": "Tyske skiver",
     "description": "Tyske skiver er en av våre kjente og kjære småkaker til jul. Lag mange når du først holder på - disse forsvinner fortere enn du vet ordet av det! Dypp de gjerne i smeltet sjokolade etter de har avkjølt seg. Denne oppskriften gir ca. 40 tyske skiver. ",
-    "steps": "1. Pisk smør og sukker hvitt. | 2. Rør inn mel og legg deigen i kjøleskap til den blir hard nok til å rulle, ca. 5 minutter.  | 3. Del deigen i to og rull to like store pølser på ca. 5 cm i diameter. Føles den for myk, sett den tilbake i kjøleskapet igjen til den blir hardere.  | 4. Gjør klar to stekebrett med bakepapir. Dryss sukker på en skjærefjøl og rull deigen så sukkeret dekker hele pølsa.  | 5. Legg 10-12 skiver på et stekebrett og stek i ovnen på 175 °C i ca. 10 minutter eller til skivene begynner å få farge.  | 6. Avkjøl skivene på rist. ",
+    "steps": [
+      "1. Pisk smør og sukker hvitt.",
+      "2. Rør inn mel og legg deigen i kjøleskap til den blir hard nok til å rulle, ca. 5 minutter. ",
+      "3. Del deigen i to og rull to like store pølser på ca. 5 cm i diameter. Føles den for myk, sett den tilbake i kjøleskapet igjen til den blir hardere. ",
+      "4. Gjør klar to stekebrett med bakepapir. Dryss sukker på en skjærefjøl og rull deigen så sukkeret dekker hele pølsa. ",
+      "5. Legg 10-12 skiver på et stekebrett og stek i ovnen på 175 °C i ca. 10 minutter eller til skivene begynner å få farge. ",
+      "6. Avkjøl skivene på rist. "
+    ],
     "numberOfPeople": "1",
-    "ingredients": "300g smør | 140g sukker | 400g hvetemel | 4ss sukker",
+    "ingredients": ["300g smør", "140g sukker", "400g hvetemel", "4ss sukker"],
     "time": "20–40 min",
     "difficulty": "Enkel"
   },
@@ -753,80 +2130,19 @@
     "attributes": "Drikke",
     "title": "Hjemmelaget eplesaft",
     "description": "En frisk og deilig eplesaft som gir deg smaken av sensommer langt utover høsten. ",
-    "steps": "1. Skyll eplene og del dem i mindre biter.Legg eplebitene i en kjele og tilsett vann. Kok opp, senk varmen og la det småkoke under lokk i ca. 20 minutter. Hell alt i en sil fôret med sileklede og la det stå og renne av i minst 30 minutter, gjerne lenger. Ikke press massen, da vil saften bli uklar. | 2. Press ut saften av sitronene og bland med eplesaften.Mål opp saften og hell den tilbake i den rengjorte kasserollen. Kok opp. Mål opp sukker og rør det inn i saften sammen med sitronsyre. Kok opp på nytt. Fjern skum som danner seg på overflaten. Smak på litt av saften og juster smaken med mer sukker eller sitron. Hell den varme saften på varme, rene, tørre flasker. Skru på lokk og avkjøl helt.Oppbevar saften kjølig. Tilsett konserveringsmiddel (Atamon) hvis du ikke har plass til saften i kjøleskap. Saften kan med fordel fryses, for eksempel i rengjorte melkekartonger.Eplesaft kan også kokes i en saftkoker, eller lages ved å råpresse eplene i en fruktpresse.",
+    "steps": [
+      "1. Skyll eplene og del dem i mindre biter.Legg eplebitene i en kjele og tilsett vann. Kok opp, senk varmen og la det småkoke under lokk i ca. 20 minutter. Hell alt i en sil fôret med sileklede og la det stå og renne av i minst 30 minutter, gjerne lenger. Ikke press massen, da vil saften bli uklar.",
+      "2. Press ut saften av sitronene og bland med eplesaften.Mål opp saften og hell den tilbake i den rengjorte kasserollen. Kok opp. Mål opp sukker og rør det inn i saften sammen med sitronsyre. Kok opp på nytt. Fjern skum som danner seg på overflaten. Smak på litt av saften og juster smaken med mer sukker eller sitron. Hell den varme saften på varme, rene, tørre flasker. Skru på lokk og avkjøl helt.Oppbevar saften kjølig. Tilsett konserveringsmiddel (Atamon) hvis du ikke har plass til saften i kjøleskap. Saften kan med fordel fryses, for eksempel i rengjorte melkekartonger.Eplesaft kan også kokes i en saftkoker, eller lages ved å råpresse eplene i en fruktpresse."
+    ],
     "numberOfPeople": "1",
-    "ingredients": "2kg eple | 1,5l vann | 4stk. sitron | 3ts sitronsyre | 4dl sukker per liter avrent saft",
+    "ingredients": [
+      "2kg eple",
+      "1,5l vann",
+      "4stk. sitron",
+      "3ts sitronsyre",
+      "4dl sukker per liter avrent saft"
+    ],
     "time": "Over 60 min",
     "difficulty": "Middels"
-  },
-  {
-    "attributes": "Middagsrett",
-    "title": "Moules frites - blåskjell med pommes frites",
-    "description": "Moules frites er en klassisk og tradisjonell måte å servere blåskjell på, med røtter i Belgia og nordkysten av Frankrike. En gang fattigmannskost, i dag elsket restaurantmat som du veldig enkelt lager hjemme.",
-    "steps": "1. Skyll blåskjellene, fjern byssustråden («skjegget» på skjellene) og sjekk at alle skjellene lukker seg. Fjern tvilsomme og knuste skjell. | 2. Finhakk sjalottløk og stilkselleri. | 3. Smelt smør i en romslig kjele og fres løk og stilkselleri til det er mykt og blankt. Legg i timian og laurbærblad. Ha alle skjellene i kjelen og rør rundt. Hell på hvitvin og sett på lokk. | 4. Damp blåskjellene på høy varme til de akkurat åpner seg. Dryss over hakket persille. Bruk en stor sleiv og vend på skjellene slik at alle får litt urter og kraft.",
-    "numberOfPeople": "4",
-    "ingredients": "2kg friske blåskjell | 2stk. sjalottløk | 2stilker stilkselleri (stangselleri) | 2ss smør | 2stilker frisk timian | 1stk. laurbærblad | 2,5dl tørr hvitvin | 2ss bladpersille",
-    "time": "Under 20 min",
-    "difficulty": "Enkel"
-  },
-  {
-    "attributes": "Salater Vegetar",
-    "title": "Grillet hjertesalat med kikerter og grapefrukt",
-    "description": "Grillet hjertesalat er nydelig tilbehør til all slags grillmat - både fisk og kjøtt. Enkelt, raskt og sunt. Topp med ristede kikerter og frisk grapefruktdressing.",
-    "steps": "1. La kikertene renne godt av seg og tørk dem gjerne med litt tørkepapir. | 2. Varm en stekepanne med olje og stek kikertene til de er gylne og sprø. Krydre med litt salt og pepper. | 3. Skjær av skallet på grapefrukten slik at du også får med de hvite hinnene. Hold grapefrukten i en hånd og skjær ut fileter mellom hinnene. Del filetene i to. | 4. Press ut saften av resten av grapefrukten i en skål og bland inn sennep, honning og grovknust rosépepper. | 5. Visp inn olivenolje i en tynn stråle. Smak til med litt salt og kvernet pepper og juster med mer honning eller grapefrukt etter smak. | 6. Del salathodene i to på langs. Pensle med litt olivenolje og grill dem med snittflaten ned på direkte varme i 2 minutter. Snu dem og grill omtrent like lenge på andre siden. dryss over litt salt. Legg dem over på et fat og hell over dressingen. ",
-    "numberOfPeople": "4",
-    "ingredients": "1boks hermetiske kikerter | 2ss olje til steking | 1stk. rosa grapefrukt | 2ss flytende honning | 2ts dijonsennep | 1ts rosépepper | 0,5dl olivenolje | 3stk. hjertesalat | 1ss olje",
-    "time": "20–40 min",
-    "difficulty": "Enkel"
-  },
-  {
-    "attributes": "Middagsrett Kyllingfilet Panneretter",
-    "title": "Kylling med gul byggrisotto",
-    "description": "La bygg erstatte ris og pasta - det er både ernæringsmessig nyttig og bærekraftig, og ikke minst godt! Her har du en super middag med stekt kyllingfilet med deilig kremet byggrisotto og en frisk salsa.",
-    "steps": "1. Legg byggryn i bløt over natten eller kok dem møre etter anvisning på pakken. | 2. Ha kokte/bløtlagte byggryn i en kjele med kokosmelk, vann og gurkemeie. Rør om og kok på middels varme under lokk til all væske er kokt inn. Spe eventuelt med mer kokosmelk eller vann om du synes konsistensen blir for tykk. | 3. Legg kyllingfiletene i en skål, tilsett sennep og bland godt. La kyllingen marinere i minst 10 minutter. | 4. Finhakk løk, hvitløk og chili til salsa. Skjær paprika og tomat i små terninger. Fres løk, hvitløk, chili og paprika i olje til løken er blank. Ha i tomatterninger og buljong og la alt småkoke til det tykner. Smak til med soyasaus og sukker. | 5. Krydre kyllingfiletene med litt salt og pepper. Varm en stekepanne med olje og stek kyllingfiletene på middels varm i 2 minutter på hver side. Etterstek på lavere varme under lokk i ca. 4 minutter. | 6. Legg kyllingfiletene over på en tallerken og la dem hvile til du skal servere. | 7. Rør kraften fra stekepannen inn i salsaen og smak til med litt salt og pepper. | 8. Fres aspargesbønnene raskt i stekepannen. Krydre med litt salt og pepper. | 9. Anrett byggrynsrisotten på tallerken og legg på noen aspargesbønner. Skjær kyllingen i skiver og legg på tallerkenen. Server salsaen ved siden av.",
-    "numberOfPeople": "4",
-    "ingredients": "1ss dijonsennep | 4stk. kyllingfilet | 200g byggryn | 2,5dl kokosmelk | 1,5dl vann | 1ts gurkemeie | 1stk. løk | 3båter hvitløk | 2stk. rød chili | 2stk. tomat | 1stk. rød paprika | 2ss olje | 5ss soyasaus | 2ts sukker | 2dl grønnsakbuljong (utblandet) | 200g aspargesbønner",
-    "time": "Over 60 min",
-    "difficulty": "Middels"
-  },
-  {
-    "attributes": "Brød/bakverk Søt gjærbakst",
-    "title": "Grove boller",
-    "description": "Er du glad i saftige og gode hveteboller? Prøv disse litt sunnere bollene med grovt mel og havregryn. Nytes som dem er - eller fylt med kremost og friske bær. Du får ca. 20 boller av denne deigen. ",
-    "steps": "1. Ha mel, havregryn, sukker, kardemomme og gjær i en bakebolle. Bruker du fersk gjær kan du smuldre gjæren i bollen, eller røre den ut i melken. Alt vil ettehvert blande seg godt, så begge deler er like bra. | 2. Elt deigen i en kjøkkenmaskin i ca. 15 minutter. Du kan også elte for hånd, men vil da få en mer kompakt og tyngre deig fordi glutennettverket ikke vil utvikle seg like godt. | 3. Spe med melk (kald eller romtemperert), og hold tilbake 1/2 dl, tilsett mer melk etter hvert hvis deigen virker for fast. Elter du for hånd kan det lønne seg å lunke væsken litt. | 4. Kutt smør i terninger, og tilsett under elting. Elt deigen videre i ca. 10 minutter, til deigen blir myk og elastisk. | 5. Dekk til deigen og la heve i ca. 1 time, til dobbel størrelse. | 6. Del deigen i 20 like store emner, og trill ut til runde boller. Sett bollene på stekeplate med bakepapir. | 7. Dekk til bollene og la dem etterheve til nesten dobbel størrelse, ca. 30 minutter. | 8. Pensle bollene med egg, alternativt litt vann. | 9. Stek dem midt i ovnen på 225 °C i ca. 10 minutter eller til de er gylne. Avkjøl på rist.",
-    "numberOfPeople": "1",
-    "ingredients": "700g hvetemel | 150g fullkornsmel eller fin sammalt hvete | 150g lettkokte havregryn | 1dl sukker | 2ts malt kardemomme | 1pk gjær | 7dl melk | 150g smør | 1stk. egg til pensling",
-    "time": "Over 60 min",
-    "difficulty": "Middels"
-  },
-  {
-    "attributes": "Frokost",
-    "title": "Frokostpannekaker",
-    "description": "Lag en skikkelige digg frokost av havregrøt! Du kan enten bruke rester av havregrøt eller kjøpe ferdig. Oppskriften gir 10-12 pannekaker. ",
-    "steps": "1. Ha havregrøt i en bolle og rør inn sukker, mel, vaniljesukker, egg og melk til en passe tykk røre. Tilsett mer melk om røren virker for tykk. | 2. Stek pannekakene i en middels varm stekepanne. Snu lappene når de er gylne under og røren begynner å stivne på overflaten. Stek lappenne til de er gylne også på den andre siden. | 3. Legg ferdige lapper på en rist. Avkjøl før de spises, legges i matpakken eller fryses til senere.",
-    "numberOfPeople": "3",
-    "ingredients": "3dl havregrøt | 1ss sukker | 1dl hvetemel | 1ts vaniljesukker | 2stk. egg | 0,5dl melk | 1ss mandler | 1ss yoghurt naturell",
-    "time": "Under 20 min",
-    "difficulty": "Enkel"
-  },
-  {
-    "attributes": "Middagsrett Supper Vegetar",
-    "title": "Grønn minestronesuppe",
-    "description": "Den italienske suppen minestrone i helgrønn drakt. En fyldig og mettende vegetarisk middag som du kan variere på mange ulike måter ut fra hva du har i kjøleskapet.",
-    "steps": "1. Kok makaroni eler annen pasta etter anvisning på pakken. | 2. Skyll purre og skjær den i ca. 1 cm brede skiver. Kutt pastinakk og squash i terninger og stilkselleri i tynne skiver. Finhakk hvitløk. | 3. Varm olivenolje i en romslig kjele og fres grønnsakene i 2-3 minutter, til de begynner å bli blanke. | 4. Hell  i grønnsaksbuljong og kok opp. | 5. Skyll bønnene og ha dem i kjelen. | 6. La suppen småkoke til grønnsakene er ferdige. Tilsett kokt pasta og vend inn spinaten rett før servering, slik at den akkurat faller sammen. Smak til med litt salt og pepper. | 7. Fyll suppen i dype skåler, dryss over ristede pinjekjerner og topp med pesto og hakket persille.",
-    "numberOfPeople": "4",
-    "ingredients": "100g makaroni eller annen pasta | 1stk. purre | 1stk. pastinakk | 1stk. grønn squash | 2stilker stilkselleri (stangselleri) | 2båter hvitløk | 2ss olivenolje | 1,5l grønnsakbuljong (utblandet) | 1boks hermetiske limabønner (butter beans) | 150g frisk spinat | 40g ristede pinjekjerner | 4ss pesto | 2stilker bladpersille eller andre urter",
-    "time": "20–40 min",
-    "difficulty": "Enkel"
-  },
-  {
-    "attributes": "Middagsrett Panneretter Vegetar",
-    "title": "Grønn shakshuka",
-    "description": "Israels nasjonalrett shakshuka lages tradisjonelt med tomatsaus, egg og grønnsaker, og serveres til frokost. Vi har laget en nydelig grønn versjon, og synes den like gjerne kan serveres som lunsj eller som en lett middag.",
-    "steps": "1. Kutt vårløk og hvitløk fint. | 2. Varm en stekepanne med olje og fres vårløk, hvitløk og spisskummen til det faller sammen. Tilsett spinatbladene i omganger og fres den til den faller sammen. Tilsett aspargesbønner i biter. Grovhakk koriander og tilsett halvparten. Smak til med salt og pepper. | 3. Lag fordypninger i spinatblandingen og knekk eggene i hver sin fordypning. Senk varmen litt og sett på lokk. La pannen stå til eggene akkurat har stivnet. | 4. Smuldre fetaost grovt med fingrene og dryss den over pannen. Skjær chili i tynne skiver og dryss over sammen med chiliflak og resten av korianderen.",
-    "numberOfPeople": "2",
-    "ingredients": "2stk. vårløk | 2båter hvitløk | 1ss olivenolje | 0,5ts malt spisskummen | 200g frisk spinat | 50g aspargesbønner | 0,5bunt frisk koriander | 2stk. egg | 50g fetaost | 0,5stk. grønn chili | 0,25ts chiliflakes",
-    "time": "20–40 min",
-    "difficulty": "Enkel"
   }
 ]

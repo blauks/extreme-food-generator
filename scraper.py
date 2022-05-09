@@ -39,7 +39,7 @@ def formatSteps(rawList):
         stepText = step.get_text().replace("\n", "")
         output.append(f"{i}. {stepText}")
 
-    return " | ".join(output)
+    return output
 
 
 def formatIngredient(raw):
@@ -54,14 +54,14 @@ def extractRecipe(recipeURL):
     WebDriverWait(driver, timeout=3).until(lambda d: d.find_element(By.CLASS_NAME, "recipe-search-tags__item"))
     try:
         soup = BeautifulSoup(driver.page_source, 'html.parser')
-        attributes = " ".join([att.get_text() for att in soup.find_all(attrs={"class": "recipe-search-tags__item"})])
+        attributes = [att.get_text() for att in soup.find_all(attrs={"class": "recipe-search-tags__item"})]
         title = soup.find(attrs={"class": "article-title lp_is_start"}).get_text()
         description = soup.find(attrs={"itemprop": "description"}).find("p").get_text()
         steps = formatSteps(soup.find(attrs={"class": "recipe-steps"}).find_all(attrs={"class": "recipe-steps__item"}))
         numberOfPeople = soup.find(attrs={"id": "portionsInput"})["value"]
 
         # Matprat skal selvfølgelig drive å ha både mobil og pc HTML i samme fil, bare i tilfelle noen plutselig bytter over til mobilen deres mens de ser på oppskrifter på pcen :|
-        ingredients = " | ".join([formatIngredient(item) for item in soup.find(attrs={"class": "grid__item cm-module--white one-whole recipe-ingredients"}).find_all(attrs={"itemprop":"ingredients"})])
+        ingredients = [formatIngredient(item) for item in soup.find(attrs={"class": "grid__item cm-module--white one-whole recipe-ingredients"}).find_all(attrs={"itemprop":"ingredients"})]
         time = soup.find(attrs={"data-epi-property-name": "RecipeTime"}).get_text()
         difficulty = soup.find(attrs={"data-epi-property-name": "RecipeDifficulty"}).get_text()
 
@@ -98,7 +98,7 @@ for p in range(1, maxPage+1):
     except: pass
     print(f"...Page {p} of {maxPage} done, continuing")
     # Max for now
-    if len(recipeUrls) > 500:
+    if len(recipeUrls) > 1500:
         break
 
 
@@ -107,9 +107,6 @@ for i, url in enumerate(recipeUrls):
     try:
         recipeObject = extractRecipe(url)
         if not recipeObject == None: recipes.append(recipeObject)
-    except: pass
-    if i%10 == 0:
-        open("recipes.json", "w").write(json.dumps(recipes, indent=4, ensure_ascii=False))
-    
+    except: pass    
 
 open("recipes.json", "w").write(json.dumps(recipes, indent=4, ensure_ascii=False))
