@@ -52,24 +52,17 @@ def formatIngredient(raw):
 def extractRecipe(recipeURL):
     driver.get("https://www.matprat.no"+recipeURL)
     WebDriverWait(driver, timeout=3).until(lambda d: d.find_element(By.CLASS_NAME, "recipe-search-tags__item"))
-    try:
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        attributes = [att.get_text() for att in soup.find_all(attrs={"class": "recipe-search-tags__item"})]
-        title = soup.find(attrs={"class": "article-title lp_is_start"}).get_text()
-        description = soup.find(attrs={"itemprop": "description"}).find("p").get_text()
-        steps = formatSteps(soup.find(attrs={"class": "recipe-steps"}).find_all(attrs={"class": "recipe-steps__item"}))
-        numberOfPeople = soup.find(attrs={"id": "portionsInput"})["value"]
-
-        # Matprat skal selvfølgelig drive å ha både mobil og pc HTML i samme fil, bare i tilfelle noen plutselig bytter over til mobilen deres mens de ser på oppskrifter på pcen :|
-        ingredients = [formatIngredient(item) for item in soup.find(attrs={"class": "grid__item cm-module--white one-whole recipe-ingredients"}).find_all(attrs={"itemprop":"ingredients"})]
-        time = soup.find(attrs={"data-epi-property-name": "RecipeTime"}).get_text()
-        difficulty = soup.find(attrs={"data-epi-property-name": "RecipeDifficulty"}).get_text()
-
-        return createRecipeObject(attributes, title, description, steps, numberOfPeople, ingredients, time, difficulty)
-    except:
-        pass
-
-    return None
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    attributes = [att.get_text() for att in soup.find_all(attrs={"class": "recipe-search-tags__item"})]
+    title = soup.find(attrs={"class": "article-title lp_is_start"}).get_text()
+    description = soup.find(attrs={"itemprop": "description"}).find("p").get_text()
+    steps = formatSteps(soup.find(attrs={"class": "recipe-steps"}).find_all(attrs={"class": "recipe-steps__item"}))
+    numberOfPeople = soup.find(attrs={"id": "portionsInput"})["value"]
+    # Matprat skal selvfølgelig drive å ha både mobil og pc HTML i samme fil, bare i tilfelle noen plutselig bytter over til mobilen deres mens de ser på oppskrifter på pcen :|
+    ingredients = [formatIngredient(item) for item in soup.find(attrs={"class": "grid__item cm-module--white one-whole recipe-ingredients"}).find_all(attrs={"itemprop":"ingredients"})]
+    time = soup.find(attrs={"data-epi-property-name": "RecipeTime"}).get_text()
+    difficulty = soup.find(attrs={"data-epi-property-name": "RecipeDifficulty"}).get_text()
+    return createRecipeObject(attributes, title, description, steps, numberOfPeople, ingredients, time, difficulty)
 
 def findRecipes(pageChildren):
     for i, recipe in enumerate(pageChildren, start=1):
@@ -92,21 +85,17 @@ for p in range(1, maxPage+1):
     driver.refresh()
     WebDriverWait(driver, timeout=3).until(lambda d: d.find_element(By.ID, "recipeListResults"))
     print(len(recipeUrls))
-    try:
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        recipeUrls += findRecipeURLs(soup)
-    except: pass
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    recipeUrls += findRecipeURLs(soup)
     print(f"...Page {p} of {maxPage} done, continuing")
     # Max for now
-    if len(recipeUrls) > 1500:
+    if len(recipeUrls) > 200:
         break
 
 
 for i, url in enumerate(recipeUrls):
     print(url)
-    try:
-        recipeObject = extractRecipe(url)
-        if not recipeObject == None: recipes.append(recipeObject)
-    except: pass    
+    recipeObject = extractRecipe(url)
+    if not recipeObject == None: recipes.append(recipeObject) 
 
-open("recipes.json", "w").write(json.dumps(recipes, indent=4, ensure_ascii=False))
+open("recipesTEST.json", "w").write(json.dumps(recipes, indent=4, ensure_ascii=False))
