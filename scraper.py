@@ -1,6 +1,4 @@
 from time import sleep
-from attr import attr, attrs
-from numpy import number
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
@@ -37,7 +35,7 @@ def createRecipeObject(a, t, d, s, n, i, time, di):
 def formatSteps(rawList):
     output = []
     for i, step in enumerate(rawList, start=1):
-        stepText = step.get_text().replace("\n", "")
+        stepText = step.get_text().replace("\n", "").replace(u"\xa0", "")
         output.append(f"{i}. {stepText}")
 
     return output
@@ -56,16 +54,38 @@ def extractRecipe(recipeURL):
     attributes = [att.get_text() for att in soup.find_all(attrs={"class": "recipe-search-tags__item"})]
     title = soup.find(attrs={"class": "article-title lp_is_start"}).get_text()
     description = soup.find(attrs={"itemprop": "description"}).find("p").get_text()
-    steps = formatSteps(soup.find(attrs={"class": "recipe-steps"}).find_all(attrs={"class": "recipe-steps__item"}))
+    
+    steps = ""
+    try:
+        steps = formatSteps(soup.find(attrs={"class": "recipe-steps"}).find_all(attrs={"class": "recipe-steps__item"}))
+    except:
+        steps = formatSteps(soup.find(attrs={"class": "new-recipe-details__header new-recipe-details__header--left"}).find_next("ol").find_all("li"))
+    
     numberOfPeople = ""
     try:
         numberOfPeople = soup.find(attrs={"id": "portionsInput"})["value"]
     except:
-        numberOfPeople = soup.find(attrs={"class": "portions-label"}).get_text().strip()
+        numberOfPeople = soup.find(attrs={"class": "portions-label"})
+        if numberOfPeople == None:
+            numberOfPeople = ""
+        else:
+            numberOfPeople = numberOfPeople.get_text().strip()
+        
     # Matprat skal selvfølgelig drive å ha både mobil og pc HTML i samme fil, bare i tilfelle noen plutselig bytter over til mobilen deres mens de ser på oppskrifter på pcen :|
     ingredients = [formatIngredient(item) for item in soup.find(attrs={"class": "grid__item cm-module--white one-whole recipe-ingredients"}).find_all(attrs={"itemprop":"ingredients"})]
-    time = soup.find(attrs={"data-epi-property-name": "RecipeTime"}).get_text()
-    difficulty = soup.find(attrs={"data-epi-property-name": "RecipeDifficulty"}).get_text()
+    
+    time = soup.find(attrs={"data-epi-property-name": "RecipeTime"})
+    if time == None:
+        time = ""
+    else: 
+        time = time.get_text()
+
+    difficulty = soup.find(attrs={"data-epi-property-name": "RecipeDifficulty"})
+    if difficulty == None:
+        difficulty = ""
+    else: 
+        difficulty = difficulty.get_text()
+
     return createRecipeObject(attributes, title, description, steps, numberOfPeople, ingredients, time, difficulty)
 
 def findRecipes(pageChildren):
@@ -84,21 +104,17 @@ recipeUrls = []
 for p in range(1, maxPage+1):
     print(f"Page {p} of {maxPage} starting...")
     print(url+str(p))
-    #source = requests.get(url+str(p), cookies={"consent-set": "true", "marketing-cookies-consent": "granted", "statistics-cookies-consent": "granted", "ARRAffinity": "95e5f71f2cafafb58c0c651bc100e82035e010c66b371ba830f2463be02741ec", ".ASPXANONYMOUS": "Xy_mAmQJR9XyKdLKyD2qCkTyQlWzLw-6OjguJDZFTiww8fmLUkM0GfhQxRVDqwLfKxRJ8JpCgN4o57THNTEV1EFEEjKbm1Edb9CJP1khakEmGM8KUQhZ6mvut6zVs_G_gGLYbA2", "_ab_test": "Q+3o5ipwUEdYF2edMl0Uk3jZwd3ux3rUAFaUuWChVHvfqq7cYRcx2AE218zHUqO0xPk1wg=="}).content
-    data = json.loads(requests.get("https://www.matprat.no/api/RecipeSearch/GetRecipes?text=&page=1&sort=new", headers={'referer': url+str(p)}).content)
+    data = json.loads(requests.get(f"https://www.matprat.no/api/RecipeSearch/GetRecipes?text=&page={str(p)}&sort=new", headers={'referer': url+str(p)}).content)
     recipeUrls += findRecipeURLs(data["searchHits"])
     print(len(recipeUrls))
     print(f"...Page {p} of {maxPage} done, continuing")
 
-
 for i, url in enumerate(recipeUrls):
+    print(f"{i} of {len(recipeUrls)}: ",url)
     try:
         recipeObject = extractRecipe(url)
-        print(f"{i} of {len(recipeUrls)}: ",url)
         if not recipeObject == None: recipes.append(recipeObject) 
     except:
-        print("DIDN'T WORK, PAUSE")
-        sleep(3)
-        pass
+        print("DIDN'T WORK, NEXT ONE")
 
 open("recipesTEST.json", "w").write(json.dumps(recipes, indent=4, ensure_ascii=False))
